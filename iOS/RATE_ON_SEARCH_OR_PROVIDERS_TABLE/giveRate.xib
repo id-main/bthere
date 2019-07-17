@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SearchResultsViewController" customModule="Bthere" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="giveRate" customModule="Bthere" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PtR-i4-Jaw">
+                    <rect key="frame" x="15" y="35" width="345" height="267"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="It is important for business name to know what you think" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tM2-ex-KpB">
+                            <rect key="frame" x="10" y="15" width="325" height="56"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
+                            <color key="textColor" red="0.95686274510000002" green="0.58039215690000001" blue="0.4431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ratePopUpStarGrey.png" translatesAutoresizingMaskIntoConstraints="NO" id="RXe-cL-QJa">
+                            <rect key="frame" x="112" y="81" width="34.5" height="35.5"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ratePopUpStarGrey.png" translatesAutoresizingMaskIntoConstraints="NO" id="brX-7t-APX">
+                            <rect key="frame" x="68.5" y="81" width="34.5" height="35.5"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ratePopUpStarGrey.png" translatesAutoresizingMaskIntoConstraints="NO" id="McJ-6i-KqD">
+                            <rect key="frame" x="199" y="81" width="34.5" height="35.5"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ratePopUpStarGrey.png" translatesAutoresizingMaskIntoConstraints="NO" id="Fgs-hG-ICv">
+                            <rect key="frame" x="242.5" y="81" width="34.5" height="35.5"/>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ratePopUpStarGrey.png" translatesAutoresizingMaskIntoConstraints="NO" id="fJr-iG-8ui">
+                            <rect key="frame" x="155.5" y="81" width="34.5" height="35.5"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="fJr-iG-8ui" secondAttribute="height" multiplier="36:37" id="1nY-pG-GRs"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RoO-Eh-plU">
+                            <rect key="frame" x="155.5" y="81" width="34.5" height="35.5"/>
+                            <connections>
+                                <action selector="rateItUp:" destination="iN0-l3-epB" eventType="touchUpInside" id="hhI-9b-6BL"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NfS-Jm-s60">
+                            <rect key="frame" x="112" y="81" width="34.5" height="35.5"/>
+                            <connections>
+                                <action selector="rateItUp:" destination="iN0-l3-epB" eventType="touchUpInside" id="2zt-4P-Cbw"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P0X-2z-5z1">
+                            <rect key="frame" x="68.5" y="81" width="34.5" height="35.5"/>
+                            <connections>
+                                <action selector="rateItUp:" destination="iN0-l3-epB" eventType="touchUpInside" id="LoB-jD-L7S"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="25g-9g-Ytk">
+                            <rect key="frame" x="199" y="81" width="34.5" height="35.5"/>
+                            <connections>
+                                <action selector="rateItUp:" destination="iN0-l3-epB" eventType="touchUpInside" id="vfg-X8-tDJ"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="h8X-v0-LsH">
+                            <rect key="frame" x="242.5" y="81" width="34.5" height="35.5"/>
+                            <connections>
+                                <action selector="rateItUp:" destination="iN0-l3-epB" eventType="touchUpInside" id="Us5-yk-Ilx"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nds-5m-IoE">
+                            <rect key="frame" x="60.5" y="131.5" width="224" height="34"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                            <state key="normal" title="Remind me later">
+                                <color key="titleColor" white="0.0" alpha="0.60271297089041098" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="remindMeLater:" destination="iN0-l3-epB" eventType="touchUpInside" id="rlb-9W-7Er"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.96078431369999995" green="0.93725490199999995" blue="0.90980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="NfS-Jm-s60" firstAttribute="width" secondItem="RXe-cL-QJa" secondAttribute="width" id="1Q1-dT-eL4"/>
+                        <constraint firstItem="RoO-Eh-plU" firstAttribute="centerX" secondItem="fJr-iG-8ui" secondAttribute="centerX" id="3nR-dd-E8i"/>
+                        <constraint firstItem="P0X-2z-5z1" firstAttribute="centerX" secondItem="brX-7t-APX" secondAttribute="centerX" id="3xm-KM-OgW"/>
+                        <constraint firstItem="RoO-Eh-plU" firstAttribute="height" secondItem="fJr-iG-8ui" secondAttribute="height" id="4Sc-mV-s4o"/>
+                        <constraint firstItem="RXe-cL-QJa" firstAttribute="width" secondItem="fJr-iG-8ui" secondAttribute="width" id="4uY-Jz-2W2"/>
+                        <constraint firstItem="RXe-cL-QJa" firstAttribute="leading" secondItem="brX-7t-APX" secondAttribute="trailing" constant="9" id="51N-Oe-kCA"/>
+                        <constraint firstItem="h8X-v0-LsH" firstAttribute="height" secondItem="Fgs-hG-ICv" secondAttribute="height" id="6Mp-49-i04"/>
+                        <constraint firstItem="25g-9g-Ytk" firstAttribute="width" secondItem="McJ-6i-KqD" secondAttribute="width" id="BDX-Pp-aFU"/>
+                        <constraint firstItem="fJr-iG-8ui" firstAttribute="width" secondItem="PtR-i4-Jaw" secondAttribute="width" multiplier="0.1" id="Bfb-jy-V2C"/>
+                        <constraint firstItem="tM2-ex-KpB" firstAttribute="leading" secondItem="PtR-i4-Jaw" secondAttribute="leading" constant="10" id="FHC-C2-HFU"/>
+                        <constraint firstItem="NfS-Jm-s60" firstAttribute="centerX" secondItem="RXe-cL-QJa" secondAttribute="centerX" id="FcV-zG-H2b"/>
+                        <constraint firstItem="tM2-ex-KpB" firstAttribute="top" secondItem="PtR-i4-Jaw" secondAttribute="top" constant="15" id="FmZ-9c-MFb"/>
+                        <constraint firstItem="Fgs-hG-ICv" firstAttribute="width" secondItem="fJr-iG-8ui" secondAttribute="width" id="Gjf-k7-IXD"/>
+                        <constraint firstItem="McJ-6i-KqD" firstAttribute="leading" secondItem="fJr-iG-8ui" secondAttribute="trailing" constant="9" id="H2O-aM-lQM"/>
+                        <constraint firstItem="25g-9g-Ytk" firstAttribute="height" secondItem="McJ-6i-KqD" secondAttribute="height" id="H5v-Gn-eUs"/>
+                        <constraint firstItem="25g-9g-Ytk" firstAttribute="centerX" secondItem="McJ-6i-KqD" secondAttribute="centerX" id="LJR-8Y-bh5"/>
+                        <constraint firstItem="Nds-5m-IoE" firstAttribute="top" secondItem="RXe-cL-QJa" secondAttribute="bottom" constant="15" id="Lup-H5-eof"/>
+                        <constraint firstItem="P0X-2z-5z1" firstAttribute="height" secondItem="brX-7t-APX" secondAttribute="height" id="OdO-ac-mWJ"/>
+                        <constraint firstItem="h8X-v0-LsH" firstAttribute="centerY" secondItem="Fgs-hG-ICv" secondAttribute="centerY" id="QvT-XX-Y6f"/>
+                        <constraint firstItem="fJr-iG-8ui" firstAttribute="top" secondItem="tM2-ex-KpB" secondAttribute="bottom" constant="10" id="R1P-eL-X7a"/>
+                        <constraint firstItem="25g-9g-Ytk" firstAttribute="centerY" secondItem="McJ-6i-KqD" secondAttribute="centerY" id="SRI-sG-Ooi"/>
+                        <constraint firstItem="RXe-cL-QJa" firstAttribute="centerY" secondItem="fJr-iG-8ui" secondAttribute="centerY" id="UWX-6j-eaC"/>
+                        <constraint firstItem="brX-7t-APX" firstAttribute="centerY" secondItem="RXe-cL-QJa" secondAttribute="centerY" id="Wyq-KE-CSS"/>
+                        <constraint firstItem="RXe-cL-QJa" firstAttribute="height" secondItem="fJr-iG-8ui" secondAttribute="height" id="XXE-2z-Jys"/>
+                        <constraint firstItem="Nds-5m-IoE" firstAttribute="centerX" secondItem="PtR-i4-Jaw" secondAttribute="centerX" id="XXK-Z7-P9N"/>
+                        <constraint firstItem="NfS-Jm-s60" firstAttribute="centerY" secondItem="RXe-cL-QJa" secondAttribute="centerY" id="ZSR-TC-pXa"/>
+                        <constraint firstItem="brX-7t-APX" firstAttribute="width" secondItem="RXe-cL-QJa" secondAttribute="width" id="Zul-Pp-2Uf"/>
+                        <constraint firstItem="brX-7t-APX" firstAttribute="height" secondItem="RXe-cL-QJa" secondAttribute="height" id="aTi-Eg-SQG"/>
+                        <constraint firstItem="Nds-5m-IoE" firstAttribute="width" secondItem="PtR-i4-Jaw" secondAttribute="width" multiplier="0.65" id="bJz-RY-468"/>
+                        <constraint firstItem="McJ-6i-KqD" firstAttribute="height" secondItem="fJr-iG-8ui" secondAttribute="height" id="c2G-Fq-rt2"/>
+                        <constraint firstItem="RoO-Eh-plU" firstAttribute="width" secondItem="fJr-iG-8ui" secondAttribute="width" id="dGO-ak-G7a"/>
+                        <constraint firstItem="RoO-Eh-plU" firstAttribute="centerY" secondItem="fJr-iG-8ui" secondAttribute="centerY" id="dtD-hF-OiN"/>
+                        <constraint firstItem="McJ-6i-KqD" firstAttribute="width" secondItem="fJr-iG-8ui" secondAttribute="width" id="fMC-up-UBc"/>
+                        <constraint firstItem="Fgs-hG-ICv" firstAttribute="height" secondItem="fJr-iG-8ui" secondAttribute="height" id="g4H-Of-JdO"/>
+                        <constraint firstItem="fJr-iG-8ui" firstAttribute="leading" secondItem="RXe-cL-QJa" secondAttribute="trailing" constant="9" id="hrP-fu-nUq"/>
+                        <constraint firstItem="Fgs-hG-ICv" firstAttribute="centerY" secondItem="fJr-iG-8ui" secondAttribute="centerY" id="jy1-Ks-4hv"/>
+                        <constraint firstItem="fJr-iG-8ui" firstAttribute="centerX" secondItem="PtR-i4-Jaw" secondAttribute="centerX" id="kPZ-sB-MR8"/>
+                        <constraint firstItem="P0X-2z-5z1" firstAttribute="width" secondItem="brX-7t-APX" secondAttribute="width" id="l4g-g9-Dxz"/>
+                        <constraint firstItem="h8X-v0-LsH" firstAttribute="centerX" secondItem="Fgs-hG-ICv" secondAttribute="centerX" id="miJ-uj-61W"/>
+                        <constraint firstItem="P0X-2z-5z1" firstAttribute="centerY" secondItem="brX-7t-APX" secondAttribute="centerY" id="n9c-qE-eRh"/>
+                        <constraint firstAttribute="trailing" secondItem="tM2-ex-KpB" secondAttribute="trailing" constant="10" id="nj1-Ya-yKq"/>
+                        <constraint firstItem="h8X-v0-LsH" firstAttribute="width" secondItem="Fgs-hG-ICv" secondAttribute="width" id="np2-pJ-a2p"/>
+                        <constraint firstItem="Fgs-hG-ICv" firstAttribute="leading" secondItem="McJ-6i-KqD" secondAttribute="trailing" constant="9" id="oUk-ep-oVM"/>
+                        <constraint firstItem="NfS-Jm-s60" firstAttribute="height" secondItem="RXe-cL-QJa" secondAttribute="height" id="uru-hM-XV3"/>
+                        <constraint firstItem="McJ-6i-KqD" firstAttribute="centerY" secondItem="fJr-iG-8ui" secondAttribute="centerY" id="yA3-N4-hGb"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.63794948630136983" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="PtR-i4-Jaw" secondAttribute="trailing" constant="15" id="YM8-ZO-GSY"/>
+                <constraint firstItem="PtR-i4-Jaw" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="15" id="mnz-XF-ZUd"/>
+                <constraint firstItem="PtR-i4-Jaw" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="15" id="qd8-2K-kJt"/>
+                <constraint firstItem="PtR-i4-Jaw" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" multiplier="0.4" id="rmq-2z-e5A"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="fiveStarsBtn" destination="h8X-v0-LsH" id="8tK-jZ-Bkb"/>
+                <outlet property="fiveStarsImg" destination="Fgs-hG-ICv" id="bwV-Gr-Ouf"/>
+                <outlet property="fourStarsBtn" destination="25g-9g-Ytk" id="I6H-VA-aoX"/>
+                <outlet property="fourStarsImg" destination="McJ-6i-KqD" id="cUW-U8-ni1"/>
+                <outlet property="oneStarBtn" destination="P0X-2z-5z1" id="Yk1-F8-G6x"/>
+                <outlet property="oneStarImg" destination="brX-7t-APX" id="G28-g7-emv"/>
+                <outlet property="remindMeBtn" destination="Nds-5m-IoE" id="wSn-Ns-DTP"/>
+                <outlet property="threeStarsBtn" destination="RoO-Eh-plU" id="B1g-1m-j9m"/>
+                <outlet property="threeStarsImg" destination="fJr-iG-8ui" id="8D0-1s-G8e"/>
+                <outlet property="titlePopUp" destination="tM2-ex-KpB" id="szf-ol-FLr"/>
+                <outlet property="twoStarsBtn" destination="NfS-Jm-s60" id="x2F-md-p2p"/>
+                <outlet property="twoStarsImg" destination="RXe-cL-QJa" id="lbw-2I-pdm"/>
+            </connections>
+            <point key="canvasLocation" x="53.600000000000001" y="259.52023988005999"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ratePopUpStarGrey.png" width="256" height="256"/>
+    </resources>
+</document>

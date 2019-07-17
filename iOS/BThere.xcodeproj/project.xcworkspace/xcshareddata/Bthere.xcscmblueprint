@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B1D1824FFD7AF65A3A98B782279E33BF2B7E7045+++E8D1BA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++518B78C" : 0,
+    "B1D1824FFD7AF65A3A98B782279E33BF2B7E7045+++E8D1BA7" : 9223372036854775807,
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++C49888E" : 0,
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++ECE2DA6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39EFBC8A-001B-4AE0-A75D-A0B5744EB037",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++518B78C" : "Bthere\/",
+    "B1D1824FFD7AF65A3A98B782279E33BF2B7E7045+++E8D1BA7" : "iOS\/",
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++C49888E" : "bthree-ios.git%202\/",
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++ECE2DA6" : "Bthere\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BThere",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BThere.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Tami_wexelbom\/bthree-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++518B78C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Tami_wexelbom\/bthree-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++C49888E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Tami_wexelbom\/bthree-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "184BF547A8C79C5DE52FB0AADEBA7487B6841978+++ECE2DA6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bthere-technologies\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1D1824FFD7AF65A3A98B782279E33BF2B7E7045+++E8D1BA7"
+    }
+  ]
+}

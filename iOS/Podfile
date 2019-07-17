@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+target 'Bthere' do
+    use_frameworks!
+    pod 'NVActivityIndicatorView'
+    pod 'Font-Awesome-Swift'
+    pod 'MarqueeLabel/Swift'
+    pod 'PhoneNumberKit', '~> 2.6'
+    pod 'MGSwipeTableCell'
+    pod 'Siren', :git => 'https://github.com/ArtSabintsev/Siren.git', :branch => 'swift3.2'
+pod 'FacebookCore'
+pod 'FacebookLogin'
+pod 'FacebookShare'
+pod 'GoogleAnalytics'
+pod 'Kronos'
+pod 'Firebase/Core'
+pod 'IQKeyboardManagerSwift'
+# pod 'GooglePlacesSearchController'
+pod 'Firebase/Analytics'
+pod 'Firebase/Performance'
+pod 'Fabric'
+pod 'Crashlytics'
+end

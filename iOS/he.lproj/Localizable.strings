@@ -1,0 +1,1172 @@
+/*
+ Localizable.strings
+ bthree-ios
+ 
+ Created by Tami wexelbom on 2/16/16.
+ Copyright © 2016 Webit. All rights reserved.
+ */
+
+//MARK: - entranceViewController
+/*
+ Localizable.strings
+ bthree-ios
+ 
+ Created by Tami wexelbom on 2/16/16.
+ Copyright © 2016 Webit. All rights reserved.
+ */
+
+//MARK: - entranceViewController
+SEARCH_SERVICE_DOMAIN = "חפש נותן שירות או תחום";
+LOGIN ="כניסה לרשומים";
+ADVANTAGED_SEARCH = "חיפוש מתקדם";
+ADVERTISINGS = "מבזקים וחדשות שעוברים : בתי עסק חדשים, מבצעים שווים...";
+OK = "אישור";
+CANCEL = "ביטול";
+YES = "כן";
+NO = "לא";
+HOURS = "שעות";
+MINUTES = "דקות";
+SAVE_BTN = "שמור";
+
+
+//MARK: - הרשמה
+ADDRESS_CITY ="כתובת:";
+POPUP_FB_GOOGLE = "לחיצה על אישור תמחוק את הנתונים שהקשת ותחליפם בחדשים.";
+
+CONTINUE = "המשך";
+FIRSTNAME_LBL = "שם מלא";
+L_NAME = "שם משפחה*";
+LOGIN_TITLE = "הרשמה";
+FULLNAME_LBL = "שם פרטי ושם משפחה*";
+PHONE_LBL = "טלפון*";
+DATEBURN_LBL = "תאריך לידה";
+EMAIL_LBL = "אימייל*";
+IMAGEUPLOAD_LBL = "העלאת תמונה";
+QUICKREGISTERWITH = "רישום מהיר באמצעות";
+ORFILLNEXTDETAILS = "";
+REQUIREFIELD = "שדה חובה*";
+READCONDITIONOK = "אני מסכים ל";
+TERMSOFUSE = " תנאי שימוש ";
+AGREE_GET_ADVERTISEMENTS = "אני מסכים לקבל מידע פרסומי";
+MESSAGE = "חדש! תשלום ישיר לספק. לא הגעת? לא שילמת!";
+REGISTER_BTN = "הרשמה";
+PAYMENTSDETAILSQUESTION = "האם ברצונך להשאיר פרטי תשלום?";
+
+//MARK: - RegisterViewController
+FIRST_NAME = "שם מלא";
+LAST_NAME = "שם משפחה";
+PHONE_NUMBER = "מספר טלפון";
+MAIL_USER = "אימייל";
+MAIL = "אימייל";
+REGULATION = "לתקנון";
+ADD_ASS_BUSINESS = "והוסף את העסק שלך ל";
+SYNC_CALENDAR = "שיקוף יומן מכשיר";
+//validation
+ENTER_TEN_DIGITS = "נא להכניס מס' טלפון נייד תקין בן 10 ספרות";
+MAX_CHR_NAME = "ניתן להציג עד 100 תווים";
+MAX_CHR_EMAIL = "ניתן להציג עד 100 תווים";
+
+//MARK: - RgisterModelViewController
+BUSINESS_DETAILS = "פרטי העסק";
+GLOBAL_DATA = "פרטים כלליים";
+NOTIFICATIONS = "התראות";
+BUSINESS_PROPHIL = "פרופיל עסקי";
+SYNC_WITH_CONTACTS = "אשר אנשי קשר";
+PAYMENT = "תשלום";
+MESSAGE_TITLE = "הודעה";
+EXIT_REGISTER = "האם אתה בטוח שברצונך לצאת מהרשמת ספק?";
+ERROR_REGISTER = "היתה בעיה בהרשמתך כספק";
+ERROR_UPDATE_GENERAL_DETAILS = "אירעה שגיאה במהלך עדכון הפרטים הכלליים";
+
+
+
+//PopUpWorkingHours
+POP_UP_WORKING_HOURS_TITLE = "שעות פעילות";
+
+//MARK: - RegisterPaymentPage7ViewController
+PAYMENT_CREDIT_CARD = "תשלום באמצעות כרטיס אשראי";
+CARD_OWNER_NAME = "שם בעל הכרטיס";
+CARD_TYPE = "סוג כרטיס";
+CARD_NUM = "מספר כרטיס";
+CARD_VALIDITY = "תאריך תפוגה";
+BACK_DIGITS = "CVV"; // "3 ספרות בגב הכרטיס";
+OK_PAY = "אישור ותשלום";
+MONTH = "חודש";
+YEAR = "שנה";
+CARD_TYPE_NAME = "ויזה";
+
+//MARK: - RegulationViewController
+REG_TITLE = "תקנון";
+
+//MARK: - MessageVerificationViewController
+SUCCESS_SAVECHANGES = "הפרטים האישיים שלך הועלו בהצלחה";
+SUCCESS_SAVECHANGES = "פרטיך התעדכנו בהצלחה";
+MESSAGE_VERIFICATION = "קוד אימות";
+ILLEGAL_VERIFICATION = " קוד האימות שגוי.\n לאחר 3 נסיונות האפליקציה תסגר";
+PASSWORD_NOT_ENTERD = "לא הוכנסה סיסמה";
+SEND_AGAIN = "שלח שוב";
+ENTER_VERIFICATION = "הזן את הקוד שנשלח למכשיר";
+NOT_GET_VERIF = "לא קיבלתי את הקוד";
+
+//MARK: - GlobalDataViewController
+DOMAIN = "תחום*"; 
+HOURS_ACTIVITY = "שעות פעילות*";
+ADD_WORKERS = "הוסף עובדים";
+//SERVICE_PRODUCT = "*מוצרים ושירותים";
+//SERVICE_PRODUCT = "שירות *";
+SERVICE_PRODUCT = "שירותים *";
+TURN_SETTINGS = "הגדרות תורים";
+//validation
+ILLEGAL_HOURS = "שעות פעילות אינן חוקיות";
+NO_HOUR = "not set a start time";
+
+//MARK: - itemInSection3
+HOURS_ACTIVE = "שעות פעילות";
+EQUAL_HOURS = "האם שעות פעילות העובד זהות לאלו של העסק?";
+ADD_WORKER = "הוסף עובד";
+
+//MARK: - HoursActiveTableViewCell
+RECESS = "הפסקות";
+//validation
+CANT_SELECT_ALL_DAYS_BEFORE_RECESS = "לא ניתן לסמן את כל הימים לפני בחירת הפסקות לאחד הימים";
+CANT_SELECT_ALL_DAYS_BEFORE_HOURS = "לא ניתן לסמן את כל הימים לפני בחירת שעות לאחד הימים";
+CHOOSE_ALL = "בחר הכל";
+//MARK: - RecessesTableViewCell
+ADD_RECCESS = "הוסף הפסקות";
+
+//MARK: - AddNewServiceTableViewCell
+//JMODE
+ADD_SERVICE_PRODUCT = "הוסף שירות/מוצר";
+
+//ADD_SERVICE_PRODUCT = " ";
+//MARK: - GlobalDetailsTableViewController
+BUSINESS_DOMAIN = "תחום העסק";
+LEADING_SENTENCE = "משפט מוביל";
+ACTIVE_HOURS = "שעות פעילות";
+WORKER_DETAILS = "פרטי עובדים";
+BUSINESS_SERVICE = "שרותי העסק";
+CALENDAR_SETTINGS = "הגדרות יומנים";
+
+//MARK: - HoursActiveTableViewCell
+ALLDAYS = "א׳-ש׳:";
+
+//validation
+NAME_ERROR = "שם שגוי";
+MAIL_ERROR = "כתובת שגויה";
+PHONE_ERROR = "מספר שגוי";
+PHONE_ERROR2 = "מספר הטלפון לא קיים במערכת";
+ERROR = "ישנם שדות חסרים או שגויים";
+ERROR_EMPTY = "נא למלא שדות חובה";
+MAIL_EXIST = "כתובת המייל קיימת במערכת";
+PHONE_EXIST = "מספר הטלפון כבר קיים במערכת";
+MAIL_VALID = "חובה להכניס כתובת אימייל תקינה*";
+FAX_VALId = "יש להכניס מספר פקס תקין עד 9 תוים";
+ENTER_NINE_CHAR = "יש להכניס 9 ספרות בלבד";
+ADDRESS_DONT_CONTAIN_NUMBER ="חייב לכלול מספר רחוב";
+
+//MARK: - BusinessDetailsViewController
+BUSINESS_DETAILS_TITLE = "פרטי העסק";
+BACK = "חזור";
+BUSINESS_NAME = "שם העסק*";
+ID = "ת.ז. / ח.פ.*";
+ADDRES = "כתובת*";
+PHONE = "טלפון*";
+FAX = "פקס";
+SITE = "אתר";
+EMAIL = "אימייל*";
+SOCIAL_NETWORKS = "רשתות חברתיות";
+CLICK_ON_ICON_TO_SYNC = "לחץ על האייקון לסנכרון";
+SAVE = "שמור והמשך";
+CONTINUE = "המשך";
+REQUIRED_FIELD = "שדה חובה*";
+ID_TZ = "ח.פ/ת.ז";
+CITY = "עיר*";
+PHONE_BUSINESS = "טלפון*";
+
+
+//MARK: - ViewBusinessViewController
+SENT_REVIEW_SUCCESS = "תודה על חוות דעתך";
+
+//MARK: - NotificationsViewController
+MEETING_UPDATES = "עדכונים על תורים";
+TEN_MINUTES_BEFORE_MEETING = "10 דקות לפני התור";
+FOLLW_CUSTOMERS = "מעקב אחר לקוחות";
+CUSTOMERS_EVENTS = "אירועי לקוחות";
+KIND_NOTIFICATION = "סוג ההודעה";
+FREQUNCY = "תדירות";
+KIND_UPDATE = "סוג עדכון";
+TIME_BEFORE_EVENT = "זמן התראה לפני שעת האירוע";
+POPUP = "הודעות פופ-אפ";
+
+//MARK: - ContactSyncViewController
+SELECT_ALL = "בחר הכל";
+CHOOSE_CUSTOMER = "בחר את הלקוחות מתוך רשימת אנשי הקשר";
+
+//MARK: - PopSyncContactViewController
+WYH_SYNC = "למה לאשר אנשי קשר?";
+SYNC_REASON1 = "הלקוחות שלך מתווספים מאנשי הקשר שלך- כל איש קשר מאושר נכנס למאגר הלקוחות שלך, מתעדכן שהצטרפת";
+SYNC_REASON = "הלקוחות שלך מתווספים מאנשי הקשר שלך- כל איש קשר מאושר נכנס למאגר הלקוחות שלך, מתעדכן שהצטרפת לBTHERE ומאותו הרגע הוא יכול בכל עת לקבוע תור ליומן שלך, בקלות ובמהירות. אל דאגה, הרשימה הזאת מאובטחת ובכל רגע ניתן להסיר כל לקוח מהמאגר.";
+
+//MARK: - ExistingUserViewController
+NAME_USER = "שם משתמש";
+PASSWORD_USER = "סיסמה";
+BTN_CONNECT = "התחבר";
+EXISTS_USER = "הכנס מספר טלפון";
+//----
+PHONE_USER = "טלפון";
+
+//MARK: - //\\PrintCalendarViewController
+//MARK: - //\\PrintCalendarViewController
+print_TITLE = "הדפס יומן";
+FROM_DATE = "מתאריך";
+TO_DATE = "עד תאריך";
+DESIGN = "תצוגה";
+
+//MARK: - MenuTableViewController
+MY_CALENDAR = "יומן";
+MY_GIVESERVICE = "העסקים שלי";
+SETTINGS = "הגדרות";
+ABOUT_US = "אודותינו";
+REGISTER_BUSINESS = "רישום לעסקים";
+print = "הדפס";
+LOG_OUT = "התנתק";
+BUSINESS_PAGE = "פרופיל עסקי";
+CUSTOMERS = "לקוחות";
+REPORTS = "דוחות";
+
+
+//MARK: - AdvantageSearchViewController
+
+SUBJECT = "תחום";
+AREA = "איזור";
+DESIRED_DATE = "תאריך רצוי";
+RANGE_HOURS = "טווח שעות";
+SEARCH = "חפש";
+SUBJECT_PLACE_HOLDER = "חפש תחום";
+AREA_PLACE_HOLDER = "חפש איזור";
+//validation
+ILLEGAL_DOMAIN = "תחום אינו תקין";
+NOT_DATA_TO_SEARCH = "לא הוזנו נתונים לחיפוש";
+NO_SUPPLIERS_MATCH = "לא נמצאו ספקים מתאימים לחיפוש שלך";
+
+//MARK: - WelcomeAlertViewController
+WELCOME = "ברוכים הבאים ל";
+OPEN_CALENSER1 = "לפתיחת יומן ופרופיל עסקי,";
+OPEN_CALENSER2 = "נא מלאו את הפרטים הבאים.";
+
+
+//MARK: - דף פרופיל עסקי:RegisterBuisnessProphielViewController
+HOURS_WORK = "שעות פעילות";
+SLOGEN = "סלוגן";
+FOR_TOR = "לקביעת תור";
+ABOUT = "אודות";
+OPINION = "חוות דעת";
+UPLOAD_CAMPAIGN = "העלאת מבצע";
+THANK = "תודה, אשמח לראותך";
+LOGO = "לוגו";
+ATTACH_PHOTO = "צרף תמונה מאלבום התמונות";
+TAKE_PICTURE = "צלם תמונה";
+PICTURE = "תמונה";
+ABOUT_BUSINESS = "אודות בית העסק";
+SAVE_CONTINU = "שמור והמשך";
+CAMPAIGN = "מבצע";
+NOT_VALID = "לא תקין";
+USE_IMAGE = "בחר";
+CHOOSE_IMAGE = "בחר תמונה";
+LOOK = "צפה בגלריה ";
+VOTERS = "מדרגים";
+UPLOAD_COMPANY_LOGO = "הוסף את לוגו החברה";
+COMPANY_SLOGAN = "הסלוגן של החברה ...";
+UPLOAD_COMPANY_PROFILE_PHOTO = "הוסף את תמונת פרופיל חברה";
+//MARK: - RegisterContactsPage6
+
+SYNC_CONTACTS = "האם לבצע סנכרון מרשימת אנשי הקשר שבמכשירך?";
+AUTOMATIC_APPROVAL = "בצע אישור אוטומטי של כל אנשי הקשר";
+SYNC_EXPLAIN = "הסבר על סינכרון עם אנשי קשר. תצטנפל בלינדו למרקל אס לכימפו, דול, צוט ומעיוט - לפתיעם  ברשג - ותליעום גדיש. לת צשחמי צח בליא מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי  בלוף קינץ תתיח לרעח. לת צשחמח צש בליא.קוויז דומורק ולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח. עמחליף לפרומי בלוף קינץ תתיח לרעח. ליאמום בלינך רוגצה. לפמעט.";
+APPROVAL_ALL = "האם לאפשר לכל אנשי הקשר ממכשירך להיות לקוחותיך?";
+ASK_FOR_SYNC = "האם תרצה לבחור באופן ידני את לקוחותיך מתוך רשימת אנשי הקשר שבמכשירך?";
+
+//MARK: - PaymentMethodViewController
+//jmode PAYMENT_BY = "תשלום באמצעות";
+PAYMENT_BY = "";
+PAYMENT_METHOD_EXPLAIN = "הסבר מפורט על התשלומים לאפליקציה. תצטנפל בלינדו למרקל אס לכימפו, דול, צוט ומעיוט - לפתיעם  ברשג - ותליעום גדיש. לת צשחמי צח בליא מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי  בלוף קינץ תתיח לרעח. לת צשחמח צש בליא.קוויז דומורק ולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח. עמחליף לפרומי בלוף קינץ תתיח לרעח. ליאמום בלינך רוגצה. לפמעט.";
+
+
+//MARK: - PopUpOrderDetailsViewController
+
+THANKS = "תודה רבה";
+YOUR_REQUEST_SENT = "בקשתך נשלחה ל";
+TO_APPROVAL = "לאישור";
+F_NAME = "(שם פרטי)";
+PROVIDER_NAME = "(שם הספק) ";
+
+//MARK: - NewTurnViewController
+
+NEW_TURN_TITLE = "תור חדש";
+COSTUMER = "לקוח";
+SERVICE_PROVIDER = "נותן השירות";
+SERVICE_TYPE = "סוג השירות";
+DATE = "תאריך";
+HOUR = "שעה";
+REMARK = "הערות";
+MAKE_APPOINTMENT = "קבע תור";
+SEND_MESSAGE = "שלח הודעת אישור ללקוח";
+
+
+OPEN_CAMERA = "צלם תמונה";
+OPEN_ALBUM = "צרף תמונה מאלבום התמונות";
+READING_ARTICLE_NOT_FILLED = "חובה לאשר את קריאת התקנון";
+
+//MARK: - NavigationModelViewController
+NOT_SUPPLIER_REGISTER = "אינך רשום כספק";
+NAME_BUSINESS = "שם העסק";
+NAME_CUSTOMER = "שם הלקוח";
+
+//MARK: - BussinesServicesTableViewCell
+PRODUCT = "מוצר";
+SERVICE = "שירות";
+//SERVICE_PRODUCT = "שירות/מוצר";
+CUT_HAIR = "תספורת";
+HAIR_DO = "תסרוקת";
+LEVEL = "דירוג";
+CHOOESE_SERVICE_PRDUCT = "בחר שם שירות/מוצר";
+PRICE = "מחיר(שח)";
+SHOW_PRICE = "הצג מחירון";
+DURING_TIME = "(דקות) משך זמן";
+NUM_IN_PARALLEL = " מספר לקוחות במקביל";
+TIME_SPACE = "מרווח זמן ביו התורים (דקות)";
+DISCOUNT_ENTER_SOME_TURN = "הנחה עבוד סדרת תורים/ מוצרים ";
+CHOSE_PRODUCT_NAME = "בחר שם מוצר";
+CHOOSE_SERVICE_NAME = "בחר שם שירות";
+PRODUCT_NAME = "שם המוצר";
+SERVICE_NAME = "שם השירות";
+DISCOUNT_ORDRER_MORE_PRODUCTS = "הנחה עבוד סדרת תורים/ מוצרים ";
+//validation
+ENTER_ONLY2_CHARACTERS = "ניתן להכניס עד 2 תוים";
+ENTER_ONLY3_CHARACTERS = "ניתן להכניס עד 3 תוים";
+ENTER_ONLY6_CHARACTERS = "ניתן להכניס עד 6 תוים";
+ENTER_ONLY30_CHARACTERS = "ניתן להכניס עד 30 תוים";
+ENTER_ONLY25_CHARACTERS = "ניתן להכניס עד 25 תוים";
+ENTER_ONLY22_CHARACTERS = "ניתן להכניס עד 22 תוים";
+ENTER_ONLY10_CHARACTERS = "ניתן להכניס עד 10 תוים";
+//MARK: - personalDetailsViewController
+NAME_PD = "שם*";
+LAST_NAME_DP = "שם משפחה*";
+MAIL_DP = "מייל";
+MARRIAGE_DATE = "יום נישואין";
+ERROR_FNAME = "שם פרטי אינו תקין";
+ERROR_LNAME = "שם משפחה לא תקין";
+CALENDAR_DESIGN = "תצוגת לוח שנה";
+PERSONAL_DETAILS_TITLE = "פרטים אישיים";
+VALID_FIELDS = "אנא הוסף ערכים חוקיים בשדות";
+
+//MARK: - ServicesTableViewCell
+MORE_INFORMATION = "מידע נוסף";
+MULTIPLE_SELECT = "בחירה מרובה";
+ORDER = "הזמן";
+ORDER_MARKED = "הזמן מסומנים";
+NO_RESOLTS = "לא נמצאו תוצאות";
+
+
+//MARK: - giveMyServiceTableViewCell
+DELETE = "מחק";
+NAVIGATE = "נווט";
+
+//MARK: - smallGiveMyServicesCollectionViewCell
+DELETE_GIVE_SERVICE = "?האם אתה בטוח שברצונך להסיר נותן שירות זה";
+NO_SERVICES = "לא נמצאו שירותים לספק זה";
+
+//MARK: - MyCostumersViewController
+SEARCH_CUSTOMER = "חיפוש לקוחות";
+MY_CUSTOMERS ="הלקוחות שלי";
+//MARK: - AppointmentTableViewCell
+DETAILS_TURN = "פרטי התור";
+CANCEL_TURN = "ביטול התור";
+
+//MARK: - SearchResultsViewController
+NO_AVAILABLE_LOCATION = "גישה למיקום שלך לא מאופשרת";
+OPEN_LOCATION_SETTINGS = "פתיחת הגדרות מיקום";
+SEARCH_RESULT = "תוצאות חיפוש";
+CHANGE_LOCATION = "שנה מיקום";
+DISTANCE = "מרחק";
+ORDER_BY = "מיון לפי";
+
+//MARK: - SearchResultsTableViewCell
+TO_BUSINESS_PAGE = "לדף העסק";
+
+//MARK: - ChooseWorkerTableViewController
+NO_GIVES_SERVICE = "לא נמצאו נותני שירות לספק זה";
+
+//MARK - ServiceInListTableViewCell
+DELETE_SERVICE = "האם אתה בטוח שברצונך למחוק שירות זה?";
+
+//MARK: - BigServiceCollectionViewCell
+MINUTES = "דק׳";
+
+//MARK: - langForClientViewController
+LANG_CHANGE_NEXR_ENTRANCE = "השפה תשתנה בכניסה הבאה לאפליקציה";
+LANG = "Language";
+
+//MARK: - MenuTableViewController
+REGISTERED_AS_BUSINESS = "אתה כבר מחובר בתור בעל עסק";
+
+///MARK: - NewEventViewController
+NEW_EVENT = "אירוע אישי";
+EVENT_NAME = "שם האירוע";
+DATE = "תאריך";
+HOUR = "שעה";
+NOTES = "הערות";
+SET_EVENT = "קבע אירוע";
+SUCCESS_NEW_EVENT = "האירוע נקבע בהצלחה";
+//validation
+FILL_ALL_DATA = "הזן את נתונים החסרים";
+ILLEGAL_HOURS = "השעות שנבחרו אינן חוקיות";
+NO_HOUR = "לא נקבעה שעת התחלה";
+//MARK: - NewEventRemarkTableViewCell
+ENTER_TEXT = "הכנס טקסט";
+
+//MARK: - notificationsForDefinationsViewController
+DISCOUNT_MINUTE_90 = "הצעות של הרגע האחרון";
+MINUTES_BEFORE_MEETING_20 = "20 דקות לפני הפגישה";
+OK_FROM_BUSINESS = "אישורים מעסקים";
+UPDATE_WAIT_TURN = "עדכוני רשימת המתנה";
+UPDATES_NEWS = "חדשות ועדכונים";
+
+SUCCESS_SETTINGS = "הגדרת ההתראות נשמרה בהצלחה";
+ERROR_SAVE = "קיימת בעיה בשמירת הנתונים";
+
+//MARK: - noTurnViewController
+SUCCESS_TURN = "התור נקבע בהצלחה";
+NO_TURN = "לא נמצא תור פנוי";
+SUCCESS_ADD_TO_WAIT_LIST = "נרשמת בהצלחה לרשימת ההמתנה";
+NO_TURN_AS_ASK = "אין תור פנוי התואם את בקשתך";
+WHAT_TO_DO = "מה ברצונך לעשות?";
+ENTER_TO_WAIT_LIST = "הכנס לרשימת המתנה";
+NEAR_TURNS = "תורים פנויים קרובים";
+CHANGE_DAY = "החלף יום";
+OTHER_SUPPLIER = "חפש ספק אחר";
+
+//MARK: - WorkerInListTableViewCell
+DELETE_WORKER = "האם אתה בטוח שברצונך למחוק עובד זה?";
+
+//MARK: - MyWaitingListViewController
+NO_TURNS_INMYLISTWAITING = "לא קיימים תורים ברשימת ההמתנה שלך";
+
+
+
+//MARK: - entranceCustomerViewController
+NO_RESULTS = "לא קיימות תוצאות המתאימות לחיפוש";
+ENTER_ONLY120_CHARACTERS = "ניתן להכניס עד 120 תוים";
+ENTER_ONLY160_CHARACTERS = "ניתן להכניס עד 160 תוים";
+
+//MARK: - ListServicesViewController
+WANT_ORDER = "אני רוצה להזמין";
+NOT_CARE = "לא משנה לי";
+SERIES_TURNS = "סדרה של פגישות";
+GIFT_CARD = "שובר מתנה";
+KILOMETER_FROM_YOU = "ק״מ ממיקומך";
+
+//MARK: - ModelCalendarForAppointmentsViewController
+REGISTER_NOW = "לשם קביעת התור, נדרש לעבור תהליך רישום לאפליקציה";
+CHOOSE_GIVE_SERVICE = "בחר איש צוות";
+
+//MARK: - CalenderSettingTableViewCell
+DAY_DESIGN = "תצוגת יום";
+WEEK_DESIGN = "תצוגת שבוע";
+MONTH_DESIGN = "תצוגת חודש";
+LIST_DESIGN = "תצוגת רשימה";
+MAX_CHAR = "מקסימום 100 תווים";
+LIMIT_TURNS = "האם ברצונך להגביל את סדרת התורים שהלקוח יכול להזמין?";
+NUM_TURNS_MEETINGS = "מספר פגישות";
+DURATION_TURNS = "משך תקופת סדרת התורים(בשבועות)";
+
+//MARK: - NewAppointmentClientViewController
+NO_SELECTED_SUPPLIER = "אנא בחר ספק תחילה";
+
+//MARK: - PopUpDetailsAppointmentViewController
+THX = "תודה רבה";
+ASK_SEND_TO_GIVE_SERVICE = "התור נקבע בהצלחה";
+ASK_SEND = "התור נקבע בהצלחה";
+TO_OK = "לאישור";
+
+//MARK: - RecordDesignedViewController
+NO_EVENTS = "לא נמצאו תורים";
+
+//MARK: - detailsAppointmetClientViewController
+DETAILS_APPOINTMENT_TITLE = "פרטי הזמנה";
+DETAILS_APPOINTMENT = "פרטי ההזמנה";
+DETAILS_MEETING = "פרטי פגישה";
+THX_REGISTERED = "תודה שנרשמת! לצערינו בזמן הזה, התור שבקשת נקבע כבר על ידי לקוח קיים של המערכת, הינך מועבר ליומן שנית על מנת לבחור זמן אחר לשירות המבוקש.";
+
+//MARK: - ServiceInformationViewController
+VIEW_INFORMATION = "להלן מידע נוסף אודות בית העסק: לצגלכגלן פען יעיח פ,טעןון,כגחדכוןו הכגצמנהידחי כחגידחלי עכגניח חיחףכגחלחלעי,חלכיעחלכ. חגכחליו,עכלגחעלח צגכמעחלי ,ךלכחגד מעחלכג ולכן אין אף אחד שעושה את זה חוץ ממני אלא רק אני יחיד ומיוחד ולכן משתלם לבוא אלי!!!";
+
+//MARK: - AboutUsClientViewController
+VIEW_ABOUT = "תקנון ותנאי השימוש לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעcancelמילחעכמממ ";
+TO_REGULATION = "לתקנון ותנאי השימוש";
+
+//MARK: - RegulationClientViewController
+REGULATION_TITLE = "תקנון ותנאי השימוש";
+REGULATION_VIEW = "לורם איפסום דולור לשבת אה, כסף החזרי, וחיוניות, אבל לעשות. במהלך השנים באות, מי יתרון ממנה, אך עבור לעבוד, פעילות גופנית, מחוז בית הספר., לעומת זאת, רוצה להיות קוץ העונג כדורגל לברוח מכאב למצוא לא מייצר כתוצאה. תריסי אינם, הוא מרגיע את הנשמה, כלומר, הם נטשו את הפרק בכלל להיות אשם ממלאי משרד עמלם. בחינם, אתה גורם חידוש גם חוקים.";
+
+//MARK: - MyAppointmentsViewController
+LBLAPPOINTMENT_TITLE = " התורים שלי ";
+NO_APPOINTMENTS__FROM_YOU = "אין תורים שנקבעו על ידך";
+
+//MARK: - CancelAppointmentViewController
+CANCELAPPOINTMENT_TITLE = "ביטול תור";
+OK_SEND = "אשר ושלח ביטול";
+CHOOSE_CANCEL = "האם ברצונך לבטל את התור ?";
+SUCCESS_CANCEL = "ביטול התור הצליח";
+
+//MARK: - slaightViewController
+SLAIGHT_TITLE = "עיכוב קצר";
+OK_SEND_SLAIGHT = "שלח הודעת איחור";
+ASK_SLAIGHT = "האם אתה רוצה להודיע שאתה מאחר ?";
+
+//MARK: - Server
+NO_CONNECTION = "אין תקשורת,נסה להרשם מאוחר יותר";
+NO_INTERNET = "אין חיבור לאינטרנט!";
+ERROR_SERVER = "שגיאת חיבור זמנית... אנא נסה במעוד מאוחר יותר";
+ERROR_PHONE = "מספר הטלפון אינו תקין";
+
+//MARK: - Global
+WELCOME_TO_BTHERE = "ברוכים הבאים ל Bthere ";
+KEY_SENTANCE_SLOGEN = "סלוגן";
+NEW_VERSION_HERE = "הגרסא החדשה כבר פה";
+DISCOUNTS_FOR_FIRST_REGISTERS = "מבצעים לנרשמים הראשונים";
+
+//MARK: - Model calendar
+DESIGN_DAY = "יום";
+DESIGN_WEEK = "שבוע";
+DESIGN_MONTH = "חודש";
+DESIGN_LIST = "רשימה";
+
+//MARK: - others
+//days
+SUNDAY = "א׳";
+MONDAY = "ב׳";
+TUESDAY = "ג׳";
+WEDNSDAY = "ד׳";
+THIRTHDAY = "ה׳";
+FRIDAY = "ו׳";
+SHABAT ="'ש";
+
+S_DAY = "א׳";
+M_DAY = "ב׳";
+T_DAY = "ג׳";
+W_DAY = "ד׳";
+THIR_DAY = "ה׳";
+F_DAY = "ו׳";
+SHT_DAY = "'ש";
+
+
+SUNDAY_DAY = "יום א׳";
+MONDAY_DAY = "יום ב׳";
+TUESDAY_DAY = "יום ג׳";
+WEDNSDAY_DAY = "יום ד׳";
+THIRTHDAY_DAY = "יום ה׳";
+FRIDAY_DAY = "יום ו׳";
+SHABAT_DAY = "יום ש׳";
+
+FIRST = "ראשון";
+SECOND = "שני";
+THIRD = "שלישי";
+FOURTH = "רביעי";
+FIFTH = "חמישי";
+SIX = "שישי";
+SEVEN = "שבת";
+
+TODAY = "היום";
+
+//jmode plus
+//: - MyCostumersViewController
+//jmode plus
+//: - MyCostumersViewController
+ADD_CUSTOMER = "הוסף לקוח";
+OCASIONAL_CUSTOMER = "לקוח מזדמן";
+ADD_NEW_CUSTOMER = "הוסף לקוח חדש";
+FULLNAME_STAR  = "*שם מלא";
+PHONE_STAR = "*מספר טלפון";
+EMAIL_STAR = "*מייל";
+MAKE_new_APPOINTMENT = "קבע פגישה";
+ADD_NEW_CUSTOMMER = "הוסף";
+ADDED_CUSTOMER = "הוספת הלקוח התבצעה בהצלחה!";
+PRIVATE = "פרטי";
+NEWCLIENT_STRING = "לקוח";
+NEWMYTURN = "תור";
+NEWDELETE ="מחק";
+NEWCALL = "חייג";
+DELETE_CUSTOMER_MESSAGE = ":בחרת למחוק רשומה מהלקוחות שלך";
+DELETE_CUSTOMER_TITLE = "מחק לקוח";
+BAD_NETWORK = "בעיית חיבור / כתובת לא נמצאה";
+LBL_UPDATE = "עדכן ";
+CUSTOMER_EXIST = "לקוח זה כבר נמצא ברשימת הלקוחות שלך . ניתן לקבוע לו תורים מהמסך הקודם";
+CUSTOMER_EXIST2 = "הלקוח כבר נמצא ברשימה שלך";
+UPDATE_CUSTOMER_EXIST = "עדכון פרטים";
+SIMPLE_BUTTON_UPDATE = "עדכון";
+SUCCES_CUSTOMER_UPDATE = "פרטי הלקוח עודכנו בהצלחה";
+THOSE_INFOS_ARE_OF_ANOTHER_CUSTOMER = "פרטים אלה שייכים ללקוח אחר ואינך לא יכול לערוך אותם.";
+CUSTOMER_APPOINMENTS_SUBTITLE = "תורים ";
+NO_FEATURE = ".המכשיר שברשותך אינו תומך בתכונה זו";
+NO_SIM_SIGNAL = ".איו סים / בדוק חיבור לרשת הסלולרית";
+CONFIRM_BTN_DEL = "אישור";
+CANCELLATION_BTN = "ביטול תור";
+NO_APPOINMENTS_YET = "ללקוח זה לא נקבעו תורים";
+NO_APPOINMENTS_SET = "לא נקבעו תורים";
+TITLE_CANCEL_APPOINTMENT = "ביטול תור";
+DESCRIPTION_CANCEL_APPOINTMENT = "האם אתה בטוח שאתה רוצה לבטל את התור הזה?";
+//SupplierSettings
+MYDETAILS = "הפרטים שלי";
+MANAGE_CALENDAR = "ניהול יומן";
+SYNC_CONTACTS_SETTING = "הזמן את לקוחותייך";
+EMPLOYES = "עובדים";
+PAYMENT_CREDENTIALS = "פרטי תשלום";
+DELETE_AN_USER = "מחק את המשתמש";
+MANAGER_ONLY = "גישה למנהל בלבד";
+PULL_TO_REFRESH = "משוך לרענון";
+INFO_ORDER = "מידע";
+EMPLOYE_PERMISSIONS = "הרשאות לעובדים";
+EMPLOYE_MANAGER_CHANGED = "ההרשאות נשמרו בהצלחה עבור העובד";
+ERROR_CHANGE_MANAGER_STATUS = "אירעה שגיאה בעת ניסיון להגדיר הרשאות";
+NO_PERMISSION_FOR_SERVICES_SET = "ההרשאות עדיין אינן מוגדרות";
+PERSONAL_INFORMATION = "מידע אישי";
+EMPLOYE_EXIST = "כבר הוספת את העובד הזה";
+SUNDAY2 = "א׳";
+MONDAY2 = "ב׳";
+TUESDAY2 = "ג׳";
+WEDNSDAY2 = "ד׳";
+THIRTHDAY2 = "ה׳";
+FRIDAY2 = "ו׳";
+SHABAT2 = "ש׳";
+EMPLOYE_EXIST_in_db = "עובד זה כבר רשום לחברה אחרת";
+//MAY
+POPUP_EMPLOYE = "כדי לאפשר לכל העובדים לקבל לקוחות יש להגדיר את השירותים שהם מורשים לתת. שימו לב פעולה זו הכרחית כדי לאפשר גישה ליומן של אותו עובד.";
+NO_EMPLOYE_AVALAIBLEnow = "אין עובדים זמינים";
+NO_LANGUAGE_SELECTED = "לפני השמירה, עליך לבחור שפה";
+RELAUNCH_APP_TO_Change_language = "השפה נשמרה. זה ישתנה על הפעלה מחדש של היישום";
+NEW_APP_PLUSMENU = "תור חדש";
+NEW_EVENT_PLUSMENU = "אירוע אישי";
+CUSTOMERS_IN_A_HOUR_PLUSMENU = "לקוחות בתוך שעה";
+BLOCK_HOURS_PLUSMENU = "חסימת שעות";
+WAITING_LIST_PLUSMENU = "אישור לקוחות";
+LAST_MINUTE_PLUSMENU = "ברגע אחרון";
+HELP_PLUSMENU = "עזרה";
+BLOCK_HOURS_PLUSMENU_caps  = "חסימת שעות";
+START_DATE = "תאריך התחלה";
+END_DATE = "תאריך סיום";
+HHOURS = "שעות";
+BTNBLOCK = "לחסום";
+BTNBLOCKsaved = "שעות החסימה נשמרו בהצלחה";
+ERROR_DATE_START_END = "תאריך הסיום אינו יכול להיות קטן מתאריך ההתחלה";
+ERROR_HOUR_START_END = "שעת הסיום לא יכולה להיות קטנה משעת ההתחלה";
+ERROR_HOUR_ISEQUAL = "שעת הסיום אינה יכולה להיות זהה לשעת ההתחלה";
+ERROR_date_Start = "בחר תאריך התחלה";
+ERROR_date_End = "בחר תאריך סיום";
+ERROR_hour_Start = "בחר שעת התחלה";
+ERROR_hour_End = "בחר את שעת הסיום";
+January ="ינואר";
+February ="פברואר";
+March="מרץ";
+April="אפריל";
+May="מאי";
+June= "יוני";
+July ="יולי";
+August = "אוגוסט";
+September= "ספטמבר";
+October = "אוקטובר";
+November = "נובמבר";
+December = "דצמבר";
+Manager_permission = "הרשאת מנהל";
+Authorizations_by_service = "הרשאות לפי שירות";
+JOIN_US = "הצטרף אלינו";
+SKIP = "דלג";
+SKIP_AFTER_VIDEO = "המשך כלקוח";
+DAY_PASSED = "אתה לא יכול לעשות פגישות בעבר";
+ERROR_UPDATE_BUSINESS_PROFILE = "אירעה שגיאה בעדכון הפרופיל העסקי";
+UPDATED_BUSINESS_PROFILE = "הפרופיל של העסק עודכן בהצלחה";
+ERROR_ADD_CUSTOMER = "אירעה שגיאה בעת הוספת לקוח";
+MY_DETAILS = "הפרטים שלי";
+BUSINESS_INFO = "מידע עסקי";
+SEARCH_CONTACT = "חפש איש קשר";
+UPDATED_SYNC_CONTACTS = "רשימת אנשי הקשר עודכנה בהצלחה";
+ERROR_UPDATE_CONTACTS = "אירעה שגיאה בעת עדכון רשימת אנשי הקשר";
+MANAGE_CUSTOMER_MESSAGE = "ניהול לקוחות קיימים יכול להיעשות מתוך דף הניהול של הלקוחות שלי";
+MANAGE_CALENDAR = "נהל את היומן";
+SYNC_MY_CALENDAR = "שיקוף יומן מכשיר";
+CUSTOMER_RANGE = "טווח תצוגת הלקוח של היומן (שבועות)";
+CALENDAR_VIEW = "תצוגת לוח שנה";
+
+WELCOME_PROVIDER = " ברוך הבא,";
+NO_THANKS = "לא עכשיו";
+
+
+// Delete user pop out
+DELETE_USER_TITLE = "מחק את המשתמש";
+DELETE_USER_TEXT = "האם ברצונך למחוק את המשתמש ואת מספר הטלפון שלך מ- Bthere?";
+
+
+// Supplier new event
+EVENT_TITLE_LABEL = "אירוע חדש";
+EVENT_NAME_PLACEHOLDER = "שם אירוע";
+EVENT_DATE_PLACEHOLDER = "תאריך";
+EVENT_TIME_PLACEHOLDER = "זמן";
+EVENT_NOTES_LABEL = "הערות";
+EVENT_NOTES_PLACEHOLDER = "הזן טקסט";
+EVENT_CHECK_LABEL = "חסום את השעות ביומן שלי";
+EVENT_MAKE_BUTTON = "שמור";
+EVENT_ERROR_NAME_LABEL = "הקלד שם אירוע";
+EVENT_ERROR_DATE_LABEL = "בחר תאריך";
+EVENT_ERROR_TIME_LABEL = "בחר את שעת ההתחלה והסיום";
+EVENT_ERROR_NOTES_LABEL = "הקלד מספר הערות";
+ERROR_DELETE_USER = "אירעה שגיאה במחיקת משתמש עסקי";
+SUCCES_DELETE_USER = "המשתמש העסקי נמחק בהצלחה";
+
+
+// Regiser as business
+REGISTER_TITLE = "  בעל עסק? \nהצטרף לקהילה העסקית שלנו";
+NO_FREE_HOURS_TO_BLOCK = "אין שעות חופשיות לחסום במרווח שנבחר";
+// Customer Approvel
+CUSTOMER_APPROVAL = "אישור לקוחות";
+CUSTOMER_APPROVAL_TEXT = "להוסיף לקוחות חדשים באופן אוטומטי";
+CUSTOMER_APPROVAL_CONFIRM = "הבקשה התקבלה";
+CUSTOMER_APPROVAL_NO_REQUESTS = "אין בקשות ממתינות לאישור";
+CUSTOMER_APPROVAL_DELETE = "הבקשה נמחקה";
+ERROR_APPROVAL = "התרחשה שגיאה. נסה שוב מאוחר יותר";
+WAZE_ADDRESS_CANT_GO = "מיקום הספק אינו נמצא עדיין במערכת";
+
+// Calendar Print
+CALENDAR_SEND_PDF = "שלח PDF למייל";
+CALENDAR_VIEW = "תצוגה";
+CALENDAR_FROM = "מתאריך";
+CALENDAR_TO = "ל";
+DAY_PASSED_BLOCK ="לא ניתן לחסום שעות בעבר";
+DID_NOT_SELECT_DAY = "עליך לבחור אחד הלחצנים: יום או רשימה";
+// Supplier Notifications
+SUPPLIER_NOTIFICATIONS_INCOMING = "תור חדש";
+SUPPLIER_NOTIFICATIONS_BIRTHDAY = "יום הולדת";
+SUPPLIER_NOTIFICATIONS_ANIVERSARY = "יום נישואין";
+SUPPLIER_NOTIFICATIONS_DEALS = "מבצעים וחדשות ... מבצעים וחדשות ... מבצעים וחדשות ...";
+NO_ALERTS_SUPPLIER ="אין עדיין התראות עבור ספק זה";
+UPDATE_ALERTS_SUPPLIER ="ההגדרות נשמרו בהצלחה";
+CANNOT_UPDATE_SUPPLIER_ALERTS = "אירעה שגיאה. בבקשה נסה שוב מאוחר יותר";
+ERR_FREE_H_SUPPLIER = "לספק שירות זה אין מקום לפגישה שלך בזמן הרצוי";
+OCCASIONAL_CUSTOMER = "Occasional Customer";
+PHONE_ERROR3 = "לא רשום במלואו במערכת";
+// Business profile page
+BUSINESS_PROFILE_ALERT_NO_WEBISTE = "לעסק הזה אין אתר.";
+BUSINESS_PROFILE_ALERT_CRASH_WEBISTE = "לא ניתן היה לפתוח את האתר, נסה שוב.";
+BUSINESS_PROFILE_ALERT_CRASH_CALL = "לא ניתן להתקשר לעסק הזה, נסה שוב.";
+BUSINESS_PROFILE_ALERT_NO_LOCATION = "העסק הזה עדיין אינו משתף מיקום כלשהו.";
+ENTER_PASSWORD = "קוד גישה";
+WRONG_PASSWORD_BUSINESS = "סיסמה שגויה";
+PASSWORD_NOT_ENTERED = "לא הזנת סיסמה";
+SETTINGS = "הגדרות";
+TO_PERSONAL_INFO_SET = "למידע האישי";
+EXPLAIN_PASSWORD = "כדי להירשם כעסק עליך להזין קוד גישה";
+EXPLAIN_PASSWORD_LINETWO = "אם אין לך את הקוד אתה יכול להתקשר למספר \n079-5740780";
+TERMS_OF_USE = "תנאי שימוש";
+EXPLAIN_BEFORE_REGISTER = "היא אפליקציה לזימון תוריםBthereלעסקים האהובים עליכם ולמציאתעסקים חדשים באזורכם. על מנת שניתןלכם את השירות הטוב והיעיל ביותר,כדי להנות מכל היתרונות של האפליקציה,וכדי שתוכלו להתעדכן במבצעיםשישלחו העסקים, אנו ממליצים לאפשרלאפליקציה גישה לשירותי מיקום ויומן ולאפשר שימוש בעדכונים / התראות.זוהי המלצה בלבד ואין הכרח כמובן לעשות זאת (:";
+WELCOME_PROVIDER_noComma = " ברוך הבא";
+VIEW_TERMS_OF_USE = "הצג תנאי שימוש";
+NEW_EVENT_NOT_SYNC = "סנכרן את היומן שלך בהגדרות כדי לשמור את האירוע החדש.";
+
+
+// Help
+HELP = "עֶזרָה";
+HELP_GUIDANCE_VIDEO = "צ׳אט עם נציג";
+HELP_QA = "שאלות ותשובות";
+HELP_MESSAGE = "צוות Bthere ישמח לעזור לכם בכל שאלה";
+
+HELP_Q1 = "1. איזה סוגי עסקים נמצאים באפליקצית Bthere?";
+HELP_Q2 = "2. איך​ ​עסק​ ​יכול​ ​להצטרף​ ​ל?BTHERE";
+HELP_Q3 = "3. איך​ ​עסק​ ​מוסיף​ ​לקוח​ ​חדש?";
+HELP_Q4 = "4. האם​ ​צריך​ ​להכניס​ ​את​ ​שמו​ ​המלא​ ​של​ ​העסק​ ​על​ ​מנת​ ​למצוא​ ​אותו​ ​בתוצאות​ ​החיפוש?";
+HELP_Q5 = "5. כל​ ​אחד​ ​יכול​ ​לקבוע​ ​תור​ ​ביומן​ ​של​ ​כל​ ​עסק?";
+HELP_Q6 = "6. איך​ ​קובעים​ ​תור​ ​לעסק?";
+HELP_Q7 = "7. היכן​ ​ניתן​ ​לערוך​ ​את​ ​פרטי​ ​העסק?";
+HELP_Q8 = "8. האם​ ​האפליקציה​ ​מתאימה​ ​לעסק​ ​עם​ ​עובדים?";
+HELP_Q9 = "9. האם​ ​היומן​ ​של​ ​האפליקציה​ ​מסונכרן​ ​עם​ ​שאר​ ​היומנים?";
+HELP_Q10 = "10. האם​ ​האפליקציה​ ​יכולה​ ​להחליף​ ​את​ ​היומן​ ​הידני?";
+
+
+HELP_A1 = "תשובה: כל עסק שמשתמש באופן קבוע ביומן באמצעותו נקבעים התורים, ומשך זמן השירותים בו קבוע, יכול להשתמש באפליקציה.";
+HELP_A2 = "תשובה​ ​:מאוד​ ​בקלות​ ​והכי​ ​חשוב​ ​​ ​-באופן​ ​עצמאי. כל​ ​בעל​ ​עסק​ ​יכול​ ​להירשם​ ​דרך​ ​האתר​ ​בלחיצה​ ​על​ ​\"​ ​הרשם​ ​\"​ ​או​ ​דרך​ ​האפליקציה​ ​ולהתחיל​ ​להשתמש במערכת​ ​.לינק​ ​לקישור​ ​הרשמה.";
+HELP_A3 = "תשובה​ ​:באמצעות​ ​לחיצה​ ​על​ ​כפתור​ ​\"לקוח​ ​חדש\"​ ​בתוך​ ​רשימת​ ​הלקוחות​ ​שלי​ ​.במידה​ ​והלקוח​ ​כבר​ ​רשום​ ​ל Bthereפרטיו​ ​ימולאו​ ​אוטומטית​ ​והוא​ ​יצורף​ ​למאגר​ ​הלקוחות​ ​של​ ​העסק.";
+HELP_A4 = "תשובה​ ​:לא​ ​,כל​ ​מילת​ ​חיפוש​ ​שקשורה​ ​לעסק​ ​מסוים​ ​תראה​ ​אותו​ ​בתוצאות​ ​חיפוש​ ​.ניתן​ ​לחפש​ ​את​ ​סוג​ ​השירות שמעוניינים​ ​בו​ ​,את​ ​שמו​ ​הפרטי​ ​של​ ​בעל​ ​העסק​ ​ואפילו​ ​לחפש​ ​את​ ​העיר​ ​בה​ ​העסק​ ​יושב.";
+HELP_A5 = "תשובה​ ​:כן​ ​והתהליך​ ​הוא​ ​פשוט​ ​,בפעם​ ​הראשונה​ ​שלקוח​ ​רוצה​ ​לקבוע​ ​תור​ ​לעסק​ ​מסוים​ ​,והוא​ ​אינו​ ​חלק ממאגר​ ​הלקוחות​ ​של​ ​העסק​ ​,בעל​ ​העסק​ ​יאשר​ ​אותו​ ​כלקוח​ ​לפני​ ​קביעת​ ​התור​ ​.האישור​ ​הוא​ ​חד​ ​פעמי​ ​וברגע שהלקוח​ ​צורף​ ​למאגר​ ​הלקוחות​ ​הוא​ ​יוכל​ ​לקבוע​ ​ישירות​ ​ביומן​ ​העסק";
+HELP_A6 = "תשובה​ ​:בלחיצה​ ​על​ ​שם​ ​העסק​ ​בתוצאות​ ​החיפוש​ ​הלקוח​ ​עובר​ ​אל​ ​בחירת​ ​השירות​ ​אליו​ ​הוא​ ​מבקש​ ​לקבוע תור​ ​.לאחר​ ​מכן​ ​יפתח​ ​לו​ ​יומן​ ​בו​ ​יוצגו​ ​כל​ ​התורים​ ​הפנויים​ ​לשירות​ ​שביקש​ ​,בהתאם​ ​לזמן​ ​השירות​ ​שבעל​ ​העסק קבע​ ​.בלחיצה​ ​על​ ​אחד​ ​התורים​ ​הפנויים​ ​יופיע​ ​מסך​ ​עם​ ​כל​ ​פרטי​ ​התור​ ​המבוקש​ ​,ובלחיצה​ ​על​ ​כפתור​ ​האישור התור​ ​יקבע​ ​ביומן​ ​העסק​ ​ויומן​ ​הלקוח.";
+HELP_A7 = "תשובה​ ​:בלחיצה​ ​על​ ​הגדרות​ ​בעל​ ​העסק​ ​יכול​ ​לשנות​ ​את​ ​כל​ ​הנתונים​ ​שהזין​ ​בהרשמה​ ​.ניתן​ ​להוסיף​ ​ולערוך​ ​את השירותים​ ​שניתנים​ ​בעסק​ ​,להוסיף​ ​ולערוך​ ​עובדים​ ​,לשנות​ ​שעות​ ​פעילות​ ​ולרענן​ ​את​ ​הפרופיל​ ​העסקי​ ​של העסק.";
+HELP_A8 = "תשובה​ ​:כן​ ​,בעל​ ​העסק​ ​יכול​ ​להוסיף​ ​עובדים​ ​בכל​ ​זמן​ ​נתון​ ​ולכל​ ​עובד​ ​יש​ ​יומן​ ​משלו​ ​.היומן​ ​של​ ​העובדים​ ​נמצא תחת​ ​שם​ ​בית​ ​העסק​ ​ומנוהל​ ​באמצעות​ ​הרשאות​ ​שבשליטת​ ​המנהל.";
+HELP_A9 = "תשובה​ ​:כמובן​ ​.היומן​ ​של​ ​האפליקציה​ ​יכול​ ​לשמש​ ​גם​ ​כיומן​ ​המרכזי​ ​של​ ​בעל​ ​העסק​ ​או​ ​הלקוח​ ​.הוא​ ​יכול​ ​להיות מסונכרן​ ​עם​ ​כל​ ​יומן​ ​דיגיטלי​ ​שנמצא​ ​על​ ​המכשיר​ ​בו​ ​האפליקציה​ ​נמצאת​ ​.ניתן​ ​לראות​ ​את​ ​כל​ ​המידע​ ​מהיומן הדיגיטלי​ ​ביומן​ ​האפליקציה​ ​,ולהיפך.";
+HELP_A10 = "תשובה​ ​:כן​ ​,האפליקציה​ ​יכולה​ ​להוות​ ​תחליף​ ​לכל​ ​יומן​ ​אחר​ ​,בעיקר​ ​ליומן​ ​ידני.";
+
+
+LIVE_CHAT = "צ׳אט עם נציג";
+HELP_COULD_NOT_CALL = "משהו השתבש בשיחה שלך, נסה שוב.";
+//SHORT_DELAY_MESSAGE = "העסק כבר הודיע על התורים שלי שלך.";
+BUSINES_NO_REVIEWS = "אין ביקורות";
+
+
+SHORT_DELAY_ERROR = "לא יכולנו להודיע על הספק לגבי העיכוב הקצר שלך, נסה שוב.";
+/*
+ HELP_PLUSMENU
+ HELP_GUIDANCE_VIDEO
+ LIVE_CHAT
+ */
+PLUS_MENU_CANCELLATON = "ביטול תור";
+
+SIX_MONTHS_REPORT = "דוח עבור ששת החודשים האחרונים";
+
+// SHORT_DELAY_MESSAGE
+END_MEETING_BUTTON = "הבנתי, תודה";
+
+END_MEETING_TEXT1 = "קבעת תור חדש!";
+END_MEETING_TEXT2 = "אנחנו שמחים שהצטרפת אלינו.";
+END_MEETING_TEXT3 = "כרגע אנחנו בתחילת הדרך ואנו";
+END_MEETING_TEXT4 = "משקיעים את הזמן בבדיקות ושיפורים.";
+END_MEETING_TEXT5 = "לכן, בזמן הקרוב יש לוודא עם העסק";
+END_MEETING_TEXT6 = "בהודעה / שיחה שאכן התור נקבע.";
+END_MEETING_TEXT7 = "תודה על ההבנה ואנחנו עושים הכל כדי לעמוד לשירותכם.";
+NOTIFICATIONs_LIST = "רשימת ההודעות";
+RECEIVED_ON = "התקבל בתאריך";
+
+
+// Last minute
+LAST_MINUTE_TITLE = "ברגע אחרון";
+NEW_OFFER_BUTTON = "הצעה חדשה +";
+
+
+NEW_OFFER_TITLE = "הצעה חדשה";
+NEW_OFFER_TYPE_OF = "סוג שירות / מוצר";
+NEW_OFFER_OFFER_TYPE = "סוג הצעה";
+NEW_OFFER_GIFT_PRODUCT = "מוצר מתנה";
+NEW_OFFER_OFFER_TEXT = "טקסט הצעה";
+NEW_OFFER_ADD = "לְהוֹסִיף";
+NEW_OFFER_DISCOUNT = "הנחה";
+NEW_OFFER_ALERT_TYPE_NOT_SELECTED = "בחר תחילה מוצר או שירות.";
+NEW_OFFER_ALERT_disc_NOT_SELECTED = "בחר סוג הצעה";
+NEW_OFFER_OFFER_TEXT_MISSING = "מלא את טקסט ההצעה";
+NEW_OFFER_DISCOUNT_PERCENT = "אחוז הנחה";
+WAS_CANCELLED = "בוטל";
+ORDER_APPOINTMENT = "קבע תור";
+RATE_OUR_BUSINESS =  "דרג את העסק";
+SEND_BT = "שלח";
+REVIEWS_LABEL = "ביקורות";
+REVIEW_LABEL = "סקירה";
+
+
+CANCEL_APPOINTMENT_TITLE = "רשימת התורים";
+// NEW_EVENT, NEW_EVENT_PLUSMENU, SLAIGHT_TITLE, SHORT_DELAY_MESSAGE
+
+COMPLETE_NUMBER_OF_WEEKS = "Please complete number of weeks";
+WEEKS_SAVED = "ההגדרות עבור היומן נשמרו בהצלחה";
+SELECT_HOURS_FOR_DAY = "השלם לפחות שעות עבודה ליום אחד";
+SELECT_MULTIPLE_SERVICES_IN_APPOINTMENT = "בחר שירותים מרובים בפגישה";
+JUST_ONE_APPOINTMENT = "אופס \n נראה שאתה לא מאושר עם הספק הזה, אתה יכול לעשות פגישה אחת ולהמתין לאישור שלו.";
+SECOND_ONE_APPOINTMENT = "מתנצלים אך נראה שבית העסק עוד לא אישר אותך לתיאום תורים נוספים, אנא המתן לאישור.";
+APPOINTMENT_LBL_SHORTNUM = "קביעת פגישה ";
+FINISH_BUTTON = "סיום";
+BTN_NEXT_APPOINTMENT = "הפגישה הבאה";
+FULL_APPOINTMENT = " כעת תוכל לראות את הפגישה ביומן האפליקציה ";
+NO_DAY_SELECTED = "לא נבחר יום";
+INCORRECT_BREAKS = "התחלה וסיום שעות עבור הפסקות חייב להיות בתוך שעות העבודה מרווח";
+SUPPLIER_NOT_ALLOW_MULTIPLE_APPOINTMENTS = "הספק הנבחר אינו מאפשר פגישות מרובות";
+NUMBER_OF_MAXIMUM_APPOINTMENTS_EQUAL = "הגעת למספר המרבי המותר של הספק";
+SHORT_DELAY_MESSAGE = "נשלחה הודעה לעסק";
+COMPLETE_REQUIRED_FIELDS = "עליך למלא שדות נדרשים";
+NO_TIME_FREE_ERROR = "הזמן שנבחר לא נחסם, ייתכן וישנן פגישות בזמן זה";
+FULL_APPOINTMENT_FAILED = "חלק מהפגישות לא נקבעו";
+WE_ARE_AN_APP = "אנחנו אפליקציה לקביעת תורים למבחר העסקים האהובים עליכם. \n   כדי שתוכלו להנות מהשימוש של האפליקציה אנו ממליצים לאשר את הגישה לשירותי מיקום, יומן ושימוש בעדכונים. \n נדבר כשנפגש.";
+ZERO_MINUTES_BLOCKED = " משהו השתבש, השעות שנבחרו לא נחסמו, אנא נסה שוב ";
+SOME_MINUTES_BLOCKED = " חסימת השעות בוצעה בהצלחה. שים לב כי קיימות פגישות בטווח החסימה ושעות אלה לא נחסמו ";
+FULL_MINUTES_BLOCKED = " חסימת השעות בוצעה בהצלחה ";
+OR = "או";
+SEARCHLESS3LETTERS = "השלם לפחות 2 תווים";
+CANCEL_BLOCK_HOURES = "הסר חסימת שעות";
+YOU_CHOOSE_TO_CANCEL_TEXT = "בחרת לבטל את השעות החסומות";
+AT = "לְיַד";
+SUCCES_CANCEL_BLOCK_HOURS = "השעות החסומות בוטלו בהצלחה";
+FAIL_CANCEL_BLOCK_HOURS = "השעות החסומות לא בוטלו בהצלחה";
+SEL_DAYS_TO_BLOCK = "בחר ימים לחסימה";
+ALL_HOURS_OF_DAY = "כל שעות העבודה של היום";
+OPEN_SETTINGS = "הגדרות פתוחות";
+REQUEST_CONTACTS_PERMISION = "לאפליקציה נדרש אישור גישה לאנשי הקשר. האם לפתוח הגדרות כדי לתת גישה לאנשי הקשר?";
+REQUEST_CALENDAR_PERMISION = "לאפליקציה נדרש אישור גישה ליומן מכשיר. האם לפתוח הגדרות כדי לתת גישה ליומן מכשיר?";
+REQUEST_LOCATION_PERMISION = "לאפליקציה נדרש אישור גישה למיקום. האם לפתוח הגדרות כדי לתת גישה למיקום?";
+REQUEST_PHOTOS_PERMISION = "לאפליקציה נדרש אישור גישה לתמונות. האם לפתוח הגדרות כדי לתת גישה לתמונות?";
+ADDPROVIDERSUCCESMESSAGE = "העסק נרשם בהצלחה במערכת . אנא המשך והשלם את הפרטים החסרים על מנת להשלים את ההתקנה.";
+POP_ALLERT_IN_START_BLOCK_HOURS = "קיבלנו את בקשתך, אישור סופי ישלח בהקדם";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS = " הודעת תפוצה";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS_TITLE = "הודעות למאגר הלקוחות";
+EVENT_ERROR_NO_TEXT = "הקלד טקסט";
+INSERT_LESS_TEXT = "מספר התווים המקסימלי הגיע.";
+MESSAGE_SCHEDULED_FOR_SEND = "ההודעה נשלחה בהצלחה למאגר הלקוחות";
+FAIL_SEND_MASS_MEESSAGE = "סליחה, ההודעה לא נמסרה.אנא נסה שנית";
+ONE_TIME_PROMPT_FOR_MASS_MESSAGE = ".הודעת תפוצה מאפשרת שליחת הודעת אחת לכלל מאגר הלקוחות שלך. ההתראה תתקבל רק אצל לקוחות המשתמשים באפליקציה Bthere באמצעות התראה נכנסת";
+CANNOT_USE_OWN_NUMBER = "לא ניתן להשתמש במספר הטלפון שלך";
+ERROR_PAYMENT = " אנא השלם את פרטי כרטיס האשראי";
+MESSAGE_NO_PHONE_FOR_USER_FOUND = "נראה כי אירעה שגיאה בעת קריאת פרופיל המשתמש הנוכחי; אנא הפעל מחדש את היישום ונסה שוב מאוחר יותר.";
+TITLE_TRIAL = "תשלום";
+LINE_ONE_TRIAL = "ברוכים הבאים!";
+LINE30DAYS_TRIAL = "אנחנו מעניקים לך 30 י ום ניסיון במערכת בחינם";
+BTNTRIALYES = "מסכים";
+BTNTRIALNO = "לא מסכים";
+RELOAD = "נסה שנית";
+RETRY = "נסה שוב";
+//PROMPT_USER_BUSINESS_STATUS0 = "אנא צור עימנו קשר בטלפון 0795740780";
+
+//PROMPT_USER_BUSINESS_STATUS0 = "תמה תקופת הנסיון אנא צור קשר עם משרדינו בטלפון 0795740780 להסדרת אמצעי תשלום ולהמשך השימוש באפליקציה";
+RETRY_BTN = "נסה שנית ";
+CONTINUE_BUTTON = "המשך";
+MASS_NOTIFICATION_PLACEHOLDER = "הזן טקסט";
+AT_LEAST_ONE_MANAGER_NEEDED = "לא ניתן להסיר את הרשאת המנהל ממשתמש זה";
+ERROR_SUPPLIER_NOT_PAYED_ONE = "מתנצלים זמנית ל ״";
+ERROR_SUPPLIER_NOT_PAYED_TWO = "״ אין אפשרות לקביעת תורים באפליקציה";
+PLEASE_SELECT_THREE_CONTACTS = "עליך לסנכרן לפחות שלושה אנשי קשר";
+EXPLAIN_SYNC_CONTACTS = "על מנת להשתמש במערכת עלייך להזמין 3 לקוחות לפחות";
+NO_FREE_HOURS_FOUND = "אין  תורים פנויים בחודש זה";
+TRIAL_PERIOD_ENDS_TITLE = "תום תקופת הניסיון";
+TRIAL_PERIOD_ENDS = "חודש הניסיון שלך הסתיים, המשך השירות כרוך בתשלום נוסף. כעת תעבור למסך הזנת פרטי תשלום";
+TRIAL_BTN = "הבנתי, תודה";
+TITLE_CUSTOMER_RECOMANDATION = "אל תתנו לעסקים שאתם אוהבים להישאר מאחור";
+LABEL_CUSTOMER_RECOMANDATION = "כדי לקבוע תור בקלות גם אליהם השאירו את הפרטים של העסק ואנחנו נעשה את השאר";
+BTN_CUSTOMER_RECOMANDATION = "שלחו פרטים";
+
+
+//ViewBusinessProfileVC
+NOT_A_VALID_SUPPLIER = "נא לבחור עסק תקין";
+REVIEW_YOURSELF_ALERT = "לא ניתן לכתוב חוות דעת לעסק שלך";
+ALREADY_ADDED_REVIEW_ALERT = "כבר כתבת חוות דעת עבור עסק זה";
+ADD_REVIEW_PLEASE = "אנא כתוב ביקורת";
+
+//bigCollectionViewCell
+VOTES_LABEL_SINGULAR = "הַצבָּעָה";
+VOTES_LABEL_PLURAL = "קולות";
+
+REVIEWS_LABEL_SINGULAR = "סקירה";
+REVIEWS_LABEL_PLURAL = "ביקורות";
+
+//popUpPaymentVC
+POP_UP_PAYMENT_TITLE = "שגיאה";
+
+//personalDetailsVC
+EXISTING_NUMBER_PERSONAL_DETAILS = "מספר טלפון זה כבר בשימוש";
+REMOVE_PICTURE_PERSONAL_INFO = "הסר את התמונה הנוכחית";
+
+//SupplierSettings
+NUMBER_CHR_RANGE = "104 מספר השבועות המקסימלי הוא";
+
+//BussinesServicesTableViewCell
+ALREADY_USED_SERVICE_NAME = "כבר שומש";
+
+//MyCustomers
+INVALID_OCASIONAL_NUMBER = "מספר טלפון לא תקין";
+
+//FacebookLogin
+LOGIN_WITH_FACEBOOK = "התחבר עם פייסבוק";
+
+//RegisterBuisnessProphielVC
+REMOVE_LOGO_BUSINESS_PROFILE = "הסר את תמונת הלוגו הנוכחית";
+REMOVE_COMPANY_PIC = "הסר את התמונה הנוכחית";
+TEN_DAYS_LEFT_BEFORE_TRIAL_ENDS = "עסק יקר, שים לב- נשארו עוד 10 ימים לשימוש חופשי במערכת.מעוניין להמשיך איתנו?  צור איתנו קשר באתר -www.bthere-tech.com או בטלפון -079-5740780";
+PROMPT_USER_BUSINESS_STATUS0 = "עסק יקר, הזמן עובר מהר כשנהנים  חלפו 30 יום מאז שהתחלת להשתמש ב-BTHERE  כדי להמשיך איתנו אנא צור קשר באתר - www.bthere-tech.com או בטלפון - 079-5740780";
+No_Rating = "בלי דירוג";
+Please_rate_the_business = "דרג את העסק";
+//popUpBusinessProfile
+POP_UP_BUSINESS_TITLE =  "דף פרופיל עסקי";
+POP_UP_BODY_TEXT = " כעת באפשרותך לבנות לעצמך \n נכס משלך באפליקציה \n תוכל לדלג על שלב זה ולחזור אליו \n בכל עת מתוך תפריט צד באפליקציה";
+//" דף הפרופיל העסקי מעניק ללקוחות שלך את כל המידע אודות העסק שלך בדף זה ניתן להוסיף את תמונות הלוגו שלך, תמונת הנושא של העסק ומידע אודות העסק ניתן לדלג על מילוי הדף בשלב זה ולהוסיף או לערוך אותו בכל עת דרך התפריט בסיום ההרשמה";
+INVITE_CUSTOMERS_TITLE = "הזמן את לקוחותייך";
+INVITE_CUSTOMERS_BODY_TEXT = "כדי להתחיל לעבוד, הזמן את הלקוחות שלך לקביעת תור   \n ישירות ליומן שלך. \n סמן ב - V את הלקוחות שלך ואנחנו נדאג לשווק אותך - אנחנו נשלח SMS לכל לקוח עם  \n  הזמנה אישית ישירות אלייך.  \n בסיום התהליך תוכל למצוא  \n אותם במאגר \n הלקוחות במערכת.";
+
+INVITE_CUSTOMERS_BODY_TEXT2 = "כדי להתחיל לעבוד, הזמן את הלקוחות שלך לקביעת תור ישירות ליומן שלך. סמן ב - V את הלקוחות שלך ואנחנו נדאג לשווק אותך - אנחנו נשלח SMS לכל לקוח עם הזמנה אישית ישירות אלייך. בסיום התהליך תוכל למצוא אותם במאגר הלקוחות במערכת.";
+
+EXPLAINWORKINGHOURSTITLESCREEN = "שעות פעילות";
+EXPLAINWORKINGHOURSFIRSTLINETEXTBOLD = ":איך להזין את שעות הפעילות של העסק   ";
+EXPLAINWORKINGHOURSSECONDLINETEXTEXPLAIN = "שעות הפעילות שיוזנו יהיו טווח השעות ביומן העסק שלך";
+EXPLAINWORKINGHOURSLINETEXT1 = "1. לחץ על היום הראשון בשבוע בו העסק שלך עובד ";
+EXPLAINWORKINGHOURSLINETEXT2 = "2. בחר את שעת ההתחלה ושעת הסיום";
+EXPLAINWORKINGHOURSLINETEXT3 = "3. סמן את כל היום ששעות הפעילות בהם זהות לשעות הפעילות שהזנת";
+EXPLAINWORKINGHOURSLINETEXT4 = "4. ימים עם שעות שונות - סמן את אחד הימים השונים ושנה את גלגלת השעות בהתאם לשעת ההתחלה ושעת הסיום של יום זה";
+WELCOMEPOPUPTITLESSCREEN = "Bthere ברוכים הבאים ל ";
+WELCOMEPOPUPLINE1TEXT = " זה הזמן להתאים את היומן הנוכחי שלך אלינו ולמלא את הפגישות שכבר קיימות אצלך על ידי קביעת התור ללקוחות באפליקציה.";
+WELCOMEPOPUPLINE4TEXTBOLD = "בהצלחה!";
+GETTOKNOWTHESYSTEMSCREENTITLESCREEN = "הכר את המערכת";
+GETTOKNOWTHESYSTEMSCREENLINE1TEXT = " רגע לפני שאתה מתחיל להשתמש במערכת  \n אנו ממליצים לך לצפות בסרטון הסבר \n  שייתן לך את הכלים לשימוש חכם במערכת ";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONPROVIDER = "אני בעל עסק";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONCUSTOMER = "אני לקוח";
+AFTERVIDEOPLAYERSCREENTITLE = "שמחנו להכיר!";
+AFTERVIDEOPLAYERSCREENLINELINETEXT1 = "אנחנו מעניקים לך 30 יום מתנה  \n להתנסות עם המערכת \n ללא התחייבות  ";
+AFTERVIDEOPLAYERSCREENLINELINETEXT2 = "בסיום תקופת הניסיון המערכת בעלות של 100 ש”ח ללא מע”מ בחודש";
+AFTERVIDEOPLAYERSCREENLINELINETEXT3 = "הצטרף חינם לקהילת העסקים שלנו";
+AFTERVIDEOPLAYERSCREENLINELINETEXT4 = " חזרה לצפייה של הסרטון דרך תפריט הפלוס במסך העזרה*";
+//BlockingHoursTableViewController
+CONFIRM_SELECTED_ROWS = "אשר";
+REMIND_LATER_BTN = "הזכר לי מאוחר יותר";
+BTN_CONTINUE_LIST_SERVICES = "המשך";
+SELECT_SERVICE_MESSAGE = "עדיין לא נבחר שירות";
+//NEW TEXTS  IN CUSTOMER PLUS MENU
+NEW_Short_delay = "עיכוב";
+NEW_Cancellation = "ביטול";
+CUSTOMER_New_event = "אירוע";
+NEW_My_appointments = "התורים שלי";
+NEW_My_appointments = "התורים שלי";
+NEW_S_MESSAGE_TO_CUSTOMERS = "הודעת תפוצה";
+NEW_S_CUSTOMERS_APPROVAL = "אישור לקוחות";
+NEW_S_EVENT = "אירוע";
+NEW_S_CANCEL_BLOCK_HOURS = "הסר חסימת שעות";
+NEW_S_BLOCK_HOURS = "חסימת שעות";
+NEW_S_APPOINTMENT = "תור חדש";
+FROM_LABEL = "התחלה";
+UNTIL_LABEL = "סיום";
+SET_WORKING_HOURS_TITLE = "שעות עבודה";
+BTN_SWITCH_OPEN = "פתוח";
+BTN_SWITCH_CLOSE = "סגור";
+AddHoursButton_TEXT = "הוסף שעות";
+SAVEAddHoursButton = "שמור";
+EditHoursButton_TEXT = "ערוך שעות";
+
+//AdjustCalendarAlert
+ADJUST_CALENDAR_MAIN_TITLE = "התאמת היומן";
+ADJUST_CALENDAR_ALERT_TITLE_GOOD = "שים לב כי ניתן לחזור להתאמת היומן על ידי לחיצה על כפתור תור חריג";
+ADJUST_CALENDAR_ALERT_TITLE_BAD = "התור שהוזן לא נקבע כיוון שקיימת חפיפה עם תור או אירוע אחר ביומן";
+DATE_ADJUST = "תאריך";
+APPOINTMENT_TIME_ADJUST = "שעת התור";
+SERVICE_ADJUST = "שירות";
+CUSTOMER_ADJUST = "לקוח";
+SAVE_AND_FINISH_ADJUST = "שמור וסיים";
+SAVE_AND_ADD_ANOTHER = "שמור ועבור לתור הבא";
+CONFIRM_ADJUST = "אישור";
+SUCCESS_ADJUST = "הצלחה!";
+SELECT_CONTACT = "בחר איש קשר";
+SELECT_SERVICE_ALERT = "נא לבחור לפחות שירות אחד";
+SELECT_DATE_ALERT = "נא לבחור תאריך";
+SELECT_APPOINTMENT_TIME_ALERT = "נא לבחור את שעת התור";
+SELECT_A_CUSTOMER_ALERT = "בחר לקוח";
+ADJUST_CALENDAR_BUTTON_TITLE = "התאמת היומן";
+COSTUMERS_TEXT = "לקוחות";
+EXCEPTIONAL_APPOINTMENT = "פגישה חריגה";
+ONE_CONTACT_AT_LEAST = "בחר איש קשר אחד לפחות";
+B4HOURSBEFORESERVICE = "תזכורת 4 שעות לפני תור";
+
+INSTA_FACEBOOK_INVALID = "הקישור לא חוקי";
+COSTUMERS_TEXT = "לקוחות";
+EXCEPTIONAL_APPOINTMENT = "פגישה חריגה";
+ONE_CONTACT_AT_LEAST = "בחר איש קשר אחד לפחות";
+B4HOURSBEFORESERVICE = "תזכורת 4 שעות לפני תור";
+SETUP_SERVICES = "שירותים";
+ADDING_NEW_CUSTOMERS = "הוספת לקוחות חדשים";
+APPOINTMENT_CANCEL_IMPOSSIBLE = "לא ניתן לבטל תור 24 שעות לפני מועד התור";
+PROMPT_NO_CANCEL_POSSIBLE = ".מצטערים, לא ניתן לבטל את התור באפליקציה בעקבות מדיניות הביטולים של העסק. על מנת לבטל את התור יש ליצור קשר עם בית העסק";
+DIAL_BUTTON = "חייג";
+EXPLAIN_NO_CANCEL_SETTINGS = "בלחיצה על           זה הלקוחות יועברו  במקרה זה לחיוג מהיר לבית העסק האפליקציה לא תאפשר ביטול התור בטווח של 24 שעות לפני התור.";
+OK_GOTIT = "בסדר קיבלתי את זה";
+EXPLAIN_NO_APROVAL_SETTINGS = "  בלחיצה על             אישור הצטרפות  מהעסק שלך תבוטל האפשרות שלקוחות חדשים יקבעו תור אליך לעסק ישירות באפליקציה עד    ";
+
+OPEN_TODAY = "פתוח היום";
+CLOSED_TODAY ="סגור היום";
+CLOSED_LABEL = "סגור";
+LINK_TO_INSTAGRAM = "קישור לעמוד אינסטגרם";
+LINK_TO_FACEBOOK = "קישור לעמוד פייסבוק";
+
+THIS_BUSSINESS_NO_INSTAGRAM = "העסק לא הזין כתובת לעמוד אינסטגרם";
+THIS_BUSINESS_NO_FACEBOOK = "העסק לא הזין כתובת לעמוד פייסבוק";
+ADD_CALENDAR = "הוסף יומן";
+SUCCESS_SETUP_WORKING_HOURS = "שעות העבודה נשמרו בהצלחה";
+SUCCESS_SETUP_SERVICES = "השירותים נשמרו בהצלחה";
+
+
+PART_ONE = "'הביקורת:\n .אבקש למחוק את הביקורת מדף העסק שלי מאחר והיא אינה הולמת\n,שלום";
+TWO_IF_IF = ".תודה רבה\n.Bthere  עסק יקר, בלחיצה על שלח הבקשה שלך תעבור לבדיקה וטיפול של  \n'";
+
+
+ONE_REVIEW = "שלום,";
+TWO_REVIEW = "אבקש למחוק את הביקורת מדף העסק שלי מאחר והיא אינה הולמת.";
+THREE_REVIEW = "הביקורת: ";
+FOUR_REVIEW = "עסק יקר, בלחיצה על שלח הבקשה שלך תעבור לבדיקה וטיפול של Bthere.";
+FIVE_REVIEW = "תודה רבה.";
+
+FAILED_EMAIL_ALERT = "אין לך יישום דוא\"ל או חשבון דוא\"ל המשויך ליישום.";
+
+REPORT_LABEL_TEXT = "דווח על ביקורת זו כעל התקפה פוגעת ובלתי הולמת";
+
+COMPANY_DESCRIPTION_LABEL = "תיאור חברה ...";
+
+BTN_AVAILABILITY_SEARCH = "זמינות";
+
+NO_PICTURE_REGISTRATION = "המשכת בלי תמונה?";
+
+NO_PICTURE_REGISTRATION_BODY = "העסק ישמח לזהות אותך ברגע שיהיה לך תור אנחנו ממליצים להוסיף את תמונת הפרופיל שלך כבר בהרשמה";
+
+OK_THX_BTN = "הבנתי, תודה";
+//SPRINT 11 BELOW
+ADD_YOUR_EMPLOYEES = "הוסף את העובדים שלך";
+IF_YOU_HAVE_EMPLOYEES = " במידה יש לך עובדים בעסק שלך שמספקים שירותים ללקוחות שלך, תוכל להוסיף אותם כעת ";
+GO_TO_ADD_EMPLOYEE = "עבור להוספת עובדים";
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_AN_EMPLOYEE_SCREEN = "האם אתה בטוח שברצונך לצאת ממסך הוספת עובד?";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE = "לאחר תום תקופת הניסיון, יחול תשלום נוסף עבור כל יומן עובד- ללא התחייבות.  n\עובד אחד ועד שלושה יומני עובדים - 79 שקלים בחודש לא כולל מע”מ לכל יומן עובד  n\ כל עובד נוסף - 59 שקלים לחודש לא כולל מע״מ לכל יומן עובד   ";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE_AGREE = "בלחיצה על אישור, הינך מסכים/ה שקראת את תנאי התשלום לאחר תקופת הניסיון";
+ADD_EMPLOYEE = "הוסף עובדים";
+FULL_NAME = "שם מלא";
+PHONE_NUMBER = "מספר טלפון";
+MANAGER_PERMISSION = "הרשאת מנהל";
+ACCESS_PERMISSIONS = "הרשאות גישה";
+SERVICE_PERMISSIONS = "הרשאות שירותים";
+CHOOSE_PERMISSION = "בחר הרשאה";
+NEXT_BUTTON = "הבא";
+ADD_EMPLOYEE_HOURS = "הוסף שעות פעילות לעובד";
+ARE_HIS_WORKING_HOURS_IDENTICAL_TO_THE_BUSINESS_WORKING_HOURS = "?האם שעות הפעילות של העובד זהות לשעות הפעילות של העסק";
+CONFIRM_EMPLOYEE_DETAILS = "אישור פרטי עובד";
+YOU_HAVE_EMPLOYEES_IN_YOUR_BUSINESS = "יש לך עובדים בעסק  ?";
+WHAT_DO_YOU_GET_WHEN_ADDING_AN_EMPLOYEE = "מה אתם מקבלים בהוספת עובד :";
+EXPLAIN_ADD_EPMPLOYE_PRICE = "מנהל-\n   √   גישה מהירה לכל היומנים שלו ושל העובדים \n   √   ניהול הרשאות עובדים לפי שירותים\n   √   ניהול הרשאות לפי גישה למידע של העסק\n   √   יומן מאובטח עם קוד לכל עובד\n\n עובד-  \n   √   תיאום תורים ישירות ליומן העבודה של העובד מהלקוחות\n   √   יומן עבודה דיגיטלי אישי על הנייד\n   √   שיקוף עם יומן המכשיר   \n   √   שמירה על פרטיות העסק- לעובד אין גישה להגדרות, פרופיל עסקי ודוחות\n\nתשלום:\nלאחר תום תקופת הניסיון, יחול תשלום נוסף עבור כל יומן עובד- ללא התחייבות.\nעובד אחד ועד שלושה יומני עובדים - 79 שקלים בחודש לא כולל מע”מ לכל יומן עובד\nכל עובד נוסף - 59 שקלים לחודש לא כולל מע״מ לכל יומן עובד \n";
+AGREE_THAT_YOU_HAVE_READ_THE_PAYMENT_TERMS_AFTER_THE_TRIAL_PERIOD = "בלחיצה על אישור, הינך מסכים/ה שקראת את תנאי התשלום לאחר תקופת הניסיון";
+CONTINUE_TO_ADDING_EMPLOYEES = "המשך לפתיחת יומן עובד";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_EMPLOYEE = "?האם אתה בטוח שאתה רוצה למחוק את העובד";
+EDIT_EMPLOYEE = "ערוך עובדים";
+EDIT_EMPLOYEE_HOURS = "ערוך שעות פעילות של העובד";
+PHONE_DOES_NOT_EXISTS_IN_DB = "הטלפון אינו קיים במסד הנתונים";
+NOT_ELIGIBLE_AS_EMPLOYEE = "לא כשיר כעובד";
+SUCCESS_UPDATE_EMPLOYES = "העובדים נשמרו בהצלחה";
+SUCCESS_DELETE_EMPLOYE = "נמחק בהצלחה";
+WELCOME_TO_BTHERE_REGISTER = "Bthere ברוכים הבאים למערכת";
+TERMS_OF_USE_NEW_TEXT1 = "בלחיצה על כפתור המשך הינך מאשר את ";
+TERMS_OF_USE_NEW_TEXT2 = "תנאי השימוש";
+ALREADY_REGISTERED_BTN_TITLE = "כבר נרשמת? לחץ כאן";
+CHANGE_LOCATION = "שנה מיקום";
+ADD_CALENDARS = "הוסף יומן";
+ADD_CALENDARS_HOURS = "הוסף שעות פעילות ליומן";
+CONFIRM_CALENDARS_DETAILS = "אישור פרטי יומן";
+EDIT_CALENDARS = "ערוך יומן";
+EDIT_CALENDARS_HOURS = "ערוך שעות פעילות של היומן";
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_A_CALENDAR_SCREEN = "?האם אתה בטוח שאתה רוצה למחוק את העובד";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_CALENDAR = "?האם אתה בטוח שאתה רוצה למחוק את היומן";
+ANOTHER_CALENDAR_FOR_YOUR_BUSINESS = "יומן נוסף בעסק שלך";
+WHAT_IT_MEANS_TO_ADD_A_CALENDAR = "מה המשמעות של הוספת יומן:";
+EXPLAIN_ADD_CALENDAR_PRICE = "אתם כבעלי עסקים מעניקים ללקוחות את שירות קביעת התורים לכל השירותים שהעסק שלכם   \n מציע.הוספת יומן נוסף לעסק מתאימה לכל מי שנותן בעסק שלו שירות נוסף עם זמן קבוע, וצריך  \n להפריד את השירות מיומן העסק, למשל בעל עסק שנותן שירותים גם של מיטת שיזוף \n הלקוחות קובעים את התור לפי שם היומן ובחירת השירות המתאים בעת קביעת התור. \n\n תשלום: \n לאחר תום תקופת הניסיון, יחול תשלום בנוסף עבור כל יומן - ללא התחייבות. \n יומן אחד ועד שלושה יומנים נוספים - 79 שקלים בחודש לא כולל מע״מ עבור כל יומן \n עבור כל יומן נוסף - 59 שקלים לחודש לא כולל מע״מ \n ";
+CONTINUE_TO_ADDING_CALENDAR = "המשך לפתיחת יומן";
+CALENDARS_WERE_SAVED_SUCCESSFULLY = "היומנים נשמרו בהצלחה";
+ALREADY_REGISTERED_AGAIN = "כבר רשום ל Bthere ? לחץ כאן";
+NAVIGATION_BUSINESS_TITLE = "עסקים";
+REGISTER_TITLE_FIRST_SCREEN = "הרשמה";
+DID_NOT_AGREE_WITH_TERMS_POPUP_EMPLOYEES = "אנא אשר תנאי תשלום";
+PHONE_NOT_EXIST_EMPLOYEE = "מספר זה אינו משויך ללקוח";
+ALREADY_TAKEN_EMPLOYEE = "עובד זה נשכר על ידי עסק אחר";
+ACCESS_CODE_TEXT = " על מנת להוסיף עובד או יומן יש להזין קוד גישה ";
+ACCESS_CODE_TITLE = "קוד גישה";
+WELCOME_ONE = "בהגדרות המכשיר\n שירותי המיקום ושירותי יומן\n  התראות - כדי רקבר תזכורת ער התורים\n  אנו ממריצים ראשו את הגישה אר\n כדי שתוכרו רהנות מהשימוש באפריקציה\n אצר מבחר העסקים האהובים עריכם \n היא אפריקציה רקביעת תוריי  Bthere";
+INTROPOP_LINE1 = "היא אפליקציה לקביעת תורים Bthere";
+INTROPOP_LINE2 = "אצל מבחר העסקים האהובים עליכם";
+INTROPOP_LINE3 = "כדי שתוכלו להנות מהשימוש באפליקציה";
+INTROPOP_LINE4 = "אנו ממליצים לאשר את הגישה אל";
+INTROPOP_LINE51 = " - התראות";
+INTROPOP_LINE52 = "כדי לקבל תזכורות על התורים";
+INTROPOP_LINE6 = "שירותי המיקום ושירותי היומן";
+INTROPOP_LINE7 = "בהגדרות המכשיר";
+ENTER_ONLY20_CHARACTERS = "ניתן להכניס עד 20 תוים";
+COMPLETE_CITY = "כדי לערוך כתובת, השלם את שדה העיר";
+NO_REVIEW_INACTIVE_BUSINESS1 = "You can't review ";
+NO_REVIEW_INACTIVE_BUSINESS2 = " because it's inactive";
+NO_EVENT_IN_THE_PAST = "!אתה לא יכול לעשות אירועים בעבר";
+NO_HOURS_IN_THE_PAST = "!בדוק את השעות שנבחרו: חלקן נמצאות בעבר";

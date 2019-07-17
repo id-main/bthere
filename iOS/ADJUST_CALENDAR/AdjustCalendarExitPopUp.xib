@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="AdjustCalendarExitPopUp" customModule="Bthere" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jan-1b-bCg">
+                    <rect key="frame" x="28" y="173.5" width="319" height="100"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2ZG-Zc-cf7">
+                            <rect key="frame" x="0.0" y="69" width="319" height="1"/>
+                            <color key="backgroundColor" red="0.05975616349" green="0.054706364729999998" blue="0.051348592679999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="dok-Gm-wOR"/>
+                            </constraints>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nfR-Yh-Dly">
+                            <rect key="frame" x="126.5" y="75" width="66" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="8Zu-Yb-rdh"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                            <state key="normal" title="Confirm">
+                                <color key="titleColor" red="0.57254901960000004" green="0.79607843140000001" blue="0.84705882349999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="confirmAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="dhA-Oe-VGs"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This appointment can not be scheduled because there is an overlapping listing in your calendar" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="onv-Lf-SOB">
+                            <rect key="frame" x="3" y="7" width="313" height="52.5"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.96078431369999995" green="0.93725490199999995" blue="0.90980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="2ZG-Zc-cf7" firstAttribute="leading" secondItem="jan-1b-bCg" secondAttribute="leading" id="1dK-zq-3Ao"/>
+                        <constraint firstAttribute="bottom" secondItem="nfR-Yh-Dly" secondAttribute="bottom" constant="5" id="4PW-Bz-wLm"/>
+                        <constraint firstItem="onv-Lf-SOB" firstAttribute="leading" secondItem="jan-1b-bCg" secondAttribute="leading" constant="3" id="5Xe-xD-LFq"/>
+                        <constraint firstAttribute="height" constant="100" id="9Qo-Xg-vqr"/>
+                        <constraint firstAttribute="trailing" secondItem="onv-Lf-SOB" secondAttribute="trailing" constant="3" id="KPJ-KM-Wur"/>
+                        <constraint firstItem="onv-Lf-SOB" firstAttribute="centerX" secondItem="jan-1b-bCg" secondAttribute="centerX" id="gxh-dp-IEp"/>
+                        <constraint firstItem="nfR-Yh-Dly" firstAttribute="top" secondItem="2ZG-Zc-cf7" secondAttribute="bottom" constant="5" id="hKq-cp-gOf"/>
+                        <constraint firstItem="onv-Lf-SOB" firstAttribute="top" secondItem="jan-1b-bCg" secondAttribute="top" constant="7" id="hrq-xz-PAo"/>
+                        <constraint firstItem="nfR-Yh-Dly" firstAttribute="centerX" secondItem="jan-1b-bCg" secondAttribute="centerX" id="iw6-vS-sWx"/>
+                        <constraint firstAttribute="trailing" secondItem="2ZG-Zc-cf7" secondAttribute="trailing" id="n1L-c1-MGw"/>
+                    </constraints>
+                    <viewLayoutGuide key="safeArea" id="pGy-Nh-7iV"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="jan-1b-bCg" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.85" id="EdW-Cv-oeX"/>
+                <constraint firstItem="jan-1b-bCg" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" multiplier="0.65" id="Y8E-0z-qK3"/>
+                <constraint firstItem="jan-1b-bCg" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="lkz-R6-dLb"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="confirmBtn" destination="nfR-Yh-Dly" id="5lp-8g-KNe"/>
+                <outlet property="popUpTitle" destination="onv-Lf-SOB" id="dQW-Hc-WTv"/>
+                <outlet property="popUpView" destination="jan-1b-bCg" id="rXy-70-KK0"/>
+            </connections>
+        </view>
+    </objects>
+</document>

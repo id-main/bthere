@@ -1,0 +1,75 @@
+/* 
+  Analytics.strings
+  BThere
+
+  Created by BThere on 10/16/18.
+  Copyright © 2018 Webit. All rights reserved.
+*/
+
+
+//Index   Desired event name in Google Dashboard Screen description in app
+0=""; //KEEP THIS CLEAR
+1="Entrance screen";//Entrance screen
+2="Customer Registration";//Register user
+3="Supplier Registration";//Register business
+4="Customer HomePage";//Entrance screen customer
+5="Search Results";//Search results
+6="List Of Services";//List services
+7="Customer Side Calendar";//Customer calendar
+8="Customer Side Calendar - Day View";//Day View Customer calendar
+9="Customer Side Calendar - Week View";//Week View Customer calendar
+10="Customer Side Calendar - Month View";//Month View Customer calendar
+11="Customer Side Calendar - List View";//List View Customer calendar
+12="Meeting Process- Calendar";//Customer make appointment calendar
+13="Meeting Process- Calendar - Day View";//Day view make appointment
+14="Meeting Process- Calendar - Week View";//Week View  make appointment
+15="Meeting Process- Calendar - Month View";//Month View  make appointment
+16="Customer Side Plus Menu";//Plus Menu customer
+17="Short delay";//Short delay
+18="Help";//Help
+19="Meeting Cancelation";//Cancellation
+20="My appointments";//My appointments
+21="Live Chat";//Live Chat
+22="Providers list";//Providers list
+23="Customer settings";//Customer settings
+24="Personal information";//Personal information
+25="Notifications";//Notifications
+26="Language Screen";//Language Screen
+27="About us";//About us
+28="Meeting Details - Customer";//Detail appointment customer
+29="Meeting Details - Supplier";//Detail appointment supplier
+30="Supplier Side Plus Menu";//Plus menu supplier
+31="New Meeting";//New appointment
+32="New Event";//New event
+33="Add Block Hours";//Block hours
+34="Cancel Block Hours";//Cancel block hours
+35="Customer Approval";//Customers approval
+36="Supplier Help";//Help
+37="Mass Notification For Customer";//Message to Customers
+38="Supplier Settings - Business Profile";//Own Business Profile
+39="My Customers";//My customers
+40="Suppliers Profile Page View";//Other Business Profile
+41="Add Occasional Customer";//Add occasional customer
+42="Add New Customer";//Add new customer
+43="Delete Customer";//Delete Customer
+44="Supplier Side- Customer List of Meetings";//List of customer Meetings
+45="Customer Profile";//Customer profile
+46="Update Customer";//Update customer
+47="Supplier Settings";//Provider settings
+48="Supplier Settings- Notifications";//Notifications settings
+49="Supplier Settings- General Details";//General Details
+50="Supplier Settings- Business Details ";//Own Business Details
+51="Supplier Settings- Manage Calendar";//Manage calendar
+52="Supplier Settings- Sync Contacts";//Sync contacts
+53="Supplier Settings- Employees";//Employees
+54="Supplier Settings- Payment ";//Payment screen
+55="Supplier Notification List";//Notifications list for supplier
+56="Tax Report ";//Reports (6 motnhs)
+57="Print Calendar";//Print calendar
+58="Multiple Appoinments";//Multiple Appoinments
+59="Supplier Side Calendar";//Supplier calendar
+60="Supplier Side Calendar - Day View";//Day View Supplier calendar
+61="Supplier Side Calendar - Week View";//Week View Supplier calendar
+62="Supplier Side Calendar - Month View";//Month View Supplier calendar
+63="Supplier Side Calendar - List View";//List View Supplier calendar
+

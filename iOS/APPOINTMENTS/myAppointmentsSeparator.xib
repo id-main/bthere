@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Fva-mH-bhR">
+                    <rect key="frame" x="19" y="0.0" width="337.5" height="133.5"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PRb-fu-FYl">
+                    <rect key="frame" x="19" y="533.5" width="337.5" height="133.5"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.96078431369999995" green="0.93725490199999995" blue="0.90980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="PRb-fu-FYl" firstAttribute="height" secondItem="Fva-mH-bhR" secondAttribute="height" id="8Sk-Zi-h1M"/>
+                <constraint firstItem="Fva-mH-bhR" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" multiplier="0.2" id="8jF-ej-cDX"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="PRb-fu-FYl" secondAttribute="bottom" id="C23-VU-7A3"/>
+                <constraint firstItem="Fva-mH-bhR" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.9" id="H6i-CW-SwE"/>
+                <constraint firstItem="Fva-mH-bhR" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="L3p-IT-8Bh"/>
+                <constraint firstItem="Fva-mH-bhR" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="PYo-wB-YRI"/>
+                <constraint firstItem="PRb-fu-FYl" firstAttribute="centerX" secondItem="Fva-mH-bhR" secondAttribute="centerX" id="hQj-Ri-psK"/>
+                <constraint firstItem="PRb-fu-FYl" firstAttribute="width" secondItem="Fva-mH-bhR" secondAttribute="width" id="hjZ-NK-QYZ"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="39.200000000000003" y="46.326836581709152"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,762 @@
+ 76K	iOS//he.lproj
+ 32K	iOS//CHANGE_LOCATION_IN_SEARCH
+152K	iOS//ADD_EMPLOYES_NEW/editemployee
+752K	iOS//ADD_EMPLOYES_NEW
+ 68K	iOS//en.lproj
+8.0K	iOS//bthree-iosTests
+8.0K	iOS//Fabric.framework/Headers
+4.0K	iOS//Fabric.framework/Modules
+ 10M	iOS//Fabric.framework
+ 48K	iOS//Crashlytics.framework/Headers
+4.0K	iOS//Crashlytics.framework/Modules
+ 21M	iOS//Crashlytics.framework
+ 16K	iOS//SECURITY
+8.0K	iOS//bthree-iosUITests
+ 12K	iOS//BthereUITests
+100K	iOS//SETTINGSWORKINGHOURS
+136K	iOS//ADD_CALENDAR/editcalendar
+740K	iOS//ADD_CALENDAR
+ 20K	iOS//CERTIFICATES
+8.0K	iOS//BthereTests
+ 84K	iOS//components/jquery
+ 20K	iOS//components/underscore
+664K	iOS//components/d3
+ 12K	iOS//components/ace/snippets
+1.8M	iOS//components/ace
+8.0K	iOS//components/editor
+ 36K	iOS//components/depvis
+ 16K	iOS//components/sidr/stylesheets
+ 28K	iOS//components/sidr
+2.6M	iOS//components
+240K	iOS//ADJUST_CALENDAR
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/de.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ur.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/he.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ar.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/el.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/zh-Hans.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ja.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/fa.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/sr-Cyrl.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/eu.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/en.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/nb-NO.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/es.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/sl.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/da.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/et.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/it.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/sr-Latn.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/fa-AF.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ms.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/sv.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/cs.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ko.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/hy.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/zh-Hant.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/fa-IR.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/hu.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/tr.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/pl.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/vi.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/lv.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/lt.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/ru.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/fr.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/fi.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/id.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/nl.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/th.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/pt.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/pt-PT.lproj
+4.0K	iOS//Pods/Siren/Sources/Siren.bundle/hr.lproj
+164K	iOS//Pods/Siren/Sources/Siren.bundle
+220K	iOS//Pods/Siren/Sources
+240K	iOS//Pods/Siren
+ 56K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI
+ 16K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery
+ 16K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Cryptography
+ 52K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network
+8.0K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Base64
+100K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/Codeless
+228K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents
+ 28K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog
+ 76K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching
+ 44K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions
+ 96K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI
+108K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration
+8.0K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppLink
+920K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal
+ 20K	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal_NoARC
+1.4M	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit
+1.4M	iOS//Pods/FBSDKCoreKit/FBSDKCoreKit
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/de.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/he.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ar.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/el.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ja.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/mr.lproj
+ 12K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/gu.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/kn.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nb.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pa.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/da.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/it.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sk.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt_PT.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ms.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ta.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ml.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sv.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/te.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/cs.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ko.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fil.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hu.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/tr.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pl.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en_GB.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/vi.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ru.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/af.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es_ES.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fr.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fi.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/id.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nl.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/th.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/bn.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hr.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hi.lproj
+8.0K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh.lproj
+356K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources
+356K	iOS//Pods/FBSDKCoreKit/FacebookSDKStrings.bundle
+1.8M	iOS//Pods/FBSDKCoreKit
+ 32K	iOS//Pods/AACarousel/Sources
+ 52K	iOS//Pods/AACarousel
+112K	iOS//Pods/Pods.xcodeproj/xcuserdata/BThere.xcuserdatad/xcschemes
+112K	iOS//Pods/Pods.xcodeproj/xcuserdata/BThere.xcuserdatad
+ 92K	iOS//Pods/Pods.xcodeproj/xcuserdata/iustinbthere.xcuserdatad/xcschemes
+ 92K	iOS//Pods/Pods.xcodeproj/xcuserdata/iustinbthere.xcuserdatad
+204K	iOS//Pods/Pods.xcodeproj/xcuserdata
+820K	iOS//Pods/Pods.xcodeproj
+ 28K	iOS//Pods/FirebaseCore/Firebase/Core/Public
+ 76K	iOS//Pods/FirebaseCore/Firebase/Core/Private
+204K	iOS//Pods/FirebaseCore/Firebase/Core
+204K	iOS//Pods/FirebaseCore/Firebase
+224K	iOS//Pods/FirebaseCore
+ 88K	iOS//Pods/MGSwipeTableCell/MGSwipeTableCell
+104K	iOS//Pods/MGSwipeTableCell
+ 28K	iOS//Pods/Target Support Files/Siren
+ 28K	iOS//Pods/Target Support Files/FBSDKCoreKit
+4.0K	iOS//Pods/Target Support Files/AACarousel
+4.0K	iOS//Pods/Target Support Files/Alamofire
+148K	iOS//Pods/Target Support Files/Pods-Bthere
+ 20K	iOS//Pods/Target Support Files/FirebaseCore
+ 28K	iOS//Pods/Target Support Files/MGSwipeTableCell
+4.0K	iOS//Pods/Target Support Files/FirebaseInstanceID
+ 28K	iOS//Pods/Target Support Files/NVActivityIndicatorView
+ 36K	iOS//Pods/Target Support Files/Font-Awesome-Swift
+ 28K	iOS//Pods/Target Support Files/Kronos
+ 28K	iOS//Pods/Target Support Files/Bolts
+ 28K	iOS//Pods/Target Support Files/FacebookCore
+4.0K	iOS//Pods/Target Support Files/Firebase
+ 28K	iOS//Pods/Target Support Files/FBSDKLoginKit
+4.0K	iOS//Pods/Target Support Files/GoogleAnalytics
+ 28K	iOS//Pods/Target Support Files/FacebookShare
+4.0K	iOS//Pods/Target Support Files/FirebaseAnalytics
+ 28K	iOS//Pods/Target Support Files/FacebookLogin
+ 28K	iOS//Pods/Target Support Files/MarqueeLabel
+ 28K	iOS//Pods/Target Support Files/IQKeyboardManagerSwift
+ 28K	iOS//Pods/Target Support Files/GoogleUtilities
+ 24K	iOS//Pods/Target Support Files/GooglePlacesSearchController
+ 28K	iOS//Pods/Target Support Files/nanopb
+4.0K	iOS//Pods/Target Support Files/GoogleAppMeasurement
+ 28K	iOS//Pods/Target Support Files/FBSDKShareKit
+ 28K	iOS//Pods/Target Support Files/PhoneNumberKit
+704K	iOS//Pods/Target Support Files
+ 20K	iOS//Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers
+4.0K	iOS//Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules
+5.2M	iOS//Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework
+5.2M	iOS//Pods/FirebaseInstanceID/Frameworks
+5.2M	iOS//Pods/FirebaseInstanceID
+148K	iOS//Pods/NVActivityIndicatorView/NVActivityIndicatorView/Animations
+192K	iOS//Pods/NVActivityIndicatorView/NVActivityIndicatorView
+208K	iOS//Pods/NVActivityIndicatorView
+204K	iOS//Pods/Font-Awesome-Swift/Source
+216K	iOS//Pods/Font-Awesome-Swift
+ 12K	iOS//Pods/Local Podspecs
+ 56K	iOS//Pods/Kronos/Sources
+ 64K	iOS//Pods/Kronos
+ 16K	iOS//Pods/Bolts/Bolts/iOS/Internal
+124K	iOS//Pods/Bolts/Bolts/iOS
+ 80K	iOS//Pods/Bolts/Bolts/Common
+204K	iOS//Pods/Bolts/Bolts
+240K	iOS//Pods/Bolts
+ 44K	iOS//Pods/FacebookCore/Sources/Core/GraphRequest
+8.0K	iOS//Pods/FacebookCore/Sources/Core/Internal/Extensions
+8.0K	iOS//Pods/FacebookCore/Sources/Core/Internal
+ 56K	iOS//Pods/FacebookCore/Sources/Core/AppEvents
+ 20K	iOS//Pods/FacebookCore/Sources/Core/Permissions
+ 28K	iOS//Pods/FacebookCore/Sources/Core/Common
+ 20K	iOS//Pods/FacebookCore/Sources/Core/UserProfile
+176K	iOS//Pods/FacebookCore/Sources/Core
+176K	iOS//Pods/FacebookCore/Sources
+192K	iOS//Pods/FacebookCore
+8.0K	iOS//Pods/Firebase/CoreOnly/Sources
+8.0K	iOS//Pods/Firebase/CoreOnly
+ 12K	iOS//Pods/Firebase
+100K	iOS//Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal
+276K	iOS//Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit
+276K	iOS//Pods/FBSDKLoginKit/FBSDKLoginKit
+284K	iOS//Pods/FBSDKLoginKit
+  0B	iOS//Pods/Headers/Public/Firebase
+  0B	iOS//Pods/Headers/Public/GoogleAnalytics
+  0B	iOS//Pods/Headers/Public
+  0B	iOS//Pods/Headers/Private/Firebase
+  0B	iOS//Pods/Headers/Private/GoogleAnalytics
+  0B	iOS//Pods/Headers/Private
+  0B	iOS//Pods/Headers
+6.2M	iOS//Pods/GoogleAnalytics/Libraries
+ 56K	iOS//Pods/GoogleAnalytics/Sources
+6.3M	iOS//Pods/GoogleAnalytics
+ 12K	iOS//Pods/FacebookShare/Sources/Share/Internal
+8.0K	iOS//Pods/FacebookShare/Sources/Share/Content/Video
+ 16K	iOS//Pods/FacebookShare/Sources/Share/Content/Common
+ 28K	iOS//Pods/FacebookShare/Sources/Share/Content/OpenGraph
+8.0K	iOS//Pods/FacebookShare/Sources/Share/Content/Link
+8.0K	iOS//Pods/FacebookShare/Sources/Share/Content/Photo
+ 68K	iOS//Pods/FacebookShare/Sources/Share/Content
+ 12K	iOS//Pods/FacebookShare/Sources/Share/Content Sharing
+ 24K	iOS//Pods/FacebookShare/Sources/Share/Dialogs/AppInvite
+ 28K	iOS//Pods/FacebookShare/Sources/Share/Dialogs/GameRequest
+ 12K	iOS//Pods/FacebookShare/Sources/Share/Dialogs/ShareDialog
+4.0K	iOS//Pods/FacebookShare/Sources/Share/Dialogs/MessageDialog
+ 72K	iOS//Pods/FacebookShare/Sources/Share/Dialogs
+ 36K	iOS//Pods/FacebookShare/Sources/Share/Views
+204K	iOS//Pods/FacebookShare/Sources/Share
+204K	iOS//Pods/FacebookShare/Sources
+220K	iOS//Pods/FacebookShare
+ 64K	iOS//Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers
+4.0K	iOS//Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules
+524K	iOS//Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework
+4.0K	iOS//Pods/FirebaseAnalytics/Frameworks/FIRAnalyticsConnector.framework/Modules
+276K	iOS//Pods/FirebaseAnalytics/Frameworks/FIRAnalyticsConnector.framework
+4.0K	iOS//Pods/FirebaseAnalytics/Frameworks/FirebaseCoreDiagnostics.framework/Modules
+2.7M	iOS//Pods/FirebaseAnalytics/Frameworks/FirebaseCoreDiagnostics.framework
+3.4M	iOS//Pods/FirebaseAnalytics/Frameworks
+3.4M	iOS//Pods/FirebaseAnalytics
+ 40K	iOS//Pods/FacebookLogin/Sources/Login
+ 40K	iOS//Pods/FacebookLogin/Sources
+ 56K	iOS//Pods/FacebookLogin
+ 72K	iOS//Pods/MarqueeLabel/Sources/Swift
+ 72K	iOS//Pods/MarqueeLabel/Sources
+ 88K	iOS//Pods/MarqueeLabel
+  0B	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManager
+8.0K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView
+ 68K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar
+ 12K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants
+ 32K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle
+ 32K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Resources
+ 32K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories
+276K	iOS//Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift
+292K	iOS//Pods/IQKeyboardManagerSwift
+8.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Private
+ 16K	iOS//Pods/GoogleUtilities/GoogleUtilities/UserDefaults
+ 16K	iOS//Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Private
+ 24K	iOS//Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler
+4.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/Logger/Public
+8.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/Logger/Private
+ 20K	iOS//Pods/GoogleUtilities/GoogleUtilities/Logger
+ 24K	iOS//Pods/GoogleUtilities/GoogleUtilities/Network/Private
+ 80K	iOS//Pods/GoogleUtilities/GoogleUtilities/Network
+4.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/Common
+8.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/Reachability/Private
+ 24K	iOS//Pods/GoogleUtilities/GoogleUtilities/Reachability
+4.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Internal
+4.0K	iOS//Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Private
+ 44K	iOS//Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler
+ 16K	iOS//Pods/GoogleUtilities/GoogleUtilities/Environment/third_party
+ 16K	iOS//Pods/GoogleUtilities/GoogleUtilities/Environment
+ 12K	iOS//Pods/GoogleUtilities/GoogleUtilities/NSData+zlib
+240K	iOS//Pods/GoogleUtilities/GoogleUtilities
+260K	iOS//Pods/GoogleUtilities
+ 12K	iOS//Pods/GooglePlacesSearchController/Pod/Classes
+ 12K	iOS//Pods/GooglePlacesSearchController/Pod/Assets
+ 24K	iOS//Pods/GooglePlacesSearchController/Pod
+ 32K	iOS//Pods/GooglePlacesSearchController
+132K	iOS//Pods/nanopb
+4.0K	iOS//Pods/GoogleAppMeasurement/Frameworks/GoogleAppMeasurement.framework/Modules
+ 22M	iOS//Pods/GoogleAppMeasurement/Frameworks/GoogleAppMeasurement.framework
+ 22M	iOS//Pods/GoogleAppMeasurement/Frameworks
+ 22M	iOS//Pods/GoogleAppMeasurement
+1.1M	iOS//Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal
+1.7M	iOS//Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit
+1.7M	iOS//Pods/FBSDKShareKit/FBSDKShareKit
+1.7M	iOS//Pods/FBSDKShareKit
+ 12K	iOS//Pods/PhoneNumberKit/PhoneNumberKit/UI
+336K	iOS//Pods/PhoneNumberKit/PhoneNumberKit/Resources
+448K	iOS//Pods/PhoneNumberKit/PhoneNumberKit
+460K	iOS//Pods/PhoneNumberKit
+ 45M	iOS//Pods
+ 88K	iOS//SETUPSERVICES
+ 80K	iOS//SETUPWORKINGHOURS
+116K	iOS//VIEW_BUSINESS_PROFILE
+ 24K	iOS//STARTUP_SLIDER_CLASS
+ 88K	iOS//ru.lproj
+ 16K	iOS//lib/swift-ast-dump
+8.0K	iOS//lib/sourcekitten
+4.0K	iOS//lib/swift
+4.0K	iOS//lib/objc
+ 12K	iOS//lib/helpers
+ 60K	iOS//lib
+9.9M	iOS//GET_TO_KNOW_THE_SYSTEM
+4.0K	iOS//BThere.xcworkspace/xcuserdata/BThere.xcuserdatad/xcdebugger
+688K	iOS//BThere.xcworkspace/xcuserdata/BThere.xcuserdatad
+4.0K	iOS//BThere.xcworkspace/xcuserdata/iustinbthere.xcuserdatad/xcdebugger
+220K	iOS//BThere.xcworkspace/xcuserdata/iustinbthere.xcuserdatad
+908K	iOS//BThere.xcworkspace/xcuserdata
+8.0K	iOS//BThere.xcworkspace/xcshareddata
+920K	iOS//BThere.xcworkspace
+ 16K	iOS//RTF_TXT/SYNC_CONTACTS
+ 12K	iOS//RTF_TXT/TRIAL_VERSION_EXPLAIN
+8.0K	iOS//RTF_TXT/PERMISSIONS_EXPLAIN
+8.0K	iOS//RTF_TXT/WORKING_HOURS_POPUP
+ 16K	iOS//RTF_TXT/HELP_EXPLAIN
+172K	iOS//RTF_TXT/TERMS_OF_USE
+ 12K	iOS//RTF_TXT/ABOUT_US
+244K	iOS//RTF_TXT
+4.0K	iOS//BThere.xcodeproj/xcuserdata/BThere.xcuserdatad/xcdebugger
+ 12K	iOS//BThere.xcodeproj/xcuserdata/BThere.xcuserdatad/xcschemes
+ 16K	iOS//BThere.xcodeproj/xcuserdata/BThere.xcuserdatad
+4.0K	iOS//BThere.xcodeproj/xcuserdata/ShoshanaWolpin.xcuserdatad/xcdebugger
+8.0K	iOS//BThere.xcodeproj/xcuserdata/ShoshanaWolpin.xcuserdatad/xcschemes
+ 12K	iOS//BThere.xcodeproj/xcuserdata/ShoshanaWolpin.xcuserdatad
+ 76K	iOS//BThere.xcodeproj/xcuserdata/liorronen.xcuserdatad/xcdebugger
+ 20K	iOS//BThere.xcodeproj/xcuserdata/liorronen.xcuserdatad/xcschemes
+ 96K	iOS//BThere.xcodeproj/xcuserdata/liorronen.xcuserdatad
+ 48K	iOS//BThere.xcodeproj/xcuserdata/rachelikoriz.xcuserdatad/xcdebugger
+ 12K	iOS//BThere.xcodeproj/xcuserdata/rachelikoriz.xcuserdatad/xcschemes
+ 60K	iOS//BThere.xcodeproj/xcuserdata/rachelikoriz.xcuserdatad
+8.0K	iOS//BThere.xcodeproj/xcuserdata/user.xcuserdatad/xcdebugger
+ 24K	iOS//BThere.xcodeproj/xcuserdata/user.xcuserdatad/xcschemes
+ 32K	iOS//BThere.xcodeproj/xcuserdata/user.xcuserdatad
+4.0K	iOS//BThere.xcodeproj/xcuserdata/server.xcuserdatad/xcdebugger
+8.0K	iOS//BThere.xcodeproj/xcuserdata/server.xcuserdatad/xcschemes
+ 12K	iOS//BThere.xcodeproj/xcuserdata/server.xcuserdatad
+4.0K	iOS//BThere.xcodeproj/xcuserdata/iustinbthere.xcuserdatad/xcschemes
+4.0K	iOS//BThere.xcodeproj/xcuserdata/iustinbthere.xcuserdatad
+232K	iOS//BThere.xcodeproj/xcuserdata
+ 20K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/BThere.xcuserdatad
+ 20K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/ShoshanaWolpin.xcuserdatad
+136K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/liorronen.xcuserdatad
+260K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/rachelikoriz.xcuserdatad
+836K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/user.xcuserdatad
+192K	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata/server.xcuserdatad
+1.4M	iOS//BThere.xcodeproj/project.xcworkspace/xcuserdata
+ 12K	iOS//BThere.xcodeproj/project.xcworkspace/xcshareddata
+1.4M	iOS//BThere.xcodeproj/project.xcworkspace
+4.0K	iOS//BThere.xcodeproj/xcshareddata/xcdebugger
+8.0K	iOS//BThere.xcodeproj/xcshareddata/xcschemes
+ 12K	iOS//BThere.xcodeproj/xcshareddata
+2.2M	iOS//BThere.xcodeproj
+ 40K	iOS//ro.lproj
+4.0K	iOS//bthree-ios/he.lproj
+8.0K	iOS//bthree-ios/Resources/sagetibusines
+ 68K	iOS//bthree-ios/Resources/cameraicons
+ 12M	iOS//bthree-ios/Resources/BACKGROUNDS
+ 48K	iOS//bthree-ios/Resources/PLUSIMAGE
+1.6M	iOS//bthree-ios/Resources/Icons/x1
+ 80K	iOS//bthree-ios/Resources/Icons/x3
+612K	iOS//bthree-ios/Resources/Icons/x2
+ 60K	iOS//bthree-ios/Resources/Icons/payicons
+3.4M	iOS//bthree-ios/Resources/Icons
+184K	iOS//bthree-ios/Resources/PLUSMENUNEWCLIENT
+600K	iOS//bthree-ios/Resources/Font
+ 20M	iOS//bthree-ios/Resources
+8.0K	iOS//bthree-ios/Assets.xcassets/remove_picture.imageset
+256K	iOS//bthree-ios/Assets.xcassets/AppIcon-1.appiconset
+ 14M	iOS//bthree-ios/Assets.xcassets/LaunchImage-1.launchimage
+ 14M	iOS//bthree-ios/Assets.xcassets
+  0B	iOS//bthree-ios/Models
+4.0K	iOS//bthree-ios/Base.lproj
+232K	iOS//bthree-ios/Model/MODELS
+240K	iOS//bthree-ios/Model
+4.0K	iOS//bthree-ios/Images.xcassets/Brand Assets.launchimage
+4.0K	iOS//bthree-ios/Images.xcassets/LaunchImage.launchimage
+ 12K	iOS//bthree-ios/Images.xcassets
+4.0K	iOS//bthree-ios/ru.lproj
+152K	iOS//bthree-ios/Api
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/iw.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/in.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/no.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle/ca.lproj
+324K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPCommonSharedResources.bundle
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/iw.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/in.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/sv.lproj
+ 44K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/GPPNativeShareBuilderImpl~ipad.storyboardc
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/no.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/th.lproj
+ 44K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/GPPNativeShareBuilderImpl.storyboardc
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle/ca.lproj
+340K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPShareboxSharedResources.bundle
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ro.lproj
+ 16K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/GPPOAuth2ViewTouch.nib
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle/ca.lproj
+1.2M	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.bundle
+376K	iOS//bthree-ios/Frameworks/GooglePlus/GoogleOpenSource.framework/Versions/A/Headers
+5.1M	iOS//bthree-ios/Frameworks/GooglePlus/GoogleOpenSource.framework/Versions/A
+5.1M	iOS//bthree-ios/Frameworks/GooglePlus/GoogleOpenSource.framework/Versions
+5.1M	iOS//bthree-ios/Frameworks/GooglePlus/GoogleOpenSource.framework
+ 40K	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.framework/Versions/A/Headers
+9.5M	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.framework/Versions/A
+9.5M	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.framework/Versions
+9.5M	iOS//bthree-ios/Frameworks/GooglePlus/GooglePlus.framework
+ 16M	iOS//bthree-ios/Frameworks/GooglePlus
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj
+2.5M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCoreResources.bundle
+ 24K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle/GMSCacheStorage.momd
+2.7M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.bundle
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en_AU.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/es_419.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pt_BR.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en_IN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/zh_HK.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/fr_CA.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/hi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj
+3.2M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/en_AU.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/es_419.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/pt_BR.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/en_IN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/zh_HK.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/fr_CA.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/hi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle/ca.lproj
+228K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlaces.bundle
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/en_AU.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/es_419.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/es_MX.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/nb.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/pt_BR.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/en_IN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/zh_HK.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/fr_CA.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/hi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle/ca.lproj
+296K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GooglePlacePicker.bundle
+ 24K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCacheStorage.momd
+3.7M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle
+3.7M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Resources
+296K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Headers
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A/Modules
+ 77M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions/A
+ 77M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework/Versions
+ 77M	iOS//bthree-ios/Frameworks/GoogleMaps/GoogleMaps.framework
+ 79M	iOS//bthree-ios/Frameworks/GoogleMaps
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj
+3.1M	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCoreResources.bundle
+ 24K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle/GMSCacheStorage.momd
+3.3M	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle
+3.3M	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Resources
+240K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Headers
+4.0K	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A/Modules
+ 76M	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions/A
+ 76M	iOS//bthree-ios/Frameworks/GoogleMaps.framework/Versions
+ 76M	iOS//bthree-ios/Frameworks/GoogleMaps.framework
+128K	iOS//bthree-ios/Frameworks/Api/UIKit+AFNetworking
+380K	iOS//bthree-ios/Frameworks/Api/AFNetworking
+516K	iOS//bthree-ios/Frameworks/Api
+200K	iOS//bthree-ios/Frameworks/MapKit.framework/Headers
+4.0K	iOS//bthree-ios/Frameworks/MapKit.framework/Modules
+224K	iOS//bthree-ios/Frameworks/MapKit.framework
+ 92K	iOS//bthree-ios/Frameworks/SWR
+172M	iOS//bthree-ios/Frameworks
+1.0M	iOS//bthree-ios/Controllers/SupplierExist
+5.1M	iOS//bthree-ios/Controllers
+8.0K	iOS//bthree-ios/Views/Quickstart.xcworkspace/xcuserdata/liorronen.xcuserdatad
+8.0K	iOS//bthree-ios/Views/Quickstart.xcworkspace/xcuserdata
+ 12K	iOS//bthree-ios/Views/Quickstart.xcworkspace
+1.5M	iOS//bthree-ios/Views
+4.0K	iOS//bthree-ios/ro.lproj
+ 64K	iOS//bthree-ios/Helpers/WD_IMAGE_CROP
+ 76K	iOS//bthree-ios/Helpers/google maps
+564K	iOS//bthree-ios/Helpers
+223M	iOS//bthree-ios
+380K	iOS//SETTINGS SERVICES
+320M	iOS/

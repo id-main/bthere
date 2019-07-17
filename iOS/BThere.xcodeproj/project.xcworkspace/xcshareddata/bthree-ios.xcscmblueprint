@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "184BF547A8C79C5DE52FB0AADEBA7487B6841978",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19FA94759F1590B6CBF55819E5242F89D9C7D18D" : 0,
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D386583-1448-4B0C-A99D-E6FC9EFCB980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19FA94759F1590B6CBF55819E5242F89D9C7D18D" : "",
+    "184BF547A8C79C5DE52FB0AADEBA7487B6841978" : "bthere\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "bthree-ios",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "bthree-ios.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Tami_wexelbom\/bthree-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "184BF547A8C79C5DE52FB0AADEBA7487B6841978"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/WebitMobile\/git.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19FA94759F1590B6CBF55819E5242F89D9C7D18D"
+    }
+  ]
+}

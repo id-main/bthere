@@ -1,0 +1,1173 @@
+/*
+ Localizable.strings
+ bthree-ios
+ 
+ Created by Tami wexelbom on 2/16/16.
+ Copyright © 2016 Webit. All rights reserved.
+ */
+//MARK: - הרשמה
+ADDRESS_CITY ="Address: ";
+POPUP_FB_GOOGLE = "Clicking OK will delete the data you have entered new replacements";
+OK = "Ok";
+CANCEL = "Cancel";
+YES = "Yes";
+NO = "No";
+HOURS = "Hours";
+MINUTES = "Minutes";
+SAVE_BTN = "Save";
+
+
+CONTINUE = "Continue";
+FIRSTNAME_LBL = "Full name";
+L_NAME = "Last name";
+LOGIN_TITLE = "Login";
+FULLNAME_LBL = "First and last name*";
+PHONE_LBL = "Phone number";
+FULLNAME_LBL = "First and last name*";
+DATEBURN_LBL = "Date of birth";
+EMAIL_LBL = "Email";
+IMAGEUPLOAD_LBL = "Upload picture";
+QUICKREGISTERWITH = "Fast registeration with:";
+ORFILLNEXTDETAILS = "";
+REQUIREFIELD = "*Required field";
+READCONDITIONOK = "I agree to the";
+TERMSOFUSE =" terms of use";
+AGREE_GET_ADVERTISEMENTS = "I agree to recieve advertising information";
+MESSAGE = "new! Direct payment to supplier. Did not you? You have not paid!";
+REGISTER_BTN = "Sign in";
+PAYMENTSDETAILSQUESTION = "Do you want us to keep your credit card details for future convinient payment?";
+
+//MARK: - RegisterViewController
+FIRST_NAME = "Full name";
+LAST_NAME = "Last name";
+PHONE_NUMBER = "Phone number";
+MAIL_USER = "Email";
+MAIL = "e-mail";
+REGULATION = "to user and privacy agreement";
+ADD_ASS_BUSINESS = "and add your business to";
+SYNC_CALENDAR = "Sync with my calendar";
+//validation
+ENTER_TEN_DIGITS = "Please enter a valid phone number containing 10 digits";
+MAX_CHR_NAME = "You can introduce up to 100 characters";
+MAX_CHR_EMAIL = "You can introduce up to 100 characters";
+
+//MARK: - RgisterModelViewController
+BUSINESS_DETAILS = "Business details";
+GLOBAL_DATA = "General Details";
+NOTIFICATIONS = "Notifications";
+BUSINESS_PROPHIL = "Business Profile Page";
+SYNC_WITH_CONTACTS = "Confirm Contacts";
+PAYMENT = "Payment";
+MESSAGE_TITLE = "Message";
+EXIT_REGISTER = "Are you sure you want to stop registering as a new business?";
+OK_PAY = "Accept and pay";
+ERROR_REGISTER = "There has been an error during your registration as a business";
+ERROR_UPDATE_GENERAL_DETAILS = "There has been an error during update General Details";
+
+
+
+//PopUpWorkingHours
+POP_UP_WORKING_HOURS_TITLE = "Working Hours";
+
+//MARK: - RegisterPaymentPage7ViewController
+PAYMENT_CREDIT_CARD = "Payment by credit card";
+CARD_OWNER_NAME = "Cardholder's name";
+CARD_TYPE = "Card type";
+CARD_NUM = "Card number";
+CARD_VALIDITY = "Expiration date";
+BACK_DIGITS = "CVV";
+MONTH = "MM";
+YEAR = "YY";
+CARD_TYPE_NAME = "visa";
+
+//MARK: - RegulationViewController
+REG_TITLE = "Terms and conditions";
+
+//MARK: - MessageVerificationViewController
+ERROR_SAVECHANGES = "Error saving changes";
+SUCCESS_SAVECHANGES = "Your personal details were uploaded successfully";
+MESSAGE_VERIFICATION = "Verification code";
+ILLEGAL_VERIFICATION = "You entered the wrong verification code, \n after 3 attempts the app will lock itself";
+PASSWORD_NOT_ENTERD = "Password not entered";
+SEND_AGAIN = "Send again";
+ENTER_VERIFICATION = "Enter the code sent to your device";
+NOT_GET_VERIF = "I didn't receive the code,";
+
+//MARK: - GlobalDataViewController
+DOMAIN = "*Business type";
+HOURS_ACTIVITY = "*Working hours";
+ADD_WORKERS = "Add employee";
+//SERVICE_PRODUCT = "*Service/Product";
+SERVICE_PRODUCT = "*Service";
+TURN_SETTINGS = "Appointments setting";
+
+//MARK: - itemInSection3
+HOURS_ACTIVE = "Working hours";
+EQUAL_HOURS = "Are his working hours identical to the business working hours?";
+ADD_WORKER = "Add employee";
+
+//MARK: - HoursActiveTableViewCell
+RECESS = "breaks";
+//validation
+CANT_SELECT_ALL_DAYS_BEFORE_RECESS = "You can not mark the days before choosing one day breaks";
+CANT_SELECT_ALL_DAYS_BEFORE_HOURS = "You can not mark the days before choosing one day hours";
+CHOOSE_ALL = "Mark all days";
+
+//MARK: - RecessesTableViewCell
+ADD_RECCESS = "Add breaks";
+
+//MARK: - AddNewServiceTableViewCell
+ADD_SERVICE_PRODUCT = "Add service";
+//ADD_SERVICE_PRODUCT = "Add Service";
+//MARK: - GlobalDetailsTableViewController
+BUSINESS_DOMAIN = "Business domain";
+LEADING_SENTENCE = "leading sentence";
+ACTIVE_HOURS = "Working hours";
+WORKER_DETAILS = "Worker details";
+BUSINESS_SERVICE = "Business service";
+CALENDAR_SETTINGS = "Calendar settings";
+
+//MARK: - HoursActiveTableViewCell
+ALLDAYS = "";
+
+//validation
+NAME_ERROR = "oops :) wrong name";
+MAIL_ERROR = "oops :) wrong address";
+PHONE_ERROR = "Invalid phone number";
+PHONE_ERROR2 = "this phone number is not registered in our system";
+ERROR = "some fields have not been properly";
+ERROR_EMPTY = "don't forget to fill all mandatory fields :)";
+MAIL_EXIST = "email address exists in our database";
+PHONE_EXIST = "this phone number is no longer exist in our system";
+MAIL_VALID = "must put right email address*";
+
+//MARK: - BusinessDetailsViewController
+BUSINESS_DETAILS_TITLE = "business general details";
+BACK = " Back";
+BUSINESS_NAME = "*Company name";
+ID = "*ID/CN";
+ADDRES = "*Address";
+PHONE = "*Phone number";
+FAX = "fax number";
+SITE = "Website";
+EMAIL = "*Email";
+SOCIAL_NETWORKS = "social networks";
+CLICK_ON_ICON_TO_SYNC = "press the icon to sync";
+SAVE = "Save and continue";
+CONTINUE = "Continue";
+REQUIRED_FIELD = "*Required field";
+ID_TZ = "id/cn(company number according to registrar of companies)";
+CITY = "*City";
+PHONE_BUSINESS = "business phone number";
+//validation
+NAME_ERROR = "invalid name";
+MAIL_ERROR = "invalid address";
+PHONE_ERROR = "invalid phone";
+PHONE_ERROR2 = "phone not exist";
+ERROR = "some fields have not been filled";
+ERROR_EMPTY = "required fields are not filled";
+MAIL_EXIST = "email exists in our database";
+PHONE_EXIST = "existing phone number";
+MAIL_VALID = "must enter valid email";
+FAX_VALId = "must enter valid fax uo to 9 characters";
+ENTER_NINE_CHAR = "enter 9 characters only";
+ADDRESS_DONT_CONTAIN_NUMBER ="must contain street number";
+
+//MARK: - NotificationsViewController
+MEETING_UPDATES = "Appointment updates";
+TEN_MINUTES_BEFORE_MEETING = "10 Minutes before appointment";
+FOLLW_CUSTOMERS = "Customers follow up";
+CUSTOMERS_EVENTS = "Customers events";
+KIND_NOTIFICATION = "Notification type";
+FREQUNCY = "Frequency";
+KIND_UPDATE = "Update type";
+TIME_BEFORE_EVENT = "set alarm before appointment";
+POPUP = "Pop up";
+
+//MARK: - ContactSyncViewController
+SELECT_ALL = "All";
+CHOOSE_CUSTOMER = "Choose your client from your contacts list"; // Choose your client from contacts list
+
+//MARK: - PopSyncContactViewController
+WYH_SYNC = "Why should you synchronize your contact list? The answer is simple";
+SYNC_REASON1 = "Bthere allows you to advertise your business";
+SYNC_REASON = "Bthere allows you to advertise your business 24 hours a day and keep your customers closer than ever. Syncing your contact list will help you and your customers save valuable time. Each customer can view your calendar in real time and make an appointment with just a click - at your convenience.";
+
+//MARK: - ExistingUserViewController
+NAME_USER = "User name";
+PASSWORD_USER = "Password";
+BTN_CONNECT = "Connect";
+EXISTS_USER = "Phone number";
+//----
+PHONE_USER = "Phone";
+
+//MARK: - //\\PrintCalendarViewController
+print_TITLE = "Print Calendar";
+FROM_DATE = "from date";
+TO_DATE = "to date";
+DESIGN = "display";
+
+//MARK: - MenuTableViewController
+MY_CALENDAR = "Calendar";
+MY_GIVESERVICE = "Providers";
+
+ABOUT_US = "About us";
+REGISTER_BUSINESS = "Registration";
+print = "Print";
+
+LOG_OUT = "Log out";
+BUSINESS_PAGE = "Business profile";
+CUSTOMERS = "Customers";
+REPORTS = "Reports";
+
+//MARK: - AdvantageSearchViewController
+SUBJECT = "section";
+AREA = "region";
+DESIRED_DATE = "wanted date";
+RANGE_HOURS = "range" ;
+SEARCH = "search";
+SUBJECT_PLACE_HOLDER = "search section";
+AREA_PLACE_HOLDER = "search area";
+//validation
+ILLEGAL_DOMAIN = "illegal domain";
+NOT_DATA_TO_SEARCH = "no data has been entered search";
+NO_SUPPLIERS_MATCH = "soory :) we still didn't sign the business you are looking for…";
+
+//MARK: - ViewBusinessViewController
+SENT_REVIEW_SUCCESS = "Thank you for the review!";
+
+
+//MARK: - WelcomeAlertViewController
+WELCOME = "welcome home to";
+OPEN_CALENSER1 = "open calender and business profile,";
+OPEN_CALENSER2 = "please fill the following details:";
+
+
+//MARK: - דף פרופיל עסקי:RegisterBuisnessProphielViewController
+HOURS_WORK = "Activity time";
+SLOGEN = "Slogen";
+FOR_TOR = "To make an appointment ";
+ABOUT = "About us";
+OPINION = "Reviews";
+UPLOAD_CAMPAIGN = "UPLOAD SALES";
+THANK = "Thanks,waiting to see you";
+LOGO = "Logo";
+ATTACH_PHOTO = "Attach a picture from photo album";
+TAKE_PICTURE = "Take a picture";
+PICTURE = "Picture";
+ABOUT_BUSINESS = "About the local business";
+SAVE_CONTINU = "Save and continue";
+CAMPAIGN = "Sale";
+NOT_VALID = "Not Valid";
+USE_IMAGE = "Use";
+CHOOSE_IMAGE = "Choose photo";
+LOOK = "View gallery";
+VOTERS = "Ranks";
+UPLOAD_COMPANY_LOGO = "UPLOAD COMPANY LOGO";
+COMPANY_SLOGAN = "Company slogan...";
+UPLOAD_COMPANY_PROFILE_PHOTO = "UPLOAD COMPANY PROFILE PHOTO";
+//MARK: - RegisterContactsPage6
+
+AUTOMATIC_APPROVAL = "Automatic approval for all contacts";
+SYNC_CONTACTS = "Sync contacts from your list?";
+SYNC_EXPLAIN = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+APPROVAL_ALL = "do you want all of your contacts to be registered as clients";
+ASK_FOR_SYNC = "would you like to choose your clients manually from your cotacts list";
+
+//MARK: - PaymentMethodViewController
+
+//jmode PAYMENT_BY = "pay with";
+PAYMENT_BY = "";
+PAYMENT_METHOD_EXPLAIN = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+
+//MARK: - PopUpOrderDetailsViewController
+
+THANKS = "thank you very much";
+YOUR_REQUEST_SENT = "your request sent to";
+TO_APPROVAL = "for approval";
+F_NAME = "(first name)";
+PROVIDER_NAME = "(provider name) ";
+
+//MARK: - NewTurnViewController
+
+NEW_TURN_TITLE = "New appointment";
+COSTUMER = "Costumer";
+SERVICE_PROVIDER = "Employee";
+SERVICE_TYPE = "type of service";
+DATE = "date";
+HOUR = "hour";
+REMARK = "Notes";
+MAKE_APPOINTMENT = "make an appointment";
+SEND_MESSAGE = "send confirmation message";
+
+//DONT_CARE = "I dont c"
+
+
+OPEN_CAMERA = "take a picture";
+OPEN_ALBUM = "add picture from photo gallery";
+//You have not filled the field as required reading articles
+READING_ARTICLE_NOT_FILLED = "you have to accept the user and privacy agreement";
+
+//MARK: - MyCostumersViewController
+SEARCH_CUSTOMER = "Customer search";
+MY_CUSTOMERS ="My customers";
+
+//MARK: - AppointmentTableViewCell
+DETAILS_TURN = "Appointment details";
+CANCEL_TURN = "Cancel appointment";
+
+//MARK: - SearchResultsViewController
+NO_AVAILABLE_LOCATION = "your location service is off";
+OPEN_LOCATION_SETTINGS = "enable location option";
+SEARCH_RESULT = "search result";
+CHANGE_LOCATION = "Change location";
+DISTANCE = "Distance";
+ORDER_BY = "Sort by";
+
+//MARK: - SearchResultsTableViewCell
+TO_BUSINESS_PAGE = "to the business page";
+
+//MARK: - ChooseWorkerTableViewController
+NO_GIVES_SERVICE = "There aren't any available employees for this supplier";
+
+//MARK - ServiceInListTableViewCell
+DELETE_SERVICE = "Are you sure you want to remove this service?";
+
+//MARK: - NavigationModelViewController
+NOT_SUPPLIER_REGISTER = "You are not registered as supplier";
+NAME_BUSINESS = "Name of company";
+NAME_CUSTOMER = "Customer name";
+
+//MARK: - BussinesServicesTableViewCell
+PRODUCT = "Product";
+SERVICE = "Service";
+//SERVICE_PRODUCT = "service / product";
+CUT_HAIR = "haircut";
+HAIR_DO = "hairdo";
+LEVEL = "Rank";
+CHOOESE_SERVICE_PRDUCT = "Select the service name / product";
+PRICE = "Price (NIS)";
+SHOW_PRICE = "Show price list";
+DURING_TIME = "Duration (min)";
+NUM_IN_PARALLEL = "Multiple clients";
+TIME_SPACE = "Time span (min)";
+DISCOUNT_ENTER_SOME_TURN = "Discount for series of appoitments / product";
+CHOSE_PRODUCT_NAME = "Choose product name";
+CHOOSE_SERVICE_NAME = "Choose service name";
+PRODUCT_NAME = "Product name";
+SERVICE_NAME = "Service name";
+DISCOUNT_ORDRER_MORE_PRODUCTS = "Discount for series of appoitments / product";
+//validation
+ENTER_ONLY2_CHARACTERS = "you can only insert up to 2 digits";
+ENTER_ONLY3_CHARACTERS = "you can only insert up to 3 digits";
+ENTER_ONLY6_CHARACTERS = "you can only insert up to 6 digits";
+ENTER_ONLY30_CHARACTERS = "you can only insert up to 30 digits";
+ENTER_ONLY25_CHARACTERS = "you can only insert up to 25 digits";
+ENTER_ONLY22_CHARACTERS = "you can only insert up to 22 digits";
+ENTER_ONLY10_CHARACTERS = "you can only insert up to 10 digits";
+ENTER_ONLY160_CHARACTERS = "you can only insert up to 160 digits";
+//MARK: - personalDetailsViewController
+NAME_PD = "Name*";
+LAST_NAME_DP = "Last name*";
+MAIL_DP = "Email";
+MARRIAGE_DATE = "Anniversary Date";
+ERROR_FNAME = "Complete both: first and last name";
+ERROR_LNAME = "oops :) wrong last name";
+CALENDAR_DESIGN = "Calendar view";
+PERSONAL_DETAILS_TITLE = "Personal Information";
+VALID_FIELDS = "Please add valid values in the fields";
+
+//MARK: - ServicesTableViewCell
+MORE_INFORMATION = "more information";
+MULTIPLE_SELECT = "multiple choise";
+ORDER = "order";
+ORDER_MARKED = "invite all marked appointments";
+NO_RESOLTS = "no results";
+
+//MARK: - giveMyServiceTableViewCell
+DELETE = "Delete";
+NAVIGATE = "navigate";
+
+//MARK: - smallGiveMyServicesCollectionViewCell
+DELETE_GIVE_SERVICE = "Are you sure you want to remove this service provider?";
+NO_SERVICES = "There aren't any services for this business";
+
+//MARK: - langForClientViewController
+LANG_CHANGE_NEXR_ENTRANCE = "The language changes Remember Me app";
+LANG = "Language";
+
+//MARK: - MenuTableViewController
+REGISTERED_AS_BUSINESS = "You already signed in as business owner";
+
+///MARK: - NewEventViewController
+NEW_EVENT = "New event";
+EVENT_NAME = "name of event";
+DATE = "date";
+HOUR = "hour";
+NOTES = "notes";
+SUCCESS_NEW_EVENT = "The event was saved successfully";
+SET_EVENT = "create event";
+//validation
+FILL_ALL_DATA = "fill all data";
+ILLEGAL_HOURS = "illegal hours";
+NO_HOUR = "not set a start time";
+//MARK: - NewEventRemarkTableViewCell
+ENTER_TEXT = "enter text";
+
+//MARK: - notificationsForDefinationsViewController
+DISCOUNT_MINUTE_90 = "Last minute offers";
+MINUTES_BEFORE_MEETING_20 = "20 Min before appointment";
+OK_FROM_BUSINESS = "Approvals from businesses";
+UPDATE_WAIT_TURN = "Waiting list updates";
+UPDATES_NEWS = "News and updates";
+
+SUCCESS_SETTINGS = "alerts settings is successfully saved";
+ERROR_SAVE = "error saving data";
+
+//MARK: - noTurnViewController
+SUCCESS_TURN = "the turn was set successfully";
+NO_TURN = "there isn't any available appointment";
+SUCCESS_ADD_TO_WAIT_LIST = "successfully added to the waiting list";
+NO_TURN_AS_ASK = "there aren't any appointments available according to your request";
+WHAT_TO_DO = "what would you like to do?";
+ENTER_TO_WAIT_LIST = "enter to waiting list";
+NEAR_TURNS = "upcoming available appointments";
+CHANGE_DAY = "change date";
+OTHER_SUPPLIER = "look for another business";
+
+
+//MARK: - WorkerInListTableViewCell
+DELETE_WORKER = "are you sure you want to remove this worker?";
+
+//MARK: - MyWaitingListViewController
+NO_TURNS_INMYLISTWAITING = "there are no lines to your waiting list";
+
+//MARK: - entranceViewController
+SEARCH_SERVICE_DOMAIN = "Search for a business or occupation";
+LOGIN = "Already a member? Log in";
+ADVANTAGED_SEARCH = "Advanced search";
+ADVERTISINGS = "news bulletins and passing: new businesses, deals worth ...";
+
+//MARK: - entranceCustomerViewController
+NO_RESULTS = "there are no results matching your search";
+//validaion
+ENTER_ONLY120_CHARACTERS = "You can put up to 120 characters";
+
+//MARK: - ListServicesViewController
+WANT_ORDER = "I want to order";
+NOT_CARE = "not care";
+SERIES_TURNS = "Series of appointments";
+GIFT_CARD = "gift card";
+KILOMETER_FROM_YOU = "km from you";
+
+//MARK: - ModelCalendarForAppointmentsViewController
+REGISTER_NOW = "To make an appointment you must register as a client";
+CHOOSE_GIVE_SERVICE = "Choose one employee from staff";
+
+//MARK: - CalenderSettingTableViewCell
+DAY_DESIGN = "day design";
+WEEK_DESIGN = "week design";
+MONTH_DESIGN = "month design";
+LIST_DESIGN = "list design";
+MAX_CHAR = "max 100 appointments";
+LIMIT_TURNS = "Do you want to limit the number of appointments the client can make?";
+NUM_TURNS_MEETINGS = "Number of meetings";
+DURATION_TURNS = "Scheduling duration (weeks)";
+
+//MARK: - NewAppointmentClientViewController
+NO_SELECTED_SUPPLIER = "please choose your business first";
+
+//MARK: - PopUpDetailsAppointmentViewController
+THX = "Thank you";
+ASK_SEND_TO_GIVE_SERVICE = "Appointment scheduled successfully";
+ASK_SEND = "Appointment scheduled successfully";
+TO_OK = "To confirm";
+
+//MARK: - RecordDesignedViewController
+NO_EVENTS = "no events";
+
+//MARK: - detailsAppointmetClientViewController
+DETAILS_APPOINTMENT_TITLE = "meeting details";
+DETAILS_APPOINTMENT = "Order details";
+DETAILS_MEETING = "Meeting details";
+THX_REGISTERED = "thanks for registering! Unfortunately another client as already signed for the appointment you looked for. Please, try to reschedule on a different time to the requested service.";
+
+//MARK: - ServiceInformationViewController
+VIEW_INFORMATION = "Here's more information about the business: Ltzglcgln Fan Iaih D, Tanon, Cghdcono Hcgtzmnhidhi Chgidhli Acgnih Hihfcghlhlai, Hlciahlc. Hgchlio, Aclghalh Tzgcmahli, Clchgd Mahlcg and therefore there is no one who does it but me, only I unique and therefore it pays to come to me !!!";
+
+//MARK: - AboutUsClientViewController
+VIEW_ABOUT = "Terms and conditions of use Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr Muna Lialhcionga Lhamilhacmmm ";
+TO_REGULATION = "to user and privacy agreement";
+
+//MARK: - RegulationClientViewController
+REGULATION_TITLE = "user and privacy agreement";
+REGULATION_VIEW = "Lorem ipsum dolor sit Ah, money rebates, and essential, but do. Over the years, come, whoever advantage of it, but for work, exercise, school district., However, want to be a pain in the pleasure of football to escape from pain to find not produce a result. shutters are not, he calms the soul, that is, they abandoned the agenda at all be guilty of deputies Ministry of toil. free, you also factor in renovation rules.";
+
+//MARK: - MyAppointmentsViewController
+LBLAPPOINTMENT_TITLE = "My appointments";
+NO_APPOINTMENTS__FROM_YOU = "there are not any open appointments for you :(";
+
+//MARK: - CancelAppointmentTableViewController
+CANCELAPPOINTMENT_TITLE = "Cancel appointment";
+OK_SEND = "ok and send cancel";
+CHOOSE_CANCEL = "You have chosen to cancel your appointment at";
+SUCCESS_CANCEL = "Cancel of appointment succeeded";
+
+//MARK: - slaightViewController
+SLAIGHT_TITLE = "Short delay";
+OK_SEND_SLAIGHT = "send 'I'll be late' message";
+ASK_SLAIGHT = "Do you want to notify that you're running late?";
+
+//MARK: - Server
+NO_CONNECTION = "no connection,try to register later";
+NO_INTERNET = "you are offline!";
+ERROR_SERVER = "An error occured while comunicating with the server. Please try again later.";
+ERROR_PHONE = "not valid phone";
+
+//MARK: - BigServiceCollectionViewCell
+MINUTES = "m'";
+
+//MARK: - Global
+WELCOME_TO_BTHERE = "Welcome to Bthere";
+KEY_SENTANCE_SLOGEN = "catch phrase/slogen";
+NEW_VERSION_HERE = "new version here";
+DISCOUNTS_FOR_FIRST_REGISTERS = "special offer for the first people who will sign up";
+
+//MARK: - Model calendar
+DESIGN_DAY = "Day";
+DESIGN_WEEK = "Week";
+DESIGN_MONTH = "Month";
+DESIGN_LIST = "List";
+
+//MARK: - others
+//days
+SUNDAY = "S";
+MONDAY = "M";
+TUESDAY = "T";
+WEDNSDAY = "W";
+THIRTHDAY = "T";
+FRIDAY = "F";
+SHABAT = "S";
+
+S_DAY = "sun";
+M_DAY = "mon";
+T_DAY = "tue";
+W_DAY = "wed";
+THIR_DAY = "thi";
+F_DAY = "fri";
+SHT_DAY = "sat";
+
+SUNDAY_DAY = "Sunday";
+MONDAY_DAY = "Monday";
+TUESDAY_DAY = "Tuesday";
+WEDNSDAY_DAY = "Wednesday";
+THIRTHDAY_DAY = "Thursday";
+FRIDAY_DAY = "Friday";
+SHABAT_DAY = "Saturday";
+
+FIRST = "ראשון";
+SECOND = "שני";
+THIRD = "שלישי";
+FOURTH = "רביעי";
+FIFTH = "חמישי";
+SIX = "שישי";
+SEVEN = "שבת";
+
+TODAY = "today";
+//jmode plus
+//: - MyCostumersViewController
+ADD_CUSTOMER = "Add customer";
+OCASIONAL_CUSTOMER = "Ocasional customer";
+ADD_NEW_CUSTOMER = "Add new customer";
+FULLNAME_STAR  = "Full name*";
+PHONE_STAR = "Phone number*";
+EMAIL_STAR = "Email*";
+MAKE_new_APPOINTMENT = "Set an appoinment";
+ADD_NEW_CUSTOMMER = "Add";
+ADDED_CUSTOMER = "Succesfully added new customer!";
+PRIVATE = "Private";
+NEWCLIENT_STRING = "Client";
+NEWMYTURN = "Meetings";
+NEWDELETE ="Delete";
+NEWCALL ="Call";
+DELETE_CUSTOMER_MESSAGE = "You have chosen to delete from your customers:";
+DELETE_CUSTOMER_TITLE = "Delete Customer";
+BAD_NETWORK = "Connection lost or address not found";
+LBL_UPDATE = "Update Information";
+CUSTOMER_EXIST = "You already added this customer in your list. To make an appoinment select him from previous screen - My Customer list";
+CUSTOMER_EXIST2 = "Customer is in your list";
+UPDATE_CUSTOMER_EXIST = "Update Details";
+SIMPLE_BUTTON_UPDATE = "Update";
+SUCCES_CUSTOMER_UPDATE = "The customer was updated succesfully";
+THOSE_INFOS_OF_ANOTHER_CUSTOMER = "These details belong to another client. You can not edit this information.";
+CUSTOMER_APPOINMENTS_SUBTITLE = " Appointments";
+NO_FEATURE = "Your device doesn't support this feature.";
+NO_SIM_SIGNAL = "No sim present or no cellular coverage or phone is on airplane mode.";
+CONFIRM_BTN_DEL = "Confirm";
+CANCELLATION_BTN = "Cancellation";
+NO_APPOINMENTS_YET = "This customer has no appointments yet";
+NO_APPOINMENTS_SET = "There are no appointments yet";
+TITLE_CANCEL_APPOINTMENT ="Cancel appointment";
+DESCRIPTION_CANCEL_APPOINTMENT = "Are you sure you want to cancel this appointment?";
+//SupplierSettings
+MYDETAILS = "My Details";
+MANAGE_CALENDAR = "Manage Calendar";
+SYNC_CONTACTS_SETTING = "Invite your customers";
+EMPLOYES = "Employees";
+PAYMENT_CREDENTIALS = "Payment Credentials";
+DELETE_AN_USER = "Delete the User";
+MANAGER_ONLY = "Only a manager can access all employees profiles";
+PULL_TO_REFRESH = "Pull to refresh";
+INFO_ORDER = "Info";
+EMPLOYE_PERMISSIONS = "Employee permissions";
+EMPLOYE_MANAGER_CHANGED = "Successfully saved permissions for employee";
+ERROR_CHANGE_MANAGER_STATUS = "An error occurred while trying to set permissions";
+NO_PERMISSION_FOR_SERVICES_SET = "The permissions are not set up yet";
+PERSONAL_INFORMATION = "Personal Information";
+EMPLOYE_EXIST = "You already added this employee";
+EMPLOYE_EXIST_in_db = "This employee is already in the system";
+SUNDAY2 = "S";
+MONDAY2 = "M";
+TUESDAY2 = "T";
+WEDNSDAY2 = "W";
+THIRTHDAY2 = "T";
+FRIDAY2 = "F";
+SHABAT2 = "S";
+//MAY
+POPUP_EMPLOYE = "If you want your customers to be able to set up appointments to your employees calendar you need to define the employees permissions first.";
+NO_EMPLOYE_AVALAIBLEnow = "No employees available";
+NO_LANGUAGE_SELECTED = "Before save, you must choose a language";
+RELAUNCH_APP_TO_Change_language = "Language saved. It will be changed on app relaunch";
+NEW_APP_PLUSMENU = "New appointment";
+NEW_EVENT_PLUSMENU = "New event";
+CUSTOMERS_IN_A_HOUR_PLUSMENU = "Customers in a hour";
+BLOCK_HOURS_PLUSMENU = "Block hours";
+WAITING_LIST_PLUSMENU = "Customers approval";
+LAST_MINUTE_PLUSMENU = "Last minute";
+HELP_PLUSMENU = "Help";
+BLOCK_HOURS_PLUSMENU_caps = "Block Hours";
+START_DATE = "Start date";
+END_DATE = "End date";
+HHOURS = "Hours";
+BTNBLOCK = "Block";
+BTNBLOCKsaved = "Blocking hours were saved succesfully";
+ERROR_DATE_START_END = "Ending date can not be smaller than Start date";
+ERROR_HOUR_START_END = "Ending hour can not be smaller than starting hour";
+ERROR_DATE_START_END = "Ending hour can not be smaller than starting hour";
+ERROR_HOUR_ISEQUAL = "Ending hour can not be the same as starting hour";
+ERROR_date_Start = "Select Start Date";
+ERROR_date_End = "Select End Date";
+ERROR_hour_Start = "Select Start Hour";
+ERROR_hour_End = "Select End Hour";
+January ="January";
+February ="February";
+March="March";
+April="April";
+May="May";
+June= "June";
+July ="July";
+August = "August";
+September= "September";
+October = "October";
+November = "November";
+December = "December";
+Manager_permission = "Manager permission";
+Authorizations_by_service = "Authorizations by service";
+JOIN_US = "Join us";
+SKIP ="Skip";
+SKIP_AFTER_VIDEO = "Continue as a customer";
+DAY_PASSED ="You cannot make appointments in past";
+ERROR_UPDATE_BUSINESS_PROFILE = "An error occured on updating Business profile";
+UPDATED_BUSINESS_PROFILE = "The Business's profile was updated successfully";
+ERROR_ADD_CUSTOMER = "An error occured on adding customer";
+MY_DETAILS = "My Details";
+BUSINESS_INFO = "Business Information";
+SEARCH_CONTACT = "Search Contact";
+UPDATED_SYNC_CONTACTS = "The contacts list was updated successfully";
+ERROR_UPDATE_CONTACTS = "An error occured on updating contact list";
+MANAGE_CUSTOMER_MESSAGE = "Managing Existing Customers can be done from My customers management page";
+MANAGE_CALENDAR = "Manage Calendar";
+SYNC_MY_CALENDAR = "Sync with my calendar";
+CUSTOMER_RANGE = "Customer view range of the calendar (weeks)";
+CALENDAR_VIEW = "Calendar view";
+
+WELCOME_PROVIDER = "Welcome, ";
+
+NO_THANKS = "No thanks";
+
+// Delete user pop out
+DELETE_USER_TITLE = "Delete the User";
+DELETE_USER_TEXT = "Do you want to delete your user and phone number from Bthere ?";
+
+
+// Supplier new event
+EVENT_TITLE_LABEL = "New Event";
+EVENT_NAME_PLACEHOLDER = "Event Name";
+EVENT_DATE_PLACEHOLDER = "Date";
+EVENT_TIME_PLACEHOLDER = "Time";
+EVENT_NOTES_LABEL = "Notes";
+EVENT_NOTES_PLACEHOLDER = "Enter text";
+EVENT_CHECK_LABEL = "Block the hours on my calendar";
+EVENT_MAKE_BUTTON = "Make";
+EVENT_ERROR_NAME_LABEL = "Please type an event name";
+EVENT_ERROR_DATE_LABEL = "Please select a date";
+EVENT_ERROR_TIME_LABEL = "Please select the start and end hour";
+EVENT_ERROR_NOTES_LABEL = "Please type some notes";
+ERROR_DELETE_USER = "An error occured on delete business user";
+SUCCES_DELETE_USER = "The business user was successfully deleted";
+
+
+// Regiser as business
+REGISTER_TITLE = "Business owner? \nJoin our business community";
+NO_FREE_HOURS_TO_BLOCK ="There are not  free hours to block in choosen interval";
+
+// Customer Approvel
+CUSTOMER_APPROVAL = "Customer Approval";
+CUSTOMER_APPROVAL_TEXT = "Automatically add new customers";
+CUSTOMER_APPROVAL_CONFIRM = "Request accepted";
+CUSTOMER_APPROVAL_NO_REQUESTS = "No requests waiting for approval";
+CUSTOMER_APPROVAL_DELETE = "Request deleted";
+ERROR_APPROVAL = "An error occured. Please retry later";
+WAZE_ADDRESS_CANT_GO = "The supplier location is not in system yet";
+
+// Print Calendar
+CALENDAR_SEND_PDF = "Send PDF to email";
+CALENDAR_VIEW = "View";
+CALENDAR_FROM = "From";
+CALENDAR_TO = "To";
+DAY_PASSED_BLOCK ="You cannot block hours in past";
+DID_NOT_SELECT_DAY ="You must select one of the buttons: day or list";
+
+// Supplier Notifications
+SUPPLIER_NOTIFICATIONS_INCOMING = "Incoming appointment";
+SUPPLIER_NOTIFICATIONS_BIRTHDAY = "Birthday";
+SUPPLIER_NOTIFICATIONS_ANIVERSARY = "Anniversary";
+SUPPLIER_NOTIFICATIONS_DEALS = "Deals and news...Deals and news...Deals and news...";
+NO_ALERTS_SUPPLIER ="There are no alerts for this supplier yet";
+UPDATE_ALERTS_SUPPLIER ="Settings succesfuly saved";
+CANNOT_UPDATE_SUPPLIER_ALERTS = "An error ocurred. Please try again later";
+ERR_FREE_H_SUPPLIER = "This service provider don't have place for your meeting in the time you want.";
+
+
+OCCASIONAL_CUSTOMER = "Occasional Customer";
+PHONE_ERROR3 = "Not registered in system";
+// Business profile page
+BUSINESS_PROFILE_ALERT_NO_WEBISTE = "This business has no website.";
+BUSINESS_PROFILE_ALERT_CRASH_WEBISTE = "The website could not be opened, please try again.";
+BUSINESS_PROFILE_ALERT_CRASH_CALL = "Could not call this business, please try again.";
+BUSINESS_PROFILE_ALERT_NO_LOCATION = "This business does not share any location yet.";
+
+// Terms of use
+TERMS_OF_USE = "Terms of use";
+ENTER_PASSWORD = "Access code";
+WRONG_PASSWORD_BUSINESS = "Wrong access code";
+PASSWORD_NOT_ENTERED = "You did not entered access code";
+SETTINGS = "Settings";
+TO_PERSONAL_INFO_SET = "To the Personal Information";
+EXPLAIN_PASSWORD = "In order to register as a business you must enter an access code";
+//EXPLAIN_PASSWORD_LINETWO = "If you don’t have the code you can call the number \n0506872077 \n or \n0509987198";
+EXPLAIN_PASSWORD_LINETWO = "If you don’t have the code you can call the number \n079-5740780";
+EXPLAIN_BEFORE_REGISTER = "Bthere is an app for scheduling your favorite businesses and finding new business in your area. In order to provide you with the best and most efficient service, to enjoy all the benefits of the app, and to keep up, with the deals that the business send we recommend allowing the app to access location and calendar services and enable updates / alerts. This is a recommendation only and there is no need to do so :)";
+NEW_EVENT_NOT_SYNC = "Please synchronize your calendar from settings to save the new event.";
+WELCOME_PROVIDER_noComma = "Welcome ";
+VIEW_TERMS_OF_USE = "View Term Of Use";
+
+
+// Help
+HELP = "Help";
+HELP_GUIDANCE_VIDEO = "Live Chat";
+HELP_QA = "Q&A";
+HELP_MESSAGE = "Bthere staff will be happy to help you with any question";
+HELP_Q1 = "What​ types​ of​ businesses​ are​ in​ the​ Bthere?";
+HELP_Q2 = "How​ a​ business​ can​ join​ Bthere?";
+HELP_Q3 = "How​ does​ a​ business​ add​ a​ new​ customer?";
+HELP_Q4 = "Is​ there​ a​ need​ to​ enter​ the​ full​ name​ of​ the​ business​ in​ order​ to​ find​ it​ in​ the search​ results?";
+HELP_Q5 = "Can​ anyone​ schedule​ an​ appointment​ for​ each​ business?";
+HELP_Q6 = "How​ do​ you​ schedule​ an​ appointment​ to​ a​ business?";
+HELP_Q7 = "Where​ can​ I​ edit​ the​ business​ information?";
+HELP_Q8 = "Is​ the​ app​ suitable​ for​ business​ with​ employees?";
+HELP_Q9 = "Is​ the​ app's​ calendar​ synced​ with​ the​ rest​ of​ the​ calendars?";
+HELP_Q10 = "Can​ the​ application​ replace​ the​ handwritten​ calendar?";
+
+
+HELP_A1 = "Answer:​ Any​ business​ that​ regularly​ uses​ a​ calendar​ for​ scheduling​ appointments, and​ have​ a​ fix​ duration​ for​ each​ service,​ can​ use​ the​ app.";
+HELP_A2 = "Answer:​ Very​ easily​ and​ most​ importantly​ -​ independently. Any​ business​ owner​ can​ register​ through​ the​ site​ by​ clicking​ \"Register\"​ button,​ or through​ the​ app​ itself,​ and​ start​ using​ the​ system.";
+HELP_A3 = "Answer:​ Simply​ by​ clicking​ the​ \"New​ Customer\"​ button​ in​ My​ Customer​ list.​ If​ the customer​ is​ already​ registered​ to​ Bthere,​ his​ details​ will​ be​ automatically​ filled​ out and​ will​ be​ added​ to​ the​ customers​ base​ of​ the​ business.";
+HELP_A4 = "Answer:​ No,​ any​ search​ term​ related​ to​ a​ particular​ business​ will​ show​ the​ business in​ the​ search​ results.​ You​ can​ search​ for​ the​ type​ of​ service​ you​ want,​ the​ business owner's​ first​ name,​ and​ even​ search​ for​ the​ city​ where​ the​ business​ is​ located.";
+HELP_A5 = "Answer:​ Yes​ and​ the​ process​ is​ simple,​ the​ first​ time​ a​ customer​ wants​ to​ schedule an​ appointment​ to​ the​ business,​ and​ he​ is​ not​ part​ of​ the​ business's​ customers​ base, the​ business​ owner​ will​ approve​ him​ as​ a​ customer​ before​ making​ an​ appointment. The​ approval​ is​ one-time​ and​ once​ the​ customer​ has​ been​ added​ to​ the​ customers base,​ he​ will​ be​ able​ to​ schedule​ directly​ in​ the​ business​ calendar.";
+HELP_A6 = "Answer:​ By​ clicking​ on​ the​ name​ of​ the​ business​ in​ the​ search​ results,​ the​ customer moves​ to​ the​ selection​ of​ the​ service​ to​ which​ he​ wishes​ to​ schedule​ an​ appointment. After​ that,​ a​ calendar​ will​ open,​ showing​ all​ available​ appointments​ for​ the​ service​ he requested,​ depending​ on​ the​ time​ of​ service​ that​ the​ business​ determined.​ When clicking​ on​ one​ of​ the​ available​ appointments​ a​ screen​ will​ appear​ with​ all​ the​ details of​ the​ desired​ appointment,​ and​ by​ clicking​ on​ the​ 'confirm'​ button​ the​ appointment will​ be​ schedule​ in​ the​ business's​ and​ the​ customer's​ calendar.";
+HELP_A7 = "Answer:​ By​ clicking​ on​ Settings​ the​ business​ owner​ can​ change​ all​ the​ data​ entered in​ the​ registration.​ You​ can​ add​ and​ edit​ business​ services,​ employees​ information, change​ business​ hours,​ and​ refresh​ your​ business​ profile​ page.";
+HELP_A8 = "Answer:​ Yes,​ the​ business​ owner​ can​ add​ employees​ at​ any​ given​ time​ and​ each employee​ has​ his​ own​ calendar.​ The​ employees'​ calendar​ is​ under​ the​ name​ of​ the business​ and​ is​ managed​ by​ authorizations​ controlled​ by​ the​ manager.";
+HELP_A9 = "Answer:​ Of​ course.​ The​ app's​ calendar​ can​ also​ be​ used​ as​ the​ business​ owner's​ or customer's​ central​ calendar.​ It​ can​ be​ synchronized​ with​ any​ digital​ calendar​ found on​ the​ device​ where​ the​ application​ is​ located.​ You​ can​ see​ all​ the​ information​ from the​ digital​ calendar​ in​ your​ app​ calendar,​ and​ vice​ versa.";
+HELP_A10 = "Answer:​ Yes,​ the​ application​ can​ be​ a​ substitute​ for​ any​ other​ calendar,​ especially​ for a​ handwritten​ calendar.";
+
+LIVE_CHAT = "Live Chat";
+HELP_COULD_NOT_CALL = "Something went wrong with your call, please try again.";
+SHORT_DELAY_MESSAGE = "The business has been informed about your short delay.";
+BUSINES_NO_REVIEWS = "No reviews";
+
+
+SHORT_DELAY_ERROR = "We couldn't inform the supplier about your short delay, please try again.";
+/*
+ HELP_PLUSMENU
+ HELP_GUIDANCE_VIDEO
+ LIVE_CHATF
+ */
+
+
+PLUS_MENU_CANCELLATON = "Cancellation";
+REVIEWS_LABEL = "Reviews";
+REVIEW_LABEL = "Review";
+
+
+
+
+SIX_MONTHS_REPORT = "Report for the last six months";
+
+// SHORT_DELAY_MESSAGE
+END_MEETING_BUTTON = "Got it, thanks";
+END_MEETING_TEXT1 = "You've made a new appointment!";
+END_MEETING_TEXT2 = "We're glad you joined us.";
+END_MEETING_TEXT3 = "We are at the beginning of the road and we are";
+END_MEETING_TEXT4 = "Investing the time in tests and improvements.";
+END_MEETING_TEXT5 = "Therefore, in the near future please make sure with the business";
+END_MEETING_TEXT6 = "In a message / phone call that the appointment is indeed scheduled.";
+END_MEETING_TEXT7 = "Thank you for understanding and we are doing everything to be at your service.";
+NOTIFICATIONs_LIST = "Notifications List";
+RECEIVED_ON = "Received on ";
+
+
+// Last minute
+LAST_MINUTE_TITLE = "Last Minute";
+NEW_OFFER_BUTTON = "New Offer +";
+
+
+// New Offer
+NEW_OFFER_TITLE = "New Offer";
+NEW_OFFER_TYPE_OF = "Type of service / product";
+NEW_OFFER_OFFER_TYPE = "Offer type";
+NEW_OFFER_GIFT_PRODUCT = "Gift product";
+NEW_OFFER_OFFER_TEXT = "Offer text";
+NEW_OFFER_ADD = "Add";
+NEW_OFFER_DISCOUNT = "Discount";
+NEW_OFFER_ALERT_TYPE_NOT_SELECTED = "Please select a product or service first.";
+NEW_OFFER_DISCOUNT_PERCENT = "Discount percent";
+NEW_OFFER_ALERT_disc_NOT_SELECTED = "Please select offer type.";
+NEW_OFFER_OFFER_TEXT_MISSING = "Please complete offer text";
+WAS_CANCELLED = "Cancelled";
+
+ORDER_APPOINTMENT = "Order appointment";
+RATE_OUR_BUSINESS = "Rate our business";
+SEND_BT = "Send";
+COMPLETE_NUMBER_OF_WEEKS = "Please complete number of weeks";
+WEEKS_SAVED = "Settings for calendar were saved succesfully";
+SELECT_HOURS_FOR_DAY = "Complete at least working hours for one day";
+SELECT_MULTIPLE_SERVICES_IN_APPOINTMENT = "Select multiple services in an appointment";
+JUST_ONE_APPOINTMENT = "!Oops You seem to be unapproved with this supplier, you can make one appointment and wait for his approval.";
+SECOND_ONE_APPOINTMENT = "!Oops You seem to be unapproved with this supplier. Wait for his approval.";
+APPOINTMENT_LBL_SHORTNUM = "Appointment ";
+FINISH_BUTTON = "Finish";
+BTN_NEXT_APPOINTMENT = "Next appointment";
+FULL_APPOINTMENT = "You can see the appointment in your calendar and we will remind you about in the day before the date";
+NO_DAY_SELECTED = "No day selected";
+INCORRECT_BREAKS = "Start and end hours for pauses must be inside bussiness hours interval";
+SUPPLIER_NOT_ALLOW_MULTIPLE_APPOINTMENTS = "The selected supplier does not allow multiple appointments";
+NUMBER_OF_MAXIMUM_APPOINTMENTS_EQUAL = "You reached the maximum number of appointments permitted by supplier";
+COMPLETE_REQUIRED_FIELDS = "You need to complete required fields";
+NO_TIME_FREE_ERROR = "No time interval can be blocked or  is already used for a meeting.";
+FULL_APPOINTMENT_FAILED = "Some of the meetings were not scheduled";
+WE_ARE_AN_APP = "We are an app for scheduling appointments for your favorite business. \nIn order for you to enjoy the use of the app, we recommend that you approve access to location, calendar and update services.\nWe'll talk when we meet.";
+ZERO_MINUTES_BLOCKED = "Something went wrong, the selected hours were not blocked, please try again ";
+SOME_MINUTES_BLOCKED = "The hours were blocked successfully. Note that there are appointments in the blocking range and that these hours have not been blocked ";
+FULL_MINUTES_BLOCKED = "The hours were blocked successfully";
+OR = "or";
+CANCEL_APPOINTMENT_TITLE = "List of queues";
+SEARCHLESS3LETTERS = "Complete at least 2 characters";
+CANCEL_BLOCK_HOURES = "Cancel Block Hours";
+YOU_CHOOSE_TO_CANCEL_TEXT = "You have chosen to cancel the blocked hours";
+AT = "at";
+SUCCES_CANCEL_BLOCK_HOURS = "The blocked hours were canceled successfully";
+FAIL_CANCEL_BLOCK_HOURS = "The blocked hours were not canceled successfully";
+SEL_DAYS_TO_BLOCK = "Select days to block";
+ALL_HOURS_OF_DAY = "All working hours of the day";
+OPEN_SETTINGS = "Open Settings";
+REQUEST_CONTACTS_PERMISION = "This app requires access to Contacts to proceed. Would you like to open settings and grant permission to contacts?";
+REQUEST_CALENDAR_PERMISION = "This app requires access to Calendar to proceed. Would you like to open settings and grant permission to calendar?";
+REQUEST_LOCATION_PERMISION = "This app requires access to device location to proceed. By accessing your location, this app can find you nearby businesses. Location is saved only once, on every app startup. Would you like to open settings and grant permission to use location?";
+REQUEST_PHOTOS_PERMISION = "This app requires access to Photos to proceed. Would you like to open settings and grant permission to photos?";
+THOSE_INFOS_ARE_OF_ANOTHER_CUSTOMER = "This information belongs to another customer and you can not edit it";
+ADDPROVIDERSUCCESMESSAGE = "The business has successfully registered on the system. Please continue and complete the missing details to complete the installation.";
+POP_ALLERT_IN_START_BLOCK_HOURS = "We have received your request, a final confirmation will be sent as soon as possible";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS = "Message to Customers";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS_TITLE = "Message to Customers";
+EVENT_ERROR_NO_TEXT = "Please type some text";
+INSERT_LESS_TEXT = "Max number of characters reached.";
+MESSAGE_SCHEDULED_FOR_SEND = "The message was sent to all of your customers";
+FAIL_SEND_MASS_MEESSAGE = " Sorry your message was not sent. Please try again.";
+ONE_TIME_PROMPT_FOR_MASS_MESSAGE = "This feature lets you send a distribution message to all of your customers.";
+CANNOT_USE_OWN_NUMBER = "You can't use your phone number";
+ERROR_PAYMENT = "Please complete your credit card details";
+MESSAGE_NO_PHONE_FOR_USER_FOUND = "It seems an error occurred while reading current user profile; please restart application and retry later.";
+TITLE_TRIAL = "Payment";
+LINE_ONE_TRIAL = "Welcome!";
+LINE30DAYS_TRIAL = "We give you 30 day free system experience";
+BTNTRIALYES = "מסכים";
+BTNTRIALNO = "לא מסכים";
+RELOAD = "Try again";
+RETRY = "Retry";
+
+//PROMPT_USER_BUSINESS_STATUS0 = "0795740780 אנא צור עימנו קשר להמשך השתמשות";
+RETRY_BTN = "Try again";
+CONTINUE_BUTTON = "Continue";
+MASS_NOTIFICATION_PLACEHOLDER = "Enter text ";
+AT_LEAST_ONE_MANAGER_NEEDED = "You cannot remove manager permission from this user";
+ERROR_SUPPLIER_NOT_PAYED_ONE = "Sorry, temporarily ״";
+ERROR_SUPPLIER_NOT_PAYED_TWO = "״ is not open for meetings scheduling";
+//new add
+PLEASE_SELECT_THREE_CONTACTS = "You must sync at least three contacts";
+EXPLAIN_SYNC_CONTACTS = "In order to use the system you must invite at least 3 customers";
+NO_FREE_HOURS_FOUND = "No queues available this month";
+TRIAL_PERIOD_ENDS_TITLE = "Trial period ends";
+TRIAL_PERIOD_ENDS = "Your trial month has ended, your service will continue to cost an additional fee. You will now go to the Enter payment details screen";
+TRIAL_BTN = "I understood, thank you";
+TITLE_CUSTOMER_RECOMANDATION = "Don’t let the businesses you love stay behind";
+LABEL_CUSTOMER_RECOMANDATION = "To easily schedule appointments for those businesses, fill out the details of the business and we will contact them";
+BTN_CUSTOMER_RECOMANDATION = "Send details";
+
+
+//ViewBusinessProfileVC
+NOT_A_VALID_SUPPLIER = "Please select a valid business";
+REVIEW_YOURSELF_ALERT = "You can't review your own business!";
+ALREADY_ADDED_REVIEW_ALERT = "You have already added a review to this business!";
+ADD_REVIEW_PLEASE = "Please write a review";
+
+//bigCollectionViewCell
+VOTES_LABEL_SINGULAR = "vote";
+VOTES_LABEL_PLURAL = "votes";
+
+REVIEWS_LABEL_SINGULAR = "review";
+REVIEWS_LABEL_PLURAL = "reviews";
+
+//popUpPaymentVC
+POP_UP_PAYMENT_TITLE = "Error";
+
+//personalDetailsVC
+EXISTING_NUMBER_PERSONAL_DETAILS = "This phone number is already used!";
+REMOVE_PICTURE_PERSONAL_INFO = "remove current picture";
+
+//SupplierSettings
+NUMBER_CHR_RANGE = "The maximum amount of weeks is 104!";
+
+//BussinesServicesTableViewCell
+ALREADY_USED_SERVICE_NAME = "Already used";
+
+//MyCustomers
+INVALID_OCASIONAL_NUMBER = "Invalid phone number";
+
+//FacebookLogin
+LOGIN_WITH_FACEBOOK = "Log in with Facebook";
+
+//RegisterBuisnessProphielVC
+REMOVE_LOGO_BUSINESS_PROFILE = "Remove current logo image";
+REMOVE_COMPANY_PIC = "Remove current picture";
+PROMPT_USER_BUSINESS_STATUS0 = "Dear Business Owner. Time flies when you're having fun and 30 days have already passed . To keep on using the app please contact us at www.bthere-tech.com or by phone 079-5740780";
+TEN_DAYS_LEFT_BEFORE_TRIAL_ENDS = "Please notice that there are 10 days before the app will become disabled. If you wish to continure please contact us at www.bthere-tech.com or by phone 079-5740780";
+No_Rating = "No Rating";
+Please_rate_the_business = "Please rate the business";
+//popUpBusinessProfile
+POP_UP_BUSINESS_TITLE = "Business profile page"; // "Business profile page";
+POP_UP_BODY_TEXT = "Now you can build yourself\nYour own asset in the app\nYou can skip this step and return to it\nAt any time from the side menu of the app"; // "The business profile page gives your customers all the information about your business. On this page you can add your logo images, the business cover photo and your business.information. You can skip filling out the page now and add or edit it at any time through the menu when you are finished signing up";
+INVITE_CUSTOMERS_TITLE = "Invite your customers";
+INVITE_CUSTOMERS_BODY_TEXT = "To get started, invite your customers to schedule\nappointments directly to your calendar.\nMark your customers with a V and we will make sure to do your marketing for you - we will send an SMS\nwith personal invitation to each customer.\nAt the end of the process you can find them in your\ncustomer list.";
+INVITE_CUSTOMERS_BODY_TEXT2 = "To get started, invite your customers to schedule appointments directly to your calendar. Mark your customers with a V and we will make sure to do your marketing for you - we will send an SMS with personal invitation to each customer. At the end of the process you can find them in your customer list.";
+
+EXPLAINWORKINGHOURSTITLESCREEN = "Working hours";
+EXPLAINWORKINGHOURSFIRSTLINETEXTBOLD = "How to set the working hours of the business";
+EXPLAINWORKINGHOURSSECONDLINETEXTEXPLAIN = "The business hours that will be set are your business calendar range";
+EXPLAINWORKINGHOURSLINETEXT1 = "1. Click on the first day that your business works";
+EXPLAINWORKINGHOURSLINETEXT2 = "2. Select the start hour and the end hour";
+EXPLAINWORKINGHOURSLINETEXT3 = "3. Mark all days that have a start and end hours as the hours that you entered";
+EXPLAINWORKINGHOURSLINETEXT4 = "4. Days with different hours - click on one of these days and change the clock roller according to the start hour and end hour of the different days";
+WELCOMEPOPUPTITLESSCREEN = "Welcome to Bthere";
+WELCOMEPOPUPLINE1TEXT = "It's time to adjust your current calendar to ours and fill out your existing appointments by setting them for customers in the app.";
+WELCOMEPOPUPLINE4TEXTBOLD = "Good Luck!";
+GETTOKNOWTHESYSTEMSCREENTITLESCREEN = "Get to Know the System";
+GETTOKNOWTHESYSTEMSCREENLINE1TEXT = "Just before you start using the system\n We suggest you to watch an explanation video\n Which will give you the tools to use the system wisely";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONPROVIDER = "I'm a business owner";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONCUSTOMER = "I'm a customer";
+AFTERVIDEOPLAYERSCREENTITLE = "We're Happy To Know You!";
+AFTERVIDEOPLAYERSCREENLINELINETEXT1 = "We give you 30 days free \n To experiment with the system \n without obligation";
+AFTERVIDEOPLAYERSCREENLINELINETEXT2 = "At the end of the trial period the system costs NIS 100 without VAT per month";
+AFTERVIDEOPLAYERSCREENLINELINETEXT3 = "Join Our Business Community For Free";
+AFTERVIDEOPLAYERSCREENLINELINETEXT4 = "* Back to viewing the video - through the Plus menu on the Help screen";
+//BlockingHoursTableViewController
+CONFIRM_SELECTED_ROWS = "Confirm";
+REMIND_LATER_BTN = "Remind me later";
+BTN_CONTINUE_LIST_SERVICES = "Continue";
+SELECT_SERVICE_MESSAGE = "No service selected yet";
+//NEW TEXTS  IN CUSTOMER PLUS MENU
+NEW_Short_delay = "Delay";
+NEW_Cancellation = "Cancel";
+CUSTOMER_New_event = "Event";
+NEW_My_appointments = "My appointments";
+NEW_S_MESSAGE_TO_CUSTOMERS = "Message to customers";
+NEW_S_CUSTOMERS_APPROVAL = "Customers approval";
+NEW_S_EVENT = "Event";
+NEW_S_CANCEL_BLOCK_HOURS = "Cancel Block Hours";
+NEW_S_BLOCK_HOURS = "Block Hours";
+NEW_S_APPOINTMENT = "Appointment";
+FROM_LABEL = "From";
+UNTIL_LABEL = "Until";
+SET_WORKING_HOURS_TITLE = "Working Hours";
+BTN_SWITCH_OPEN = "open";
+BTN_SWITCH_CLOSE = "close";
+AddHoursButton_TEXT = "Add hours";
+SAVEAddHoursButton = "Save";
+EditHoursButton_TEXT = "Edit hours";
+
+//AdjustCalendarAlert
+ADJUST_CALENDAR_MAIN_TITLE = "Adjust your calendar";
+ADJUST_CALENDAR_ALERT_TITLE_GOOD = "Please note that you can always go back to adjust your calendar by using Exceptional appointment";
+ADJUST_CALENDAR_ALERT_TITLE_BAD = "This appointment can not be scheduled because there is an overlapping listing in your calendar";
+DATE_ADJUST = "Date";
+APPOINTMENT_TIME_ADJUST = "Appointment time";
+SERVICE_ADJUST = "Service";
+CUSTOMER_ADJUST = "Customer";
+SAVE_AND_FINISH_ADJUST = "Save and finish";
+SAVE_AND_ADD_ANOTHER = "Save and add another";
+CONFIRM_ADJUST = "Confirm";
+SUCCESS_ADJUST = "Success!";
+SELECT_CONTACT = "Select contact";
+SELECT_SERVICE_ALERT = "Please select at least one service";
+SELECT_DATE_ALERT = "Please select a date first";
+SELECT_APPOINTMENT_TIME_ALERT = "Please select the appointment time first";
+SELECT_A_CUSTOMER_ALERT = "Please select a customer";
+ADJUST_CALENDAR_BUTTON_TITLE = "Adjust your calendar";
+COSTUMERS_TEXT = "Customers";
+EXCEPTIONAL_APPOINTMENT = "Exceptional appointment";
+ONE_CONTACT_AT_LEAST = "Please select at least one contact";
+B4HOURSBEFORESERVICE = "Four hours before appointment";
+
+INSTA_FACEBOOK_INVALID = "invalid link";
+COSTUMERS_TEXT = "Customers";
+EXCEPTIONAL_APPOINTMENT = "Exceptional appointment";
+ONE_CONTACT_AT_LEAST = "Please select at least one contact";
+B4HOURSBEFORESERVICE = "Four hours before appointment";
+SETUP_SERVICES = "Services";
+ADDING_NEW_CUSTOMERS = "Adding new customers";
+APPOINTMENT_CANCEL_IMPOSSIBLE = "Appointment cancelation is impossible 24 hours before the appointment";
+PROMPT_NO_CANCEL_POSSIBLE = "Sorry, you can not cancel the  appointment in the app due to the   business cancellation policy. In order to cancel the appointment, please contact the business";
+DIAL_BUTTON = "Dial";
+EXPLAIN_NO_CANCEL_SETTINGS = "     By clicking,       the app will not allow the appointment to be canceled within 24 hours before the appointment time. In this case, the customers will be able to call directly to your business";
+OK_GOTIT = "OK, Got it";
+EXPLAIN_NO_APROVAL_SETTINGS = "     By clicking,       new customers will not be able to schedule an appointment for your business from the app until you add them as customers of your business";
+
+OPEN_TODAY = "Open today";
+CLOSED_TODAY = "Closed today";
+CLOSED_LABEL = "Closed";
+LINK_TO_INSTAGRAM = "Link to Instagram page";
+LINK_TO_FACEBOOK = "Link to Facebook page";
+
+THIS_BUSSINESS_NO_INSTAGRAM = "The business has no Instagram page";
+THIS_BUSINESS_NO_FACEBOOK = "The business has no Facebook page";
+ADD_CALENDAR = "Add Calendar";
+SUCCESS_SETUP_WORKING_HOURS = "Working Hours were saved succesfully";
+SUCCESS_SETUP_SERVICES = "Services were saved succesfully";
+
+
+PART_ONE = "הביקורת: \n .אבקש למחוק את הביקורת מדף העסק שלי מאחר והיא אינה הולמת \n ,שלום";
+TWO_IF_IF = ".תודה רבה \n .Bthere  עסק יקר, בלחיצה על שלח הבקשה שלך תעבור לבדיקה וטיפול של  \n";
+
+
+ONE_REVIEW = "שלום,";
+TWO_REVIEW = "אבקש למחוק את הביקורת מדף העסק שלי מאחר והיא אינה הולמת.";
+THREE_REVIEW = "הביקורת: ";
+FOUR_REVIEW = "עסק יקר, בלחיצה על שלח הבקשה שלך תעבור לבדיקה וטיפול של Bthere.";
+FIVE_REVIEW = "תודה רבה.";
+
+FAILED_EMAIL_ALERT = "You do not have an email application or an email account associated with the application.";
+
+
+REPORT_LABEL_TEXT = "Report this as offensive and inappropriate";
+
+COMPANY_DESCRIPTION_LABEL = "Company description...";
+
+BTN_AVAILABILITY_SEARCH = "Availability";
+
+NO_PICTURE_REGISTRATION = "You continued without a picture?";
+
+NO_PICTURE_REGISTRATION_BODY = "The business will be happy to identify you once you have an appointment. We recommend that you add your profile picture in the registration";
+
+OK_THX_BTN = "Ok, Thank you";
+//SPRINT 11 BELOW
+ADD_YOUR_EMPLOYEES = "Add your employees"; //1
+IF_YOU_HAVE_EMPLOYEES = "If you have employees in your business that provide service to your customers, You can add them now"; //2
+GO_TO_ADD_EMPLOYEE = "Go to add employee"; //3
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_AN_EMPLOYEE_SCREEN = "Are you sure you want to exit the adding an employee screen?";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE = "After the trial period ends, there will be an additional payment for each employee's calendar - without obligatio\nnOne employee up to three employee calendars - 79 NIS per month not including VAT, for each employee's calendar\nEvery additional employee - 59 NIS per month not including VAT, for each employee's calendar";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE_AGREE = "By clicking OK, you agree that you have read the payment terms after the trial period";
+ADD_EMPLOYEE = "Add Employee";
+FULL_NAME = "Full name";
+PHONE_NUMBER = "Phone number";
+MANAGER_PERMISSION = "Manager permission";
+ACCESS_PERMISSIONS = "Access permissions";
+SERVICE_PERMISSIONS = "Service permissions";
+CHOOSE_PERMISSION = "Choose permission";
+NEXT_BUTTON = "Next";
+ADD_EMPLOYEE_HOURS = "Add Employee Hours";
+ARE_HIS_WORKING_HOURS_IDENTICAL_TO_THE_BUSINESS_WORKING_HOURS = "Are his working hours identical to the business working hours?";
+CONFIRM_EMPLOYEE_DETAILS = "Confirm Employee Details";
+YOU_HAVE_EMPLOYEES_IN_YOUR_BUSINESS = "You have employees in your business?";
+WHAT_DO_YOU_GET_WHEN_ADDING_AN_EMPLOYEE = "What do you get when adding an employee:";
+EXPLAIN_ADD_EPMPLOYE_PRICE = "Manager-\n  √  Quick access to all of his calendars and the employees calendars\n  √  Manage employee permissions by services\n  √  Manage access permissions for business information\n  √  Secure calendar with code for each employee\n\nEmployee-\n  √  Customers appointment scheduling directly to the employee's work calendar\n  √  Personal digital work calendar on mobile\n  √  Mirroring with the device log\n  √  Business Privacy - Employee has no access to settings, business profile, and reports\n\n\Payment:\nAfter the trial period ends, there will be an additional payment for each employee's calendar - without obligation\nOne employee up to three employee calendars - 79 NIS per month not including VAT, for each employee's calendar\nEvery additional employee - 59 NIS per month not including VAT, for each employee's calendar";
+AGREE_THAT_YOU_HAVE_READ_THE_PAYMENT_TERMS_AFTER_THE_TRIAL_PERIOD = "By clicking OK, you agree that you have read the payment terms after the trial period";
+CONTINUE_TO_ADDING_EMPLOYEES = "Continue to adding employees";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_EMPLOYEE = "Are you sure you want to delete the employee?";
+EDIT_EMPLOYEE = "Edit Employee";
+EDIT_EMPLOYEE_HOURS = "Edit Employee Hours";
+PHONE_DOES_NOT_EXISTS_IN_DB = "Phone does not exists in Database";
+NOT_ELIGIBLE_AS_EMPLOYEE = "Not eligible as employee";
+SUCCESS_UPDATE_EMPLOYES = "Employees were saved successfully";
+SUCCESS_DELETE_EMPLOYE = "Deleted successfully";
+WELCOME_TO_BTHERE_REGISTER = "Welcome to Bthere App";
+TERMS_OF_USE_NEW_TEXT1 = "By clicking the Continue button you agree to the ";
+TERMS_OF_USE_NEW_TEXT2 = "Terms of use";
+ALREADY_REGISTERED_BTN_TITLE = "Already registered? Click here";
+CHANGE_LOCATION = "Change location";
+ADD_CALENDARS = "Add Calendars";
+ADD_CALENDARS_HOURS = "Add Calendars Hours";
+CONFIRM_CALENDARS_DETAILS = "Confirm Calendars Details";
+EDIT_CALENDARS = "Edit Calendars";
+EDIT_CALENDARS_HOURS = "Edit Calendars hours";
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_A_CALENDAR_SCREEN = "Are you sure you want to exit the adding a calendar screen?";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_CALENDAR = "Are you sure you want to delete the calendar?";
+ANOTHER_CALENDAR_FOR_YOUR_BUSINESS = "Another calendar for your business";
+WHAT_IT_MEANS_TO_ADD_A_CALENDAR = "What it means to add a calendar:";
+EXPLAIN_ADD_CALENDAR_PRICE = "You as a business owner give customers the appointment scheduling service for all the services your business offers.\nAdding an additional calendar to a business is suitable for anyone who gives in the business additional service with a fixed time, and the service must be separated from the business schedule, for example a business owner who also have a tanning machine\nCustomers schedule the appointment by the calendar name and choose the appropriate service when setting the appointment.\n\nPayment:\nAfter the trial period ends, a payment will be applied in addition to each calendar - without obligation.\nOne calendar up to three additional calendars - 79 NIS per month not including VAT for each calendar\nFor each additional diary - 59 NIS per month not including VAT";
+CONTINUE_TO_ADDING_CALENDAR = "Continue to adding calendar";
+CALENDARS_WERE_SAVED_SUCCESSFULLY = "Calendars were saved successfully ";
+ALREADY_REGISTERED_AGAIN = "Already registered to Bthere? Click here";
+NAVIGATION_BUSINESS_TITLE = "Business";
+REGISTER_TITLE_FIRST_SCREEN = "Registration";
+DID_NOT_AGREE_WITH_TERMS_POPUP_EMPLOYEES = "Please accept payment terms";
+PHONE_NOT_EXIST_EMPLOYEE = "This number does not belong to a customer";
+ALREADY_TAKEN_EMPLOYEE = "This employee is hired by another business";
+ACCESS_CODE_TEXT = "In order to add an employee or calendar you must enter an access code";
+ACCESS_CODE_TITLE = "Access code";
+INTROPOP_LINE1 = "Bthere is an app for scheduling";
+INTROPOP_LINE2 = "appointments with your favorite business.";
+INTROPOP_LINE3 = "For you to enjoy using the app";
+INTROPOP_LINE4 = "we recommend that you authorize access to";
+INTROPOP_LINE51 = "Alerts - ";
+INTROPOP_LINE52 = "to receive reminders about appointments";
+INTROPOP_LINE6 = "Location services and calendar services";
+INTROPOP_LINE7 = "In your device settings";
+ENTER_ONLY20_CHARACTERS = "You can put up to 20 characters";
+COMPLETE_CITY = "In order to edit address, complete city field";
+NO_REVIEW_INACTIVE_BUSINESS1 = "You can't review ";
+NO_REVIEW_INACTIVE_BUSINESS2 = " because it's inactive";
+NO_EVENT_IN_THE_PAST = "You can't make events in the past!";
+NO_HOURS_IN_THE_PAST = "Check selected hours: some are in the past!";
+
+

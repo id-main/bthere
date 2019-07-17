@@ -1,0 +1,6 @@
+framework module Pods_Bthere {
+  umbrella header "Pods-Bthere-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AdjustCalendarAlert" customModule="Bthere" customModuleProvider="target">
+            <connections>
+                <outlet property="alertText" destination="4ih-T8-rwc" id="pBo-xt-PSa"/>
+                <outlet property="confirmBtn" destination="MMN-jn-dEo" id="oPU-xf-0Yj"/>
+                <outlet property="popUpView" destination="qnN-em-5Cr" id="VaO-z1-a6X"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mUz-VJ-0jM">
+                    <rect key="frame" x="28" y="190.5" width="319" height="100"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This appointment can not be scheduled because there is an overlapping listing in your calendar" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4ih-T8-rwc">
+                            <rect key="frame" x="3" y="3" width="313" height="52.5"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qnN-em-5Cr">
+                            <rect key="frame" x="0.0" y="69.5" width="319" height="0.5"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="0.5" id="SqY-Vn-kVO"/>
+                            </constraints>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MMN-jn-dEo">
+                            <rect key="frame" x="129.5" y="75" width="60" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="1dC-c2-abR"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" title="Confirm">
+                                <color key="titleColor" red="0.57254901960000004" green="0.79607843140000001" blue="0.84705882349999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="confirmAction:" destination="-1" eventType="touchUpInside" id="qZf-Ml-Lma"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.96078431369999995" green="0.93725490199999995" blue="0.90980392160000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="MMN-jn-dEo" firstAttribute="top" secondItem="qnN-em-5Cr" secondAttribute="bottom" constant="5" id="78q-n0-7TR"/>
+                        <constraint firstItem="4ih-T8-rwc" firstAttribute="centerX" secondItem="mUz-VJ-0jM" secondAttribute="centerX" id="L6O-KL-LWW"/>
+                        <constraint firstAttribute="height" constant="100" id="V8i-f1-plS"/>
+                        <constraint firstAttribute="trailing" secondItem="4ih-T8-rwc" secondAttribute="trailing" constant="3" id="VDP-vI-x5y"/>
+                        <constraint firstItem="qnN-em-5Cr" firstAttribute="width" secondItem="mUz-VJ-0jM" secondAttribute="width" id="VrW-A1-w6k"/>
+                        <constraint firstAttribute="trailing" secondItem="qnN-em-5Cr" secondAttribute="trailing" id="Wpo-H5-OYL"/>
+                        <constraint firstAttribute="bottom" secondItem="MMN-jn-dEo" secondAttribute="bottom" constant="5" id="k7z-yD-iwa"/>
+                        <constraint firstItem="4ih-T8-rwc" firstAttribute="top" secondItem="mUz-VJ-0jM" secondAttribute="top" constant="3" id="urY-7t-HDh"/>
+                        <constraint firstItem="qnN-em-5Cr" firstAttribute="leading" secondItem="mUz-VJ-0jM" secondAttribute="leading" id="xmw-sP-UGM"/>
+                        <constraint firstItem="MMN-jn-dEo" firstAttribute="centerX" secondItem="mUz-VJ-0jM" secondAttribute="centerX" id="y6z-p4-Ghl"/>
+                        <constraint firstItem="4ih-T8-rwc" firstAttribute="leading" secondItem="mUz-VJ-0jM" secondAttribute="leading" constant="3" id="zAl-FX-qDm"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.20000000000000001" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="mUz-VJ-0jM" firstAttribute="centerY" secondItem="fnl-2z-Ty3" secondAttribute="centerY" multiplier="0.7" id="B63-Nq-hfo"/>
+                <constraint firstItem="mUz-VJ-0jM" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" multiplier="0.85" id="KvV-VC-mKc"/>
+                <constraint firstItem="mUz-VJ-0jM" firstAttribute="centerX" secondItem="fnl-2z-Ty3" secondAttribute="centerX" id="RV3-bZ-0nK"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+        </view>
+    </objects>
+</document>

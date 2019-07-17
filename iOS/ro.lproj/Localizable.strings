@@ -1,0 +1,825 @@
+/*
+ Localizable.strings
+ bthree-ios
+ 
+ Created by Anca Ungureanu on 08/22/17.
+ Copyright © 2017 Bthere. All rights reserved.
+ */
+
+ADDRESS_CITY ="Adresa: ";
+POPUP_FB_GOOGLE = "Butonul OK va sterge datele introduse";
+OK = "Ok";
+CANCEL = "Anulare";
+YES = "Da";
+NO = "Nu";
+HOURS = "Ore";
+MINUTES = "Minute";
+SAVE_BTN = "Salveaza";
+CONTINUE = "Continua";
+FIRSTNAME_LBL = "Numele complet";
+L_NAME = "Nume";
+LOGIN_TITLE = "Logheaza-te";
+FULLNAME_LBL = "Prenume si nume*";
+PHONE_LBL = "Numar de telefon";
+FULLNAME_LBL = "Prenume si nume*";
+DATEBURN_LBL = "Data nasterii";
+EMAIL_LBL = "Email";
+IMAGEUPLOAD_LBL = "Incarca poza";
+QUICKREGISTERWITH = "Inregistrare rapida cu:";
+ORFILLNEXTDETAILS = "";
+REQUIREFIELD = "*Camp obligatoriu";
+READCONDITIONOK = "Sunt de acord cu";
+TERMSOFUSE =" termenii si conditiile";
+AGREE_GET_ADVERTISEMENTS = "Sunt de acord sa primesc materiale promotionale";
+MESSAGE = "Nou! Plata directa catre furnizor. Plata nu a fost efectuata!";
+REGISTER_BTN = "Inregistreaza-te";
+PAYMENTSDETAILSQUESTION = "Doriti sa pastram detaliile cartii dumneavoastra de credit pentru a usura procesul efectuarii platilor pe viitor?";
+//MARK: - RegisterViewController
+FIRST_NAME = "Nume complet";
+LAST_NAME = "Nume";
+PHONE_NUMBER = "Numar de telefon";
+MAIL_USER = "Email";
+MAIL = "e-mail";
+REGULATION = "Catre acordul de utilizare si confidentialitate";
+ADD_ASS_BUSINESS = "Si adauga-ti compania la";
+SYNC_CALENDAR = "Sincronizeaza cu calendarul meu personal";
+//validation
+ENTER_TEN_DIGITS = "Va rugam sa introduceti un numar de telefon valid format din 10 cifre";
+MAX_CHR_NAME = "Puteti introduce pana la 100 de caractere";
+MAX_CHR_EMAIL = "Puteti introduce pana la 100 de caractere";
+//MARK: - RgisterModelViewController
+BUSINESS_DETAILS = "Detalii companie";
+GLOBAL_DATA = "Detalii generale";
+NOTIFICATIONS = "Notificari";
+BUSINESS_PROPHIL = "Pagina de profil a companiei";
+SYNC_WITH_CONTACTS = "Confirma contactele";
+PAYMENT = "Modalitati de plata";
+MESSAGE_TITLE = "Mesaje";
+EXIT_REGISTER = "Sunteti sigur ca nu doriti sa continuati inregistarea ca si companie noua?";
+OK_PAY = "Accepta si plateste";
+ERROR_REGISTER = "A aparut o eroare pe parcursul inregistrarii companiei";
+ERROR_UPDATE_GENERAL_DETAILS = "A aparut o eroare pe parcursul actualizarii paginii Detalii Generale";
+
+//popUpBusinessProfile
+POP_UP_BUSINESS_TITLE = "Profilul companiei";
+POP_UP_BODY_TEXT = "";
+
+//PopUpWorkingHours
+POP_UP_WORKING_HOURS_TITLE = "Programul cu publicul";
+
+//MARK: - RegisterPaymentPage7ViewController
+PAYMENT_CREDIT_CARD = "Plata cu card de credit";
+CARD_OWNER_NAME = "Numele detinatorului cardului de credit";
+CARD_TYPE = "Tipul cardului";
+CARD_NUM = "Numarul cardului";
+CARD_VALIDITY = "Data expirarii";
+BACK_DIGITS = "CVV";
+MONTH = "MM";
+YEAR = "YY";
+CARD_TYPE_NAME = "visa";
+//MARK: - RegulationViewController
+REG_TITLE = "regulament";
+//MARK: - MessageVerificationViewController
+ERROR_SAVECHANGES = "A aparut o eroare in salvarea modificarilor";
+SUCCESS_SAVECHANGES = "Detaliile tale personale au fost încarcate cu succes";
+MESSAGE_VERIFICATION = "Cod de verificare";
+ILLEGAL_VERIFICATION = "Ati introdus gresit codul de verificare, dupa 3 incercari aplicatia se va bloca automat.";
+PASSWORD_NOT_ENTERD = "Nu ati introdus parola";
+SEND_AGAIN = "Trimiteti iar";
+ENTER_VERIFICATION = "Introduceti codul primit prin SMS";
+NOT_GET_VERIF = "Nu am primit codul";
+//MARK: - GlobalDataViewController
+DOMAIN = "*Tipul afacerii";
+HOURS_ACTIVITY = "*Program de lucru";
+ADD_WORKERS = "Adauga angajat";
+SERVICE_PRODUCT = "*Serviciu/Produs";
+TURN_SETTINGS = "Setari programari";
+//MARK: - itemInSection3
+HOURS_ACTIVE = "Program de lucru";
+EQUAL_HOURS = "Este programul lui de munca identic cu programul de munca al companiei?";
+ADD_WORKER = "Adauga angajat";
+//MARK: - HoursActiveTableViewCell
+RECESS = "Pauze";
+//validation
+CANT_SELECT_ALL_DAYS_BEFORE_RECESS = "Nu poti marca zilele inainte de a alege orele de pauza intr-o singura zi";
+CANT_SELECT_ALL_DAYS_BEFORE_HOURS = "Nu poti marca zilele inainte de a alege orele de lucru intr-o singura zi";
+CHOOSE_ALL = "Marcheaza toate zilele";
+//MARK: - RecessesTableViewCell
+ADD_RECCESS = "Adauga pauze";
+//MARK: - AddNewServiceTableViewCell
+ADD_SERVICE_PRODUCT = "Adauga serviciu";
+//ADD_SERVICE_PRODUCT = "Adauga serviciu";
+//MARK: - GlobalDetailsTableViewController
+BUSINESS_DOMAIN = "Domeniul companiei";
+LEADING_SENTENCE = "Propozitia principala";
+ACTIVE_HOURS = "Program de lucru";
+WORKER_DETAILS = "Detalii angajat";
+BUSINESS_SERVICE = "Servicii companie";
+CALENDAR_SETTINGS = "Setari calendar";
+//MARK: - HoursActiveTableViewCell
+ALLDAYS = "";
+//validation
+NAME_ERROR = "oops :) Nume gresit";
+MAIL_ERROR = "oops :) Adresa gresita";
+PHONE_ERROR = "Numar de telefon invalid";
+PHONE_ERROR2 = "Acest numar de telefon nu este inregistrat in sistem";
+ERROR = "Cateva campuri nu au fost completate corect";
+ERROR_EMPTY = "Nu uitati sa completati toate campurile obligatorii:)";
+MAIL_EXIST = "Aceasta adresa de email exista deja in baza noastra de date";
+PHONE_EXIST = "Acest numar de telefon nu exista in baza de date";
+MAIL_VALID = "Adresa de email este incorecta*";
+//MARK: - BusinessDetailsViewController
+BUSINESS_DETAILS_TITLE = "Detalii generale companie";
+BACK = " Inapoi";
+BUSINESS_NAME = "*Numele companiei";
+ID = "*ID/CN";
+ADDRES = "*Adresa";
+PHONE = "*Numar de telefon";
+FAX = "Numar de fax";
+SITE = "Website";
+EMAIL = "*Email";
+SOCIAL_NETWORKS = "Retele de socializare";
+CLICK_ON_ICON_TO_SYNC = "Apasa icoana pentru sincronizare";
+SAVE = "Salveaza si continua";
+CONTINUE = "Continua";
+REQUIRED_FIELD = "*Camp obligatoriu";
+ID_TZ = "id/cn(Numarul de inregistrare al companiei)";
+CITY = "*Oras";
+PHONE_BUSINESS = "Numar de telefon companie";
+//validation
+NAME_ERROR = "Nume invalid";
+MAIL_ERROR = "Adresa invalida";
+PHONE_ERROR = "Numar de telefon invalid";
+PHONE_ERROR2 = "Numar de telefon inexistent";
+ERROR = "Cateva campuri nu au fost completate";
+ERROR_EMPTY = "Campurile obligatorii nu au fost completate";
+MAIL_EXIST = "Emailul exista deja in baza noastra de date";
+PHONE_EXIST = "Numar de telefon existent";
+MAIL_VALID = "Introduceti o adresa de email valida";
+FAX_VALId = "Introduceti un numar de fax valid de pana la 9 caractere";
+ENTER_NINE_CHAR = "Introduceti doar 9 caractere";
+ADDRESS_DONT_CONTAIN_NUMBER = "Trebuie sa contina numarul strazii";
+//MARK: - NotificationsViewController
+MEETING_UPDATES = "Actualizare programari";
+TEN_MINUTES_BEFORE_MEETING = "10 minute inainte de programare";
+FOLLW_CUSTOMERS = "Follow up clienti";
+CUSTOMERS_EVENTS = "Evenimente clienti";
+KIND_NOTIFICATION = "Tipul notificarii";
+FREQUNCY = "Frecventa";
+KIND_UPDATE = "Tipul actualizarii";
+TIME_BEFORE_EVENT = "Seteaza alarma inainte de programare";
+POPUP = "Pop up";
+//MARK: - ContactSyncViewController
+SELECT_ALL = "Tot";
+CHOOSE_CUSTOMER = "Alegeti din lista de contacte"; // Alegeti clientul din lista de contacte
+//MARK: - PopSyncContactViewController
+WYH_SYNC = "De ce ar trebui sa sincronizati lista de contacte? Raspunsul este simplu";
+SYNC_REASON1 = "Va permite sa va promovati afacerea";
+SYNC_REASON = "24 de ore pe zi aveti clientii mai aproape ca oricand. Sincronizand lista de contacte va va ajuta pe dumneavoastra si pe clientii dumneavoastra sa economisiti timp. Fiecare client are acces la calendar in timp real si poate sa faca programare cu ajutorul unui singur click.";
+//MARK: - ExistingUserViewController
+NAME_USER = "Nume utilizator";
+PASSWORD_USER = "Parola";
+BTN_CONNECT = "Conecteaza-te";
+EXISTS_USER = "Numar de telefon";
+//----
+PHONE_USER = "Telefon";
+//MARK: - //\\PrintCalendarViewController
+print_TITLE = "Printeaza calendar";
+FROM_DATE = "De la data";
+TO_DATE = "la data";
+DESIGN = "afiseaza";
+//MARK: - MenuTableViewController
+MY_CALENDAR = "Calendar";
+MY_GIVESERVICE = "Furnizorii mei de servicii";
+SETTINGS = "Setari";
+ABOUT_US = "Despre compania noastra";
+REGISTER_BUSINESS = "Inregistreaza-te ca business";
+print = "Printeaza";
+LOG_OUT = "Delogheaza-te";
+BUSINESS_PAGE = "Catre pagina de business";
+CUSTOMERS = "Clienti";
+REPORTS = "Rapoarte";
+//MARK: - AdvantageSearchViewController
+SUBJECT = "Sectiune";
+AREA = "Regiune";
+DESIRED_DATE = "Data dorita";
+RANGE_HOURS = "Interval" ;
+SEARCH = "Cauta";
+SUBJECT_PLACE_HOLDER = "Cauta sectiune";
+AREA_PLACE_HOLDER = "Cauta zona";
+//validation
+ILLEGAL_DOMAIN = "Domeniu ilegal";
+NOT_DATA_TO_SEARCH = "Nu au fost introduse date in cautare";
+NO_SUPPLIERS_MATCH = "soory :) Ne pare rau, nu am putut gasi compania cautata";
+//MARK: - WelcomeAlertViewController
+WELCOME = "Bine ati venit";
+OPEN_CALENSER1 = "Deschide calendar si profilul companiei,";
+OPEN_CALENSER2 = "va rugam sa completati urmatoarele detalii:";
+
+//MARK: - RegisterBuisnessProphielViewController
+HOURS_WORK = "Durata activitatii";
+SLOGEN = "Slogan";
+FOR_TOR = "Fa o programare";
+ABOUT = "Despre noi";
+OPINION = "Recenzii";
+UPLOAD_CAMPAIGN = "Incarca poza pentru promotii";
+THANK = "Multumim, va asteptam din nou";
+LOGO = "Logo";
+ATTACH_PHOTO = "Ataseaza o imagine din galerie";
+TAKE_PICTURE = "Fa o poza";
+PICTURE = "Poza";
+ABOUT_BUSINESS = "Despre afacerea locala";
+SAVE_CONTINU = "Salveaza si continua";
+CAMPAIGN = "Promotie";
+NOT_VALID = "Invalid";
+USE_IMAGE = "Utilizeaza";
+CHOOSE_IMAGE = "Alege o imagine";
+LOOK = "Vezi galerie";
+VOTERS = "Loc";
+UPLOAD_COMPANY_LOGO = "Incarca logo-ul companiei";
+COMPANY_SLOGAN = "Slogan companie...";
+UPLOAD_COMPANY_PROFILE_PHOTO = "Incarca poza de profil a companiei";
+//MARK: - RegisterContactsPage6
+AUTOMATIC_APPROVAL = "Aprobare automata pentru toate contactele";
+SYNC_CONTACTS = "Doriti sa sincronizati contactele din lista?";
+SYNC_EXPLAIN = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+APPROVAL_ALL = "Doriti ca toate contactele din lista dumneavoastra sa fie inregistrate ca si clienti?";
+ASK_FOR_SYNC = "Doriti sa alegeti clientii din lista de contacte manual?";
+//MARK: - PaymentMethodViewController
+//jmode PAYMENT_BY = "Plateste cu";
+PAYMENT_BY = "";
+PAYMENT_METHOD_EXPLAIN = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+//MARK:- PopUpOrderDetailsViewController
+THANKS = "Va multumim!";
+YOUR_REQUEST_SENT = "Cererea dumneavoastra a fost trimisa catre";
+TO_APPROVAL = "Pentru aprobare";
+F_NAME = "(Prenume)";
+PROVIDER_NAME = "(Nume furnizor) ";
+//MARK: - NewTurnViewController
+NEW_TURN_TITLE = "Programare noua";
+COSTUMER = "Client";
+SERVICE_PROVIDER = "Angajat";
+SERVICE_TYPE = "Tip serviciu";
+DATE = "Data";
+HOUR = "Ora";
+REMARK = "Comentarii";
+MAKE_APPOINTMENT = "Fa o programare";
+SEND_MESSAGE = "Trimite mesaj de confirmare";
+//DONT_CARE = "I dont c"
+OPEN_CAMERA = "Fa o poza";
+OPEN_ALBUM = "Adauga o imagine din galerie";
+//You have not filled the field as required reading articles
+READING_ARTICLE_NOT_FILLED = "Trebuie sa acceptati acordul privind Termeni si conditii";
+//MARK: - MyCostumersViewController
+SEARCH_CUSTOMER = "Cautare clienti";
+MY_CUSTOMERS ="Clientii mei";
+//MARK: - AppointmentTableViewCell
+DETAILS_TURN = "Detalii programare";
+CANCEL_TURN = "Anulare programare";
+//MARK: - SearchResultsViewController
+NO_AVAILABLE_LOCATION = "Seviciul de localizare este oprit";
+OPEN_LOCATION_SETTINGS = "Porneste optiunea locatie";
+SEARCH_RESULT = "Cauta rezultat";
+CHANGE_LOCATION = "Schimba locatia";
+DISTANCE = "Distanta";
+ORDER_BY = "Filtreaza dupa";
+//MARK: - SearchResultsTableViewCell
+TO_BUSINESS_PAGE = "Catre pagina companiei";
+//MARK: - ChooseWorkerTableViewController
+NO_GIVES_SERVICE = "Nu exista angajati disponibili pentru acest furnizor";
+//MARK - ServiceInListTableViewCell
+DELETE_SERVICE = "Sunteti sigur ca doriti sa stergeti acest serviciu?";
+//MARK: - NavigationModelViewController
+NOT_SUPPLIER_REGISTER = "Nu sunteti inregistrat ca furnizor";
+NAME_BUSINESS = "Nume companie";
+NAME_CUSTOMER = "Nume client";
+//MARK: - BussinesServicesTableViewCell
+PRODUCT = "Produs";
+SERVICE = "Serviciu";
+//SERVICE_PRODUCT = "serviciu/produs";
+CUT_HAIR = "tuns";
+HAIR_DO = "hairdo";
+LEVEL = "Loc";
+CHOOESE_SERVICE_PRDUCT = "Selectati nume serviciu/produs";
+PRICE = "Pret (RON)";
+SHOW_PRICE = "Afiseaza lista de preturi";
+DURING_TIME = "Durata (min)";
+NUM_IN_PARALLEL = "Clienti multipli";
+TIME_SPACE = "Interval de timp (min)";
+DISCOUNT_ENTER_SOME_TURN = "Discount pentru multiple programari/produse";
+CHOSE_PRODUCT_NAME = "Alege numele produsului";
+CHOOSE_SERVICE_NAME = "Alege numele serviciului";
+PRODUCT_NAME = "Nume produs";
+SERVICE_NAME = "Nume serviciu";
+DISCOUNT_ORDRER_MORE_PRODUCTS = "Discount pentru multiple programari/produse";
+//validation
+ENTER_ONLY2_CHARACTERS = "Puteti insera pana la 2 cifre";
+ENTER_ONLY3_CHARACTERS = "Puteti insera pana la 3 cifre";
+ENTER_ONLY6_CHARACTERS = "Puteti insera pana la 6 cifre";
+ENTER_ONLY30_CHARACTERS = "Puteti insera pana la 30 cifre";
+//MARK: - personalDetailsViewController
+NAME_PD = "Nume*";
+LAST_NAME_DP = "Nume*";
+MAIL_DP = "Email";
+MARRIAGE_DATE = "Aniversare";
+ERROR_FNAME = "Completati: prenume si nume";
+ERROR_LNAME = "oops :) Nume gresit";
+CALENDAR_DESIGN = "Afisare calendar";
+PERSONAL_DETAILS_TITLE = "Detalii personale";
+//MARK: - ServicesTableViewCell
+MORE_INFORMATION = "Informatii suplimentare";
+MULTIPLE_SELECT = "Alegeri multiple";
+ORDER = "Comanda";
+ORDER_MARKED = "Invita toate programarile selectate";
+NO_RESOLTS = "Nici un rezultat";
+//MARK: - giveMyServiceTableViewCell
+DELETE = "Sterge";
+NAVIGATE = "Navigheaza";
+//MARK: - smallGiveMyServicesCollectionViewCell
+DELETE_GIVE_SERVICE = "Sunteti sigur ca doriti sa stergeti acest furnizor?";
+NO_SERVICES = "Nu exista servicii pentru compania selectata";
+//MARK: - langForClientViewController
+LANG_CHANGE_NEXR_ENTRANCE = "The language changes Remember Me app";
+LANG = "Limba";
+//MARK: - MenuTableViewController
+REGISTERED_AS_BUSINESS = "Sunteti deja inregistrat ca si afacere";
+///MARK: - NewEventViewController
+NEW_EVENT = "Eveniment nou";
+EVENT_NAME = "Nume eveniment";
+DATE = "Data";
+HOUR = "Ora";
+NOTES = "Comentarii";
+SUCCESS_NEW_EVENT = "Eveniment nou creat cu succes";
+SET_EVENT = "Creeaza eveniment";
+//validation
+FILL_ALL_DATA = "Completati toate informatiile";
+ILLEGAL_HOURS = "Ore invalide";
+NO_HOUR = "Nu este setata ora de incepere";
+//MARK: - NewEventRemarkTableViewCell
+ENTER_TEXT = "Introduceti text";
+
+//MARK: - notificationsForDefinationsViewController
+DISCOUNT_MINUTE_90 = "Promotie de ultima ora";
+MINUTES_BEFORE_MEETING_20 = "20 de minute inainte de programare";
+OK_FROM_BUSINESS = "Verificare de la posesorii de afaceri";
+UPDATE_WAIT_TURN = "Actualizari lista de asteptare";
+UPDATES_NEWS = "Noutati si actualizari";
+SUCCESS_SETTINGS = "Setarile  pentru alerte au fost actualizate!";
+ERROR_SAVE = "Eroare la salvare date";
+//MARK: - noTurnViewController
+SUCCESS_TURN = "Programarea a fost efectuata cu succes";
+NO_TURN = "Nu exista programari disponibile";
+SUCCESS_ADD_TO_WAIT_LIST = "Ati fost adaugat in lista de asteptare cu succes";
+NO_TURN_AS_ASK = "Nu exista programari disponibile conform cautarilor dumneavoastra";
+WHAT_TO_DO = "Care este actiunea dorita?";
+ENTER_TO_WAIT_LIST = "Intrati in lista de asteptare";
+NEAR_TURNS = "Programari disponibile viitoare";
+CHANGE_DAY = "Modifica data";
+OTHER_SUPPLIER = "Cauta alta companie";
+
+//MARK: - WorkerInListTableViewCell
+DELETE_WORKER = "Sunteti sigur ca doriti sa stergeti acest angajat?";
+//MARK: - MyWaitingListViewController
+NO_TURNS_INMYLISTWAITING = "Nu exista nimeni in lista ta de asteptare";
+//MARK: - entranceViewController
+SEARCH_SERVICE_DOMAIN = "Cauta o companie sau un domeniu de activitate";
+LOGIN = "Esti deja membru? Logheaza-te";
+ADVANTAGED_SEARCH = "Cautare avansata";
+ADVERTISINGS = "buletinele de stiri si trecere: noi afaceri, oferte valoroase ...";
+//MARK: - entranceCustomerViewController
+NO_RESULTS = "Nu exista rezultate in urma cautarii tale";
+//validaion
+ENTER_ONLY120_CHARACTERS = "Poti folosi maxim 120 de caractere";
+//MARK: - ListServicesViewController
+WANT_ORDER = "Vreau sa comand";
+NOT_CARE = "not care";
+SERIES_TURNS = "serie de programari";
+GIFT_CARD = "Card cadou";
+KILOMETER_FROM_YOU = " km fata de tine";
+//MARK: - ModelCalendarForAppointmentsViewController
+REGISTER_NOW = "Pentru a putea face programare trebuie sa va inregistrati ca si client";
+CHOOSE_GIVE_SERVICE = "Alege un angajat";
+
+//MARK: - CalenderSettingTableViewCell
+DAY_DESIGN = "design zi";
+WEEK_DESIGN = "design saptamana";
+MONTH_DESIGN = "design luna";
+LIST_DESIGN = "design lista";
+MAX_CHAR = "maxim 100 de programari";
+LIMIT_TURNS = "Doriti limitarea numarului de programari pe care le poate face un client?";
+NUM_TURNS_MEETINGS = "Numar de programari";
+DURATION_TURNS = "Durata programarilor (saptamani)";
+
+//MARK: - NewAppointmentClientViewController
+NO_SELECTED_SUPPLIER = "Va rugam sa alegeti o companie";
+
+//MARK: - PopUpDetailsAppointmentViewController
+THX = "Va multumim";
+ASK_SEND_TO_GIVE_SERVICE = "Programare efectuata cu succes";
+ASK_SEND = "Programare efectuata cu succes";
+TO_OK = "Pentru confirmare";
+
+//MARK: - RecordDesignedViewController
+NO_EVENTS = "Nici un eveniment";
+
+//MARK: - detailsAppointmetClientViewController
+DETAILS_APPOINTMENT_TITLE = "Detalii programare";
+DETAILS_APPOINTMENT = "Detalii comanda";
+DETAILS_MEETING = "Detalii programare";
+THX_REGISTERED = "Va multumim pentru inregistrare! Din pacate un alt client s-a programat inaintea dumneavoastra. Va rugam sa alegeti o alta ora la care doriti sa efectuati programarea.";
+
+//MARK: - ServiceInformationViewController
+VIEW_INFORMATION = "Here's more information about the business: Ltzglcgln Fan Iaih D, Tanon, Cghdcono Hcgtzmnhidhi Chgidhli Acgnih Hihfcghlhlai, Hlciahlc. Hgchlio, Aclghalh Tzgcmahli, Clchgd Mahlcg and therefore there is no one who does it but me, only I unique and therefore it pays to come to me !!!";
+
+//MARK: - AboutUsClientViewController
+VIEW_ABOUT = "Terms and conditions of use Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr hate Lialhcionga Lhamilhacmmm Hmahlcm, Lailacimlahinmah, Lcmalcg haven Lcmahlmhlmnhinmahiaht'akr Muna Lialhcionga Lhamilhacmmm ";
+TO_REGULATION = "Catre termeni si conditii";
+
+//MARK: - RegulationClientViewController
+REGULATION_TITLE = "Acordul de utilizare si confidentialitate";
+REGULATION_VIEW = "Lorem ipsum dolor sit Ah, money rebates, and essential, but do. Over the years, come, whoever advantage of it, but for work, exercise, school district., However, want to be a pain in the pleasure of football to escape from pain to find not produce a result. shutters are not, he calms the soul, that is, they abandoned the agenda at all be guilty of deputies Ministry of toil. free, you also factor in renovation rules.";
+
+//MARK: - MyAppointmentsViewController
+LBLAPPOINTMENT_TITLE= "Intalnirile mele";
+NO_APPOINTMENTS__FROM_YOU = "Nu exista programari disponibile";
+
+//MARK: - CancelAppointmentTableViewController
+CANCELAPPOINTMENT_TITLE = "Anuleaza programarea";
+OK_SEND = "Ok si trimiteti anulare";
+CHOOSE_CANCEL = "Ati ales sa anulati programarea facuta la";
+SUCCESS_CANCEL = "Programarea a fost anulata cu succes";
+
+//MARK: - slaightViewController
+SLAIGHT_TITLE = "Intarziere";
+OK_SEND_SLAIGHT = "Trimite mesaj cu Voi intarzia";
+ASK_SLAIGHT = "Anunti ca vei intarzia?";
+
+//MARK: - Server
+NO_CONNECTION = "Lipsa conexiune, incercati sa va inregistrati mai tarziu";
+NO_INTERNET = "Sunteti offline!";
+ERROR_SERVER = "A aparut o eroare in comunicarea cu serverul. Va rugam sa incercati mai tarziu.";
+ERROR_PHONE = "Numar de telefon invalid";
+
+//MARK: - BigServiceCollectionViewCell
+MINUTES = "m'";
+
+//MARK: - Global
+WELCOME_TO_BTHERE = "Bine ati venit la Bthere!";
+KEY_SENTANCE_SLOGEN = "Slogan";
+NEW_VERSION_HERE = "Noua versiune aici";
+DISCOUNTS_FOR_FIRST_REGISTERS = "Oferta speciala pentru primele persoane care se inregistreaza";
+//MARK: - Model calendar
+DESIGN_DAY = "Zi";
+DESIGN_WEEK = "Saptamana";
+DESIGN_MONTH = "Luna";
+DESIGN_LIST = "Lista";
+
+//MARK: - others
+//days
+SUNDAY = "D";
+MONDAY = "L";
+TUESDAY = "M";
+WEDNSDAY = "M";
+THIRTHDAY = "J";
+FRIDAY = "V";
+SHABAT = "S";
+
+S_DAY = "Du";
+M_DAY = "Lu";
+T_DAY = "Ma";
+W_DAY = "Mi";
+THIR_DAY = "Jo";
+F_DAY = "Vi";
+SHT_DAY = "Sa";
+
+SUNDAY_DAY = "Duminica";
+MONDAY_DAY = "Luni";
+TUESDAY_DAY = "Marti";
+WEDNSDAY_DAY = "Miercuri";
+THIRTHDAY_DAY = "Joi";
+FRIDAY_DAY = "Vineri";
+SHABAT_DAY = "Sambata";
+
+FIRST = "ראשון";
+SECOND = "שני";
+THIRD = "שלישי";
+FOURTH = "רביעי";
+FIFTH = "חמישי";
+SIX = "שישי";
+SEVEN = "שבת";
+
+TODAY = "Azi";
+//jmode plus
+//: - MyCostumersViewController
+ADD_CUSTOMER = "Adauga client";
+OCASIONAL_CUSTOMER = "Client ocazional";
+ADD_NEW_CUSTOMER = "Adauga client nou";
+FULLNAME_STAR  = "Nume complet*";
+PHONE_STAR = "Numar de telefon*";
+EMAIL_STAR = "Email*";
+MAKE_new_APPOINTMENT = "Seteaza o programare";
+ADD_NEW_CUSTOMMER = "Adauga";
+ADDED_CUSTOMER = "Client nou adaugat cu succes!";
+PRIVATE = "Privat";
+NEWCLIENT_STRING = "Client";
+NEWMYTURN = "Randul meu";
+NEWDELETE ="Sterge";
+NEWCALL ="Suna";
+DELETE_CUSTOMER_MESSAGE = "Ati ales sa stergeti acest client:";
+DELETE_CUSTOMER_TITLE = "Sterge client";
+BAD_NETWORK = "Conexiunea a pierduta sau adresa nu a fost gasita";
+LBL_UPDATE = "Actualizeaza informatia";
+CUSTOMER_EXIST = "Acest client a fost deja adaugat in lista dumneavoastra. Pentru a face o programare, este necesar sa il selectati din ecranul anterior, Clientii mei, Lista.";
+CUSTOMER_EXIST2 = "Clientul este deja in lista dumneavoastra";
+UPDATE_CUSTOMER_EXIST = "Actualizeaza detalii";
+SIMPLE_BUTTON_UPDATE = "Actualizeaza";
+SUCCES_CUSTOMER_UPDATE = "Clientul a fost actualizat cu succes";
+THOSE_INFOS_OF_ANOTHER_CUSTOMER = "Aceste detalii apartin altui client. Nu puteti edita aceste informatii.";
+CUSTOMER_APPOINMENTS_SUBTITLE = " Programari";
+NO_FEATURE = "Dispozitivul dumneavoastra nu suporta aceasta caracteristica.";
+NO_SIM_SIGNAL = "Cartela sim inexistenta, sunteti in afara ariei de acoperire sau telefonul este pe modul avion.";
+CONFIRM_BTN_DEL = "Confirma";
+CANCELLATION_BTN = "Anulare";
+NO_APPOINMENTS_YET = "Acest client nu are programari";
+NO_APPOINMENTS_SET = "Momentan nu exista programari";
+TITLE_CANCEL_APPOINTMENT ="Anuleaza programarea";
+DESCRIPTION_CANCEL_APPOINTMENT = "Sunteti sigur ca doriti sa anulati aceasta programare?";
+//SupplierSettings
+MYDETAILS = "Detaliile mele";
+MANAGE_CALENDAR = "Administreaza calendar";
+SYNC_CONTACTS_SETTING = "Sincronizare contacte";
+EMPLOYES = "Angajati";
+PAYMENT_CREDENTIALS = "Acreditari de plata";
+DELETE_AN_USER = "Sterge utilizatorul";
+MANAGER_ONLY = "Doar un manager poate avea acces la toate profilele angajatilor";
+PULL_TO_REFRESH = "Trageti pentru a actualiza";
+INFO_ORDER = "Info";
+EMPLOYE_PERMISSIONS = "Permisii angajati";
+EMPLOYE_MANAGER_CHANGED = "Permisiile pentru angajati au fost actualizate cu succes";
+ERROR_CHANGE_MANAGER_STATUS = "A aparut o eroare in setarea permisiilor";
+NO_PERMISSION_FOR_SERVICES_SET = "Permisiile nu sunt setate";
+PERSONAL_INFORMATION = "Informatii personale";
+EMPLOYE_EXIST = "Acest angajat a fost deja adaugat";
+EMPLOYE_EXIST_in_db = "Acest angajat este deja in sistem";
+SUNDAY2 = "Du";
+MONDAY2 = "Lu";
+TUESDAY2 = "Ma";
+WEDNSDAY2 = "Mi";
+THIRTHDAY2 = "Jo";
+FRIDAY2 = "Vi";
+SHABAT2 = "Sa";
+//MAY
+POPUP_EMPLOYE = "Daca doriti ca clientii dumneavoastra sa poata efectua programari in calendarul angajatilor dumneavoastra, trebuie sa setati mai intai permisiunile angajatilor.";
+NO_EMPLOYE_AVALAIBLEnow = "Nu exista angajati disponibili";
+NO_LANGUAGE_SELECTED = "Inainte de a salva, este necesar sa selectati o limba";
+RELAUNCH_APP_TO_Change_language = "Limba selectata a fost salvata. Se va schimba la relansarea aplicatiei.";
+NEW_APP_PLUSMENU = "Programare noua";
+NEW_EVENT_PLUSMENU = "Eveniment nou";
+CUSTOMERS_IN_A_HOUR_PLUSMENU = "Clienti intr-o ora";
+BLOCK_HOURS_PLUSMENU = "Ore ocupate";
+WAITING_LIST_PLUSMENU = "Aprobare clienti";
+LAST_MINUTE_PLUSMENU = "Ultimul minut";
+HELP_PLUSMENU = "Ajutor";
+BLOCK_HOURS_PLUSMENU_caps = "Ore ocupate";
+START_DATE = "Data incepere";
+END_DATE = "Data terminare";
+HHOURS = "Ore";
+BTNBLOCK = "Ocupat";
+BTNBLOCKsaved = "Orele ocupate au fost salvate cu succes";
+ERROR_DATE_START_END = "Data de incheiere nu poate fi mai mica decat data de incepere";
+ERROR_HOUR_START_END = "Data de incheiere nu poate fi mai mica decat data de incepere";
+ERROR_HOUR_ISEQUAL = "Data de incheiere nu poate aceeasi cu data de incepere";
+ERROR_date_Start = "Selecteaza data de incepere";
+ERROR_date_End = "Selecteaza data de terminare";
+ERROR_hour_Start = "Selecteaza ora de incepere";
+ERROR_hour_End = "Selecteaza ora de incepere";
+January ="Ianuarie";
+February ="Februarie";
+March="Martie";
+April="Aprilie";
+May="Mai";
+June= "Iunie";
+July ="Iulie";
+August = "August";
+September= "Septembrie";
+October = "Octombrie";
+November = "Noiembrie";
+December = "Decembrie";
+Manager_permission = "Permisie manager";
+Authorizations_by_service = "Permisii in functie de serviciu";
+JOIN_US = "Alaturati-va";
+SKIP ="Treci peste";
+DAY_PASSED ="Nu puteti efectua programari in trecut";
+ERROR_UPDATE_BUSINESS_PROFILE = "A aparut o eroare in actualizarea profilului companiei";
+UPDATED_BUSINESS_PROFILE = "Profilul companiei a fost actualizat cu succes";
+ERROR_ADD_CUSTOMER = "A aparut o eroare in adaugarea clientului";
+MY_DETAILS = "Detaliile mele";
+BUSINESS_INFO = "Informatii companie";
+SEARCH_CONTACT = "Cauta contact";
+UPDATED_SYNC_CONTACTS = "Lista de contacte a fost actualizata cu succes";
+ERROR_UPDATE_CONTACTS = "A aparut o eroare in actualizarea listei de contacte";
+MANAGE_CUSTOMER_MESSAGE = "Administrarea clientilor existenti se face din pagina Clientii mei.";
+MANAGE_CALENDAR = "Administreaza calendar";
+SYNC_MY_CALENDAR = "Sincronizeaza cu calendarul personal";
+CUSTOMER_RANGE = "Numar de saptamani vizibile in calendarul clientului";
+CALENDAR_VIEW = "Ecran calendar";
+WELCOME_PROVIDER = "Bine ai venit, ";
+NO_THANKS = "Nu, multumesc";
+
+
+// Delete user pop out
+DELETE_USER_TITLE = "Stergeti utilizatorul";
+DELETE_USER_TEXT = "Doriți să ștergeți utilizatorul și numărul dumneavoastra de telefon din Bthere ?";
+
+
+// Supplier new event
+EVENT_TITLE_LABEL = "Eveniment Nou";
+EVENT_NAME_PLACEHOLDER = "Nume Eveniment";
+EVENT_DATE_PLACEHOLDER = "Data";
+EVENT_TIME_PLACEHOLDER = "Timpul";
+EVENT_NOTES_LABEL = "Notite";
+EVENT_NOTES_PLACEHOLDER = "Introduceti text";
+EVENT_CHECK_LABEL = "Blocheaza orele din calendarul meu";
+EVENT_MAKE_BUTTON = "Salveaza";
+EVENT_ERROR_NAME_LABEL = "Introduceti numele evenimentului";
+EVENT_ERROR_DATE_LABEL = "Selectați o data";
+EVENT_ERROR_TIME_LABEL = "Selectați ora de start si de final";
+EVENT_ERROR_NOTES_LABEL = "Introduceti cateva notite";
+ERROR_DELETE_USER = "Eroare la stergerea utilizatorului de afaceri";
+SUCCES_DELETE_USER = "Utilizator de afaceri a fost sters cu succes";
+
+
+// Regiser as business
+REGISTER_TITLE = "Alaturati-va comunitatii noastre de afaceri";
+NO_FREE_HOURS_TO_BLOCK ="Nu exista ore libere pentru blocare in intervalul ales";
+
+// Customer Approvel
+CUSTOMER_APPROVAL = "Aprobarea Clientului";
+CUSTOMER_APPROVAL_TEXT = "Adaugati automat clientii noi";
+CUSTOMER_APPROVAL_CONFIRM = "Cererea a fost acceptată";
+CUSTOMER_APPROVAL_NO_REQUESTS = "Nu există cereri pentru aprobare";
+CUSTOMER_APPROVAL_DELETE = "Cererea a fost stearsa";
+ERROR_APPROVAL = "A aparut o eroare. Reincercati mai tarziu";
+WAZE_ADDRESS_CANT_GO = "Locatia acestei afaceri nu este inca inregistrata in sistem";
+
+
+// Print Calendar
+CALENDAR_SEND_PDF = "Trimitete PDF pe email";
+CALENDAR_VIEW = "Vezi";
+CALENDAR_FROM = "De la";
+CALENDAR_TO = "La";
+DAY_PASSED_BLOCK ="Nu puteti bloca ore in trecut";
+DID_NOT_SELECT_DAY ="Trebuie sa selectati unul din butoanele: zi sau lista";
+// Supplier Notifications
+SUPPLIER_NOTIFICATIONS_INCOMING = "Intalnire care urmeaza";
+SUPPLIER_NOTIFICATIONS_BIRTHDAY = "Zi de nastere";
+SUPPLIER_NOTIFICATIONS_ANIVERSARY = "Aniversare";
+SUPPLIER_NOTIFICATIONS_DEALS = "Oferte și știri ... Oferte și știri ... Oferte și știri ...";
+NO_ALERTS_SUPPLIER ="Nu sunt alerte setate pentru suplier";
+UPDATE_ALERTS_SUPPLIER ="Setarile au fost salvate";
+CANNOT_UPDATE_SUPPLIER_ALERTS = "A aparut o eroare. Va rugam incercati mai tarziu";
+ERR_FREE_H_SUPPLIER = "Nu au fost gasite ore libere la furnizorul de servicii pentru ora selectata";
+
+
+OCCASIONAL_CUSTOMER = "Client Ocazional";
+PHONE_ERROR3 = "Nu este inregistrat in sistem";
+
+// Business profile page
+// Business profile page
+BUSINESS_PROFILE_ALERT_NO_WEBISTE = "Aceasta afacere nu are un site web.";
+BUSINESS_PROFILE_ALERT_CRASH_WEBISTE = "Site-ul nu a putut fi deschis, incercati din nou.";
+BUSINESS_PROFILE_ALERT_CRASH_CALL = "Nu s-a putut apela aceasta afacere, incercati din nou.";
+BUSINESS_PROFILE_ALERT_NO_LOCATION = "Aceasta afacere nu are o locatie inca.";
+
+
+//MARK: - ViewBusinessViewController
+SENT_REVIEW_SUCCESS = "Thank you for the review!";
+
+// Terms of use
+TERMS_OF_USE = "Termeni de utilizare";
+ENTER_PASSWORD = "Cod de acces";
+WRONG_PASSWORD_BUSINESS = "Codul de acces este gresit";
+PASSWORD_NOT_ENTERED = "Nu ati introdus codul de acces";
+SETTINGS = "Setari";
+TO_PERSONAL_INFO_SET = "Mergi la informatiile personale";
+EXPLAIN_PASSWORD = "Pentru a va inregistra ca afacere aveti nevoie de un cod de acces";
+EXPLAIN_PASSWORD_LINETWO = "Daca nu aveti un cod de acces puteti suna la  \n079-5740780";
+EXPLAIN_BEFORE_REGISTER = "Bthere este o aplicatie care va permite sa va pogramati la compania dumneavoastra favorita sau sa gasiti noi companii in zona dumneavoastra. Pentru a va asigura cele mai eficiente servicii, si pentru a putea va putea bucura de toate beneficiile aplicatiei si pentru a fi la curent cu ultimele oferte trimise de catre companii, va recomandam sa permiteti aplicatiei sa va acceseze locatia, calendarul si sa activati sistemul de notificari/alerte. Aceasta este doar o recomandare, nu este obligatorie :)";
+NEW_EVENT_NOT_SYNC = "";
+WELCOME_PROVIDER_noComma = "Bine ai venit ";
+VIEW_TERMS_OF_USE = "Vizualizati Termenii De Utilizare";
+
+
+
+
+
+// Help
+HELP_GUIDANCE_VIDEO = "Chat Online";
+HELP_QA = "Q&A";
+HELP_MESSAGE = "Echipa Bthere va fi foarte fericita sa va ajute cu intrebarile dumneavoastra";
+
+HELP_Q1 = "What​ types​ of​ businesses​ are​ in​ the​ Bthere?";
+HELP_Q2 = "How​ a​ business​ can​ join​ Bthere?";
+HELP_Q3 = "How​ does​ a​ business​ add​ a​ new​ customer?";
+HELP_Q4 = "Is​ there​ a​ need​ to​ enter​ the​ full​ name​ of​ the​ business​ in​ order​ to​ find​ it​ in​ the search​ results?";
+HELP_Q5 = "Can​ anyone​ schedule​ an​ appointment​ for​ each​ business?";
+HELP_Q6 = "How​ do​ you​ schedule​ an​ appointment​ to​ a​ business?";
+HELP_Q7 = "Where​ can​ I​ edit​ the​ business​ information?";
+HELP_Q8 = "Is​ the​ app​ suitable​ for​ business​ with​ employees?";
+HELP_Q9 = "Is​ the​ app's​ calendar​ synced​ with​ the​ rest​ of​ the​ calendars?";
+HELP_Q10 = "Can​ the​ application​ replace​ the​ handwritten​ calendar?";
+
+
+HELP_A1 = "Answer:​ Any​ business​ that​ regularly​ uses​ a​ calendar​ for​ scheduling​ appointments, and​ have​ a​ fix​ duration​ for​ each​ service,​ can​ use​ the​ app.";
+HELP_A2 = "Answer:​ Very​ easily​ and​ most​ importantly​ -​ independently. Any​ business​ owner​ can​ register​ through​ the​ site​ by​ clicking​ \"Register\"​ button,​ or through​ the​ app​ itself,​ and​ start​ using​ the​ system.";
+HELP_A3 = "Answer:​ Simply​ by​ clicking​ the​ \"New​ Customer\"​ button​ in​ My​ Customer​ list.​ If​ the customer​ is​ already​ registered​ to​ Bthere,​ his​ details​ will​ be​ automatically​ filled​ out and​ will​ be​ added​ to​ the​ customers​ base​ of​ the​ business.";
+HELP_A4 = "Answer:​ No,​ any​ search​ term​ related​ to​ a​ particular​ business​ will​ show​ the​ business in​ the​ search​ results.​ You​ can​ search​ for​ the​ type​ of​ service​ you​ want,​ the​ business owner's​ first​ name,​ and​ even​ search​ for​ the​ city​ where​ the​ business​ is​ located.";
+HELP_A5 = "Answer:​ Yes​ and​ the​ process​ is​ simple,​ the​ first​ time​ a​ customer​ wants​ to​ schedule an​ appointment​ to​ the​ business,​ and​ he​ is​ not​ part​ of​ the​ business's​ customers​ base, the​ business​ owner​ will​ approve​ him​ as​ a​ customer​ before​ making​ an​ appointment. The​ approval​ is​ one-time​ and​ once​ the​ customer​ has​ been​ added​ to​ the​ customers base,​ he​ will​ be​ able​ to​ schedule​ directly​ in​ the​ business​ calendar.";
+HELP_A6 = "Answer:​ By​ clicking​ on​ the​ name​ of​ the​ business​ in​ the​ search​ results,​ the​ customer moves​ to​ the​ selection​ of​ the​ service​ to​ which​ he​ wishes​ to​ schedule​ an​ appointment. After​ that,​ a​ calendar​ will​ open,​ showing​ all​ available​ appointments​ for​ the​ service​ he requested,​ depending​ on​ the​ time​ of​ service​ that​ the​ business​ determined.​ When clicking​ on​ one​ of​ the​ available​ appointments​ a​ screen​ will​ appear​ with​ all​ the​ details of​ the​ desired​ appointment,​ and​ by​ clicking​ on​ the​ 'confirm'​ button​ the​ appointment will​ be​ schedule​ in​ the​ business's​ and​ the​ customer's​ calendar.";
+HELP_A7 = "Answer:​ By​ clicking​ on​ Settings​ the​ business​ owner​ can​ change​ all​ the​ data​ entered in​ the​ registration.​ You​ can​ add​ and​ edit​ business​ services,​ employees​ information, change​ business​ hours,​ and​ refresh​ your​ business​ profile​ page.";
+HELP_A8 = "Answer:​ Yes,​ the​ business​ owner​ can​ add​ employees​ at​ any​ given​ time​ and​ each employee​ has​ his​ own​ calendar.​ The​ employees'​ calendar​ is​ under​ the​ name​ of​ the business​ and​ is​ managed​ by​ authorizations​ controlled​ by​ the​ manager.";
+HELP_A9 = "Answer:​ Of​ course.​ The​ app's​ calendar​ can​ also​ be​ used​ as​ the​ business​ owner's​ or customer's​ central​ calendar.​ It​ can​ be​ synchronized​ with​ any​ digital​ calendar​ found on​ the​ device​ where​ the​ application​ is​ located.​ You​ can​ see​ all​ the​ information​ from the​ digital​ calendar​ in​ your​ app​ calendar,​ and​ vice​ versa.";
+HELP_A10 = "Answer:​ Yes,​ the​ application​ can​ be​ a​ substitute​ for​ any​ other​ calendar,​ especially​ for a​ handwritten​ calendar.";
+
+LIVE_CHAT = "Chat Online";
+HELP_COULD_NOT_CALL = "Ceva nu a mers bine cu apelul dumneavoastra, va rugam sa incercati din nou.";
+SHORT_DELAY_MESSAGE = "Afacerea a fost informata legat de intarzierea dumneavoastra.";
+BUSINES_NO_REVIEWS = "Nu exista recenzii";
+
+SHORT_DELAY_ERROR = "Nu am putut informa afacerea cu privire la intarzierea dumneavoastra, va rugam incercati din nou.";
+/*
+ HELP_PLUSMENU
+ HELP_GUIDANCE_VIDEO
+ LIVE_CHAT
+ */
+PLUS_MENU_CANCELLATON = "Anulare";
+SIX_MONTHS_REPORT = "Raport pentru ultimile sase luni";
+END_MEETING_BUTTON = "Am inteles, multumesc";
+NOTIFICATIONs_LIST = "Lista notificari";
+RECEIVED_ON = "Primit pe ";
+WAS_CANCELLED = "Anulat";
+ORDER_APPOINTMENT = "Fa o programare";
+RATE_OUR_BUSINESS = "Evaluati afacerea noastra";
+SEND_BT = "Trimite";
+REVIEWS_LABEL = "Evaluari";
+REVIEW_LABEL = "Evaluare";
+COMPLETE_NUMBER_OF_WEEKS = "Completati numarul de saptamani";
+WEEKS_SAVED = "Setarile pentru calendar au fost salvate cu succes";
+SELECT_HOURS_FOR_DAY = "Completați cel puțin o zi lucrătoare";
+SELECT_MULTIPLE_SERVICES_IN_APPOINTMENT = "";
+FINISH_BUTTON = "Trimite";
+BTN_NEXT_APPOINTMENT = "Urmatoarea intalnire";
+FULL_APPOINTMENT = "You can see the appointment in your calendar and we will remind you about in the day before the date";
+SECOND_ONE_APPOINTMENT = "!Oops You seem to be unapproved with this supplier. Wait for his approval.";
+NO_DAY_SELECTED = "No day selected";
+INCORRECT_BREAKS = "Start and end hours for pauses must be inside bussiness hours interval";
+SUPPLIER_NOT_ALLOW_MULTIPLE_APPOINTMENTS = "The selected supplier does not allow multiple appointments";
+NUMBER_OF_MAXIMUM_APPOINTMENTS_EQUAL =  "Ați atins numărul maxim de întâlniri permise de furnizor";
+COMPLETE_REQUIRED_FIELDS = "You need to complete required fields";
+WE_ARE_AN_APP = " ";
+
+//ViewBusinessProfileVC
+NOT_REGISTERED_ALERT = "Ne pare rau dar doar utilizatorii inregistrati unui business pot adauga o recenzie.";
+NOT_A_VALID_SUPPLIER = "Va rugam selectati un business valid!";
+REVIEW_YOURSELF_ALERT = "Nu poti adauga o recenzie propriului business!";
+ALREADY_ADDED_REVIEW_ALERT = "Ai adaugat deja o recenzie pentru acest business!";
+ADD_REVIEW_PLEASE = "Completeaza mesajul pentru recenzie";
+
+//bigCollectionViewCell
+VOTES_LABEL_SINGULAR = "vot";
+VOTES_LABEL_PLURAL = "voturi";
+
+//popUpPaymentVC
+POP_UP_PAYMENT_TITLE = "Eroare";
+
+//personalDetailsVC
+EXISTING_NUMBER_PERSONAL_DETAILS = "Acest numar de telefon este deja folosit!";
+REMOVE_PICTURE_PERSONAL_INFO = "sterge poza curenta";
+
+//SupplierSettings
+NUMBER_CHR_RANGE = "Numarul maxim de saptamani este 104!";
+
+//BussinesServicesTableViewCell
+ALREADY_USED_SERVICE_NAME = "Deja folosit";
+
+//MyCustomers
+INVALID_OCASIONAL_NUMBER = "Numar de telefon invalid";
+
+//FacebookLogin
+LOGIN_WITH_FACEBOOK = "Logheaza-te cu Facebook";
+
+//RegisterBuisnessProphielVC
+REMOVE_LOGO_BUSINESS_PROFILE = "Sterge poza";
+REMOVE_COMPANY_PIC = "Sterge poza";
+
+//BlockingHoursTableViewController
+
+CONFIRM_SELECTED_ROWS = "Confirma";
+REMIND_LATER_BTN = "Aminteste-mi mai tarziu";
+
+
+TERMS_OF_USE_NEW_TEXT1 = "By clicking the Continue button you agree to receive promotional information and the ";
+TERMS_OF_USE_NEW_TEXT2 = "Terms of use";
+ALREADY_REGISTERED_BTN_TITLE = "Already registered? Click here";
+ALREADY_REGISTERED_AGAIN = "Already registered to Bthere? Click here";
+COMPLETE_CITY = "Pentru a edita adresa, completati campul orasului";

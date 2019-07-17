@@ -1,0 +1,1145 @@
+/*
+ Localizable.strings
+ bthree-ios
+ 
+ Created by Tami wexelbom on 2/16/16.
+ Copyright © 2016 Webit. All rights reserved.
+ */
+//MARK: - הרשמה
+ADDRESS_CITY ="Адрес:";
+POPUP_FB_GOOGLE = "Нажатие кнопки ОК приведет к удалению введенных данных и их замене новыми.";
+OK = "Подтверждение";
+CANCEL = "Отмена";
+YES = "Да";
+NO = "Нет";
+HOURS = "Часы";
+MINUTES = "Минуты";
+SAVE_BTN = "Сохранить";
+
+
+
+CONTINUE = "Продолжить";
+FIRSTNAME_LBL = "Имя";
+L_NAME = "Фамилия*";
+LOGIN_TITLE = "Регистрация";
+FULLNAME_LBL = "Имя и фамилия*";
+PHONE_LBL = "Телефон*";
+DATEBURN_LBL = "Дата рождения";
+EMAIL_LBL = "Электронная почта*";
+IMAGEUPLOAD_LBL = "Загрузка фотографии";
+QUICKREGISTERWITH = "Быстрая регистрация используя";
+ORFILLNEXTDETAILS = "";
+REQUIREFIELD = "Обязательное поле*";
+READCONDITIONOK = "Я согласен с ";
+TERMSOFUSE = " Условия использования ";
+AGREE_GET_ADVERTISEMENTS = "Я согласен получать рекламную информацию";
+MESSAGE = "Новое! Платёж напрямую поставщику услуг. Вы не пришли? Вы не заплатили!";
+REGISTER_BTN = "Регистрация";
+PAYMENTSDETAILSQUESTION = "Вы хотите сохранить платежную информацию?";
+
+//MARK: - RegisterViewController
+FIRST_NAME = "Имя";
+LAST_NAME = "Фамилия";
+PHONE_NUMBER = "Телефон";
+MAIL_USER = "Электронная почта";
+MAIL = "e-mail";
+REGULATION = "Правила";
+ADD_ASS_BUSINESS = "И добавьте  бизнес в ";
+SYNC_CALENDAR = "Синхронизация с моим календарем";
+//validation
+ENTER_TEN_DIGITS = "Введите действительный 10-значный номер мобильного телефона";
+MAX_CHR_NAME = "You can introduce up to 100 characters";
+MAX_CHR_EMAIL = "You can introduce up to 100 characters";
+
+//MARK: - RgisterModelViewController
+BUSINESS_DETAILS = "Бизнес-информация";
+GLOBAL_DATA = "Общие данные";
+NOTIFICATIONS = "Уведомления";
+BUSINESS_PROPHIL = "Бизнес-профиль";
+SYNC_WITH_CONTACTS = "Разрешить доступ к контактам";
+PAYMENT = "Оплата";
+MESSAGE_TITLE = "Сообщение";
+EXIT_REGISTER = "Вы уверены, что хотите выйти из подписки поставщика услуг?";
+OK_PAY = "Подтверждение и оплата";
+ERROR_REGISTER = "Возникла проблема регистрации в качестве поставщика";
+ERROR_UPDATE_GENERAL_DETAILS = "Произошла ошибка при обновлении общих данных";
+
+
+
+//PopUpWorkingHours
+POP_UP_WORKING_HOURS_TITLE = "Часы работы";
+
+//MARK: - RegisterPaymentPage7ViewController
+PAYMENT_CREDIT_CARD = "Оплата кредитной картой";
+CARD_OWNER_NAME = "Наименование держателя карты";
+CARD_TYPE = "Тип карты ";
+CARD_NUM = "Номер карты";
+CARD_VALIDITY = "Дата истечения срока действия";
+BACK_DIGITS = "CVV"; // "3 ספרות בגב הכרטיס";
+MONTH = "Месяц";
+YEAR = "Год";
+CARD_TYPE_NAME = "Виза";
+//MARK: - RegulationViewController
+REG_TITLE = "Правила";
+
+//MARK: - MessageVerificationViewController
+ERROR_SAVECHANGES = "Error saving changes";
+SUCCESS_SAVECHANGES = "Ваша личная информация успешно загружена";
+MESSAGE_VERIFICATION = "Код подтверждения";
+ILLEGAL_VERIFICATION = " Код подтверждения неверен.\n После 3 попыток приложение закроет";
+PASSWORD_NOT_ENTERD = "Не введен пароль";
+SEND_AGAIN = "Отправить еще раз";
+ENTER_VERIFICATION = "Введите код, отправленный на ваше устройство";
+NOT_GET_VERIF = "Я не получил код";
+
+//MARK: - GlobalDataViewController
+DOMAIN = "Сфера деятельности*";
+HOURS_ACTIVITY = "Часы работы*";
+ADD_WORKERS = "Добавить сотрудников";
+//SERVICE_PRODUCT = "*Service/Product";
+SERVICE_PRODUCT = "Сервис / продукт";
+TURN_SETTINGS = "Настройки очереди";
+
+//MARK: - itemInSection3
+HOURS_ACTIVE = "Часы работы";
+EQUAL_HOURS = "Являются ли часы сотрудников идентичными часам работы компании?";
+ADD_WORKER = "Добавить сотрудника";
+
+//MARK: - HoursActiveTableViewCell
+RECESS = "Перерывы";
+//validation
+CANT_SELECT_ALL_DAYS_BEFORE_RECESS = "Прежде чем отметить все дни - Вам необходимо выбрать перерыв";
+CANT_SELECT_ALL_DAYS_BEFORE_HOURS = "Прежде чем отметить все дни - Вам необходимо выбрать время";
+CHOOSE_ALL = "Выбрать все";
+
+//MARK: - RecessesTableViewCell
+ADD_RECCESS = "Добавить перерывы";
+
+//MARK: - AddNewServiceTableViewCell
+ADD_SERVICE_PRODUCT = "Добавить услугу / продукт";
+//ADD_SERVICE_PRODUCT = "Add Service";
+//MARK: - GlobalDetailsTableViewController
+BUSINESS_DOMAIN = "Сфера деятельности";
+LEADING_SENTENCE = "Девиз";
+ACTIVE_HOURS = "Часы работы";
+WORKER_DETAILS = "Сведения о сотрудниках";
+BUSINESS_SERVICE = "Бизнес услуги";
+CALENDAR_SETTINGS = "Настройки календаря";
+
+//MARK: - HoursActiveTableViewCell
+ALLDAYS = "Пнд-Вскр:";
+
+//validation
+NAME_ERROR = "Неверное имя";
+MAIL_ERROR = "Неверный адрес";
+PHONE_ERROR = "Неверный номер телефона";
+PHONE_ERROR2 = "Номер телефона в системе не зарегистрирован.";
+ERROR = "Отсутствуют или неверные поля";
+ERROR_EMPTY = "Пожалуйста, заполните обязательные поля";
+MAIL_EXIST = "Адрес электронной почты зарегистрирован в системе";
+PHONE_EXIST = "Номер телефона в системе не зарегистрирован";
+MAIL_VALID = "Требуется действительный адрес электронной почты*";
+
+//MARK: - BusinessDetailsViewController
+BUSINESS_DETAILS_TITLE = "Детали компании";
+BACK = "Вернуться";
+BUSINESS_NAME = "Название компании*";
+ID = "Номер удостоверения*";
+ADDRES = "Адрес*";
+PHONE = "Телефон*";
+FAX = "Факс";
+SITE = "Сайт";
+EMAIL = "Электронная почта*";
+SOCIAL_NETWORKS = "Социальные сети";
+CLICK_ON_ICON_TO_SYNC = "Нажмите на значок синхронизации.";
+SAVE = "Сохранить и продолжить";
+CONTINUE = "Продолжить";
+REQUIRED_FIELD = "Обязательное поле*";
+ID_TZ = "Номер удостоверения";
+CITY = "Город*";
+PHONE_BUSINESS = "Телефон*";
+//validation
+
+FAX_VALId = "Действительный номер факса должен состоять из 9 символов";
+ENTER_NINE_CHAR = "Необходимо ввести только 9 цифр";
+ADDRESS_DONT_CONTAIN_NUMBER ="Должен включать номер улицы";
+
+//MARK: - NotificationsViewController
+MEETING_UPDATES = "Обновления очередей";
+TEN_MINUTES_BEFORE_MEETING = "За 10 минут до очереди";
+FOLLW_CUSTOMERS = "Отслеживать клиентов";
+CUSTOMERS_EVENTS = "События клиентов";
+KIND_NOTIFICATION = "Вид уведомления";
+FREQUNCY = "Частота";
+KIND_UPDATE = "Вид обновления";
+TIME_BEFORE_EVENT = "Время оповещения до времени события";
+POPUP = "Всплывающие сообщения";
+
+//MARK: - ContactSyncViewController
+SELECT_ALL = "Выбрать все";
+CHOOSE_CUSTOMER = "Выберите из списка контактов";
+
+//MARK: - PopSyncContactViewController
+WYH_SYNC = "Зачем разрешать доступ к контактам?";
+SYNC_REASON1 = "Ваши клиенты добавляются из ваших контактов - каждый авторизованный контакт входит в вашу базу данных клиентов, обновленные вы присоединились";
+SYNC_REASON = "Ваши клиенты добавляются из ваших контактов - каждый авторизованный контакт входит в вашу базу данных клиентов, обновления, к которым вы присоединились BTHERE, и с этого момента может легко и просто запланировать вашу встречу в любое время. Не беспокойтесь, этот список является безопасным, и каждый клиент может быть удален из базы данных.";
+
+//MARK: - ExistingUserViewController
+NAME_USER = "Имя пользователя";
+PASSWORD_USER = "Пароль";
+BTN_CONNECT = "Войти";
+EXISTS_USER = "Существующий пользователь";
+//----
+PHONE_USER = "Телефон";
+
+//MARK: - //\\PrintCalendarViewController
+print_TITLE = "Распечатать календарь";
+FROM_DATE = "От";
+TO_DATE = "До";
+DESIGN = "Показ";
+
+//MARK: - MenuTableViewController
+MY_CALENDAR = "Календарь";
+MY_GIVESERVICE = "Бизнеса";
+
+ABOUT_US = "О нас";
+REGISTER_BUSINESS = "Регистрация";
+print = "Распечатать";
+
+LOG_OUT = "Выйти";
+BUSINESS_PAGE = "Бизнес-профиль";
+CUSTOMERS = "Клиенты";
+REPORTS = "Отчеты";
+
+//MARK: - AdvantageSearchViewController
+SUBJECT = "Сфера деятельности";
+AREA = "Область";
+DESIRED_DATE = "Желаемая дата";
+RANGE_HOURS = "Диапазон часов";
+SEARCH = "Поиск";
+SUBJECT_PLACE_HOLDER = "Поиск по сфере деятельности";
+AREA_PLACE_HOLDER = "Область поиска";
+//validation
+ILLEGAL_DOMAIN = "Недопустимая сфера";
+NOT_DATA_TO_SEARCH = "Не введены данные для поиска";
+NO_SUPPLIERS_MATCH = "Не найдено подходящих бизнесов для вашего поиска";
+
+//MARK: - ViewBusinessViewController
+SENT_REVIEW_SUCCESS = "Thank you for the review!";
+
+
+//MARK: - WelcomeAlertViewController
+WELCOME = "Добро пожаловать в ";
+OPEN_CALENSER1 = "Для того, чтобы открыть календарь и бизнес-профиль";
+OPEN_CALENSER2 = "Пожалуйста, заполните следующую информацию.";
+
+
+//MARK: - דף פרופיל עסקי:RegisterBuisnessProphielViewController
+HOURS_WORK = "Часы работы";
+SLOGEN = "Слоган";
+FOR_TOR = "Заказать очередь";
+ABOUT = "О нас";
+OPINION = "Отзывы";
+UPLOAD_CAMPAIGN = "Загрузка предложения";
+THANK = "Спасибо";
+LOGO = "Лого";
+ATTACH_PHOTO = "Прикрепить фотографию из фотоальбома";
+TAKE_PICTURE = "Сделайте снимок";
+PICTURE = "Фотография";
+ABOUT_BUSINESS = "О бизнесе";
+SAVE_CONTINU = "Сохранить и продолжить";
+CAMPAIGN = "Кампания";
+NOT_VALID = "Неподходящий";
+USE_IMAGE = "выбрать";
+CHOOSE_IMAGE = "Выберите фотографию";
+LOOK = "Просмотр галереи ";
+VOTERS = "Голосовавшие";
+UPLOAD_COMPANY_LOGO = "Добавить логотип компании";
+COMPANY_SLOGAN = "Лозунг компании ...";
+UPLOAD_COMPANY_PROFILE_PHOTO = "Добавить профиль-фотографию компании";
+//MARK: - RegisterContactsPage6
+
+AUTOMATIC_APPROVAL = "Автоматически утверждать все контакты";
+SYNC_CONTACTS = "Синхронизировать список контактов на вашем устройстве?";
+SYNC_EXPLAIN = "הסבר על סינכרון עם אנשי קשר. תצטנפל בלינדו למרקל אס לכימפו, דול, צוט ומעיוט - לפתיעם  ברשג - ותליעום גדיש. לת צשחמי צח בליא מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי  בלוף קינץ תתיח לרעח. לת צשחמח צש בליא.קוויז דומורק ולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח. עמחליף לפרומי בלוף קינץ תתיח לרעח. ליאמום בלינך רוגצה. לפמעט.";
+APPROVAL_ALL = "Разрешить всем контактам вашего устройства быть вашими клиентами?";
+ASK_FOR_SYNC = "Вы хотите вручную выбрать своих клиентов из списка контактов на вашем устройстве?";
+
+//MARK: - PaymentMethodViewController
+
+//jmode PAYMENT_BY = "pay with";
+PAYMENT_BY = "";
+PAYMENT_METHOD_EXPLAIN = "הסבר מפורט על התשלומים לאפליקציה. תצטנפל בלינדו למרקל אס לכימפו, דול, צוט ומעיוט - לפתיעם  ברשג - ותליעום גדיש. לת צשחמי צח בליא מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי  בלוף קינץ תתיח לרעח. לת צשחמח צש בליא.קוויז דומורק ולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח. עמחליף לפרומי בלוף קינץ תתיח לרעח. ליאמום בלינך רוגצה. לפמעט.";
+
+
+//MARK: - PopUpOrderDetailsViewController
+
+THANKS = "Большое спасибо";
+YOUR_REQUEST_SENT = "Ваш запрос отправлен ";
+TO_APPROVAL = "Для подтверждения";
+F_NAME = "(Имя)";
+PROVIDER_NAME = "(Название поставщика услуг) ";
+
+//MARK: - NewTurnViewController
+
+NEW_TURN_TITLE = "Новая очередь";
+COSTUMER = "Клиент";
+SERVICE_PROVIDER = "Поставщик услуг";
+SERVICE_TYPE = "Вид услуги";
+DATE = "Дата";
+HOUR = "час";
+REMARK = "Комментарии";
+MAKE_APPOINTMENT = "Заказать очереди";
+SEND_MESSAGE = "Отправить подтверждение клиенту";
+
+//DONT_CARE = "I dont c"
+
+OPEN_CAMERA = "Сделайте снимок";
+OPEN_ALBUM = "Прикрепить фотографию из фотоальбома";
+//You have not filled the field as required reading articles
+READING_ARTICLE_NOT_FILLED = "Обязательно согласитесь с правилами";
+
+//MARK: - MyCostumersViewController
+SEARCH_CUSTOMER = "Поиск клиентов";
+MY_CUSTOMERS ="Мои клиенты";
+
+//MARK: - AppointmentTableViewCell
+DETAILS_TURN = "Сведения о очереди";
+CANCEL_TURN = "Отмена очереди";
+
+//MARK: - SearchResultsViewController
+NO_AVAILABLE_LOCATION = "Доступ к вашей геолокации не включен";
+OPEN_LOCATION_SETTINGS = "Открыть настройки геолокации";
+SEARCH_RESULT = "Результаты поиска";
+CHANGE_LOCATION = "Изменить местоположение";
+DISTANCE = "Расстояние";
+ORDER_BY = "Сортировать по";
+
+//MARK: - SearchResultsTableViewCell
+TO_BUSINESS_PAGE = "На бизнес-страницу";
+
+//MARK: - ChooseWorkerTableViewController
+NO_GIVES_SERVICE = "Для этого поставщика не найдено поставляемые  им услуги";
+
+//MARK - ServiceInListTableViewCell
+DELETE_SERVICE = "Вы действительно хотите удалить эту услугу?";
+
+//MARK: - NavigationModelViewController
+NOT_SUPPLIER_REGISTER = "Вы не зарегистрированы как поставщик услуг";
+NAME_BUSINESS = "Название компании";
+NAME_CUSTOMER = "Имя клиента";
+
+//MARK: - BussinesServicesTableViewCell
+PRODUCT = "Продукт";
+SERVICE = "Услуга";
+//SERVICE_PRODUCT = "service / product";
+CUT_HAIR = "Прическа";
+HAIR_DO = "Прическа";
+LEVEL = "Рейтинг";
+CHOOESE_SERVICE_PRDUCT = "Выберите имя службы / продукта";
+PRICE = "Цена (шекели)";
+SHOW_PRICE = "Показать прайс-лист";
+DURING_TIME = "Продолжительность (минимум 5 минут)";
+NUM_IN_PARALLEL = "Количество одновременных клиентов";
+TIME_SPACE = "Интервал времени между очередями (минуты)";
+DISCOUNT_ENTER_SOME_TURN = "Скидка на серию очередей / продукты ";
+CHOSE_PRODUCT_NAME = "Выберите название продукта";
+CHOOSE_SERVICE_NAME = "Выберите имя услуги";
+PRODUCT_NAME = "Название продукта";
+SERVICE_NAME = "Название услуги";
+DISCOUNT_ORDRER_MORE_PRODUCTS = "Скидка на серию очередей / продукты ";
+//validation
+ENTER_ONLY2_CHARACTERS = "Вы можете вставить до 2 символов";
+ENTER_ONLY3_CHARACTERS = "Вы можете ввести до 3 символов";
+ENTER_ONLY6_CHARACTERS = "Вы можете ввести до 6 символов";
+ENTER_ONLY30_CHARACTERS = "Вы можете ввести до 30 символов";
+ENTER_ONLY25_CHARACTERS = "Вы можете ввести до 25 символов";
+ENTER_ONLY22_CHARACTERS = "Вы можете ввести до 22 символов";
+ENTER_ONLY10_CHARACTERS = "Вы можете ввести до 10 символов";
+//MARK: - personalDetailsViewController
+NAME_PD = "Имя*";
+LAST_NAME_DP = "Фамилия*";
+MAIL_DP = "Электронная почта";
+MARRIAGE_DATE = "Юбилей";
+ERROR_FNAME = "Имя недействительно";
+ERROR_LNAME = "Недействительная фамилия";
+CALENDAR_DESIGN = "Просмотр календаря";
+PERSONAL_DETAILS_TITLE = "Личная информация";
+VALID_FIELDS = "Please add valid values in the fields";
+
+//MARK: - ServicesTableViewCell
+MORE_INFORMATION = "Дополнительная информация";
+MULTIPLE_SELECT = "Множественный выбор";
+ORDER = "הזמן";
+ORDER_MARKED = "Время отмечено";
+NO_RESOLTS = "Нет результата";
+
+//MARK: - giveMyServiceTableViewCell
+DELETE = "Удалить";
+NAVIGATE = "Навигация";
+
+//MARK: - smallGiveMyServicesCollectionViewCell
+DELETE_GIVE_SERVICE = "• Вы уверены, что хотите удалить этого поставщика услуг?";
+NO_SERVICES = "Для этого поставщика услуг не найдено";
+
+//MARK: - langForClientViewController
+LANG_CHANGE_NEXR_ENTRANCE = "Язык изменится при следующем входе в приложение";
+LANG = "Language";
+
+//MARK: - MenuTableViewController
+REGISTERED_AS_BUSINESS = "Вы уже вошли в систему как владелец бизнеса";
+
+///MARK: - NewEventViewController
+NEW_EVENT = "Личное мероприятие";
+EVENT_NAME = "Название события";
+DATE = "Дата";
+HOUR = "час";
+NOTES = "Комментарии";
+SUCCESS_NEW_EVENT = "Событие успешно установлено";
+SET_EVENT = "Установить событие";
+//validation
+FILL_ALL_DATA = "Введите недостающие данные";
+ILLEGAL_HOURS = "Выбранные часы недействительны.";
+NO_HOUR = "Не установлено время начала";
+//MARK: - NewEventRemarkTableViewCell
+ENTER_TEXT = "Введите текст";
+
+//MARK: - notificationsForDefinationsViewController
+DISCOUNT_MINUTE_90 = "Горящие предложения";
+MINUTES_BEFORE_MEETING_20 = "За 20 минут до встречи";
+OK_FROM_BUSINESS = "Одобрение от бизнеса ";
+UPDATE_WAIT_TURN = "Обновления списка ожидания";
+UPDATES_NEWS = "Новости и обновления";
+
+SUCCESS_SETTINGS = "Настройки оповещения успешно сохранены";
+ERROR_SAVE = "Не удается сохранить данные";
+
+//MARK: - noTurnViewController
+SUCCESS_TURN = "Очередь успешна заказана";
+NO_TURN = "Нет доступной очереди";
+SUCCESS_ADD_TO_WAIT_LIST = "Вы успешно подписаны на список ожидания";
+NO_TURN_AS_ASK = "Нет очереди, которая соответствует вашему запросу.";
+WHAT_TO_DO = "Что вы хотите сделать?";
+ENTER_TO_WAIT_LIST = "Внести в список ожидания";
+NEAR_TURNS = "Ближайшие доступные очереди";
+CHANGE_DAY = "Изменить день";
+OTHER_SUPPLIER = "Найти другого поставщика услуг";
+
+
+//MARK: - WorkerInListTableViewCell
+DELETE_WORKER = "Вы действительно хотите удалить этого сотрудника?";
+
+//MARK: - MyWaitingListViewController
+NO_TURNS_INMYLISTWAITING = "В вашем списке ожидания нет очередей";
+
+//MARK: - entranceViewController
+SEARCH_SERVICE_DOMAIN = "Поиск услуг или сферы деятельности";
+LOGIN ="Войти в аккаунт";
+ADVANTAGED_SEARCH = "Расширенный поиск";
+ADVERTISINGS = "Последние новости: новые бизнеса, акции и специальные предложения...";
+
+//MARK: - entranceCustomerViewController
+NO_RESULTS = "Нет результатов, соответствующих запросу";
+//validaion
+ENTER_ONLY120_CHARACTERS = "Вы можете ввести до 120 символов";
+ENTER_ONLY160_CHARACTERS = "Вы можете ввести до 160 символов";
+//MARK: - ListServicesViewController
+WANT_ORDER = "Я хочу заказать";
+NOT_CARE = "Не имеет значения";
+SERIES_TURNS = "Серия встреч";
+GIFT_CARD = "Подарочный сертификат";
+KILOMETER_FROM_YOU = "км от Вас";
+
+//MARK: - ModelCalendarForAppointmentsViewController
+REGISTER_NOW = "Для заказа очереди требуется зарегистрироваться в приложении";
+CHOOSE_GIVE_SERVICE = "Выберите члена команды";
+
+//MARK: - CalenderSettingTableViewCell
+DAY_DESIGN = "Показать день";
+WEEK_DESIGN = "Показать неделю";
+MONTH_DESIGN = "Показать месяц";
+LIST_DESIGN = "Просмотр списком";
+MAX_CHAR = "Максимум 100 символов";
+LIMIT_TURNS = "Вы хотите ограничить количество очередей, которые клиент может заказать?";
+NUM_TURNS_MEETINGS = "Количество встреч";
+DURATION_TURNS = "Продолжительность серии очередей (недели)";
+
+//MARK: - NewAppointmentClientViewController
+NO_SELECTED_SUPPLIER = "Пожалуйста, сначала выберите поставщика услуг";
+
+//MARK: - PopUpDetailsAppointmentViewController
+THX = "Большое спасибо";
+ASK_SEND_TO_GIVE_SERVICE = "Очередь заказана";
+ASK_SEND = "Очередь заказана";
+TO_OK = "Для подтверждения";
+
+//MARK: - RecordDesignedViewController
+NO_EVENTS = "Очередей не найдено";
+
+//MARK: - detailsAppointmetClientViewController
+DETAILS_APPOINTMENT_TITLE = "Информация о заказе";
+DETAILS_APPOINTMENT = "Информация о заказе";
+DETAILS_MEETING = "Информация о встрече";
+THX_REGISTERED = "Спасибо за подписку! К сожалению, в настоящее время очередь уже установлена существующим клиентом системы, вы снова перенаправлены в календарь, чтобы выбрать другое время для запрашиваемой услуги.";
+
+//MARK: - ServiceInformationViewController
+VIEW_INFORMATION = "Ниже приведена дополнительная информация о продавце: для получения подробной информации о бизнесе продавца, перейдите по следующей ссылке. У меня нет никого, кто делает это, кроме меня, но только я уникален, и это стоит того, чтобы прийти ко мне !!!";
+
+//MARK: - AboutUsClientViewController
+VIEW_ABOUT = "תקנון ותנאי השימוש לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעמילחעכמממ חמעחלכמ,לעילעכימלעחיןםעח,לכמעלכג מעח לכמעחלמחלמןחיןםעחיעחט ׳אקר וןא ליעלחכיוןגא לחעcancelמילחעכמממ ";
+TO_REGULATION = "Условия использования";
+
+//MARK: - RegulationClientViewController
+REGULATION_TITLE = "Условия использования";
+REGULATION_VIEW = "לורם איפסום דולור לשבת אה, כסף החזרי, וחיוניות, אבל לעשות. במהלך השנים באות, מי יתרון ממנה, אך עבור לעבוד, פעילות גופנית, מחוז בית הספר., לעומת זאת, רוצה להיות קוץ העונג כדורגל לברוח מכאב למצוא לא מייצר כתוצאה. תריסי אינם, הוא מרגיע את הנשמה, כלומר, הם נטשו את הפרק בכלל להיות אשם ממלאי משרד עמלם. בחינם, אתה גורם חידוש גם חוקים.";
+
+//MARK: - MyAppointmentsViewController
+LBLAPPOINTMENT_TITLE = " Мои очереди ";
+NO_APPOINTMENTS__FROM_YOU = "Нет очередей, установленных вами";
+
+//MARK: - CancelAppointmentTableViewController
+CANCELAPPOINTMENT_TITLE = "Отменить очередь";
+OK_SEND = "Подтверждение и отправка отмены";
+CHOOSE_CANCEL = "Вы решили отменить свою встречу в";
+SUCCESS_CANCEL = "Очередь отменена";
+
+//MARK: - slaightViewController
+SLAIGHT_TITLE = "Небольшая задержка";
+OK_SEND_SLAIGHT = "Отправить сообщение о задержке";
+ASK_SLAIGHT = "Вы действительно хотите сообщить, что Вы опаздываете";
+
+//MARK: - Server
+NO_CONNECTION = "Нет связи, попробуйте зарегистрироваться позже";
+NO_INTERNET = "Нет подключения к интернету!";
+ERROR_SERVER = "Временная ошибка подключения ... Попробуйте позже";
+ERROR_PHONE = "Недопустимый номер телефона";
+
+//MARK: - BigServiceCollectionViewCell
+MINUTES = "мин";
+
+//MARK: - Global
+WELCOME_TO_BTHERE = "Добро пожаловать в Bthere ";
+KEY_SENTANCE_SLOGEN = "Лозунг";
+NEW_VERSION_HERE = "Новая версия уже доступна";
+DISCOUNTS_FOR_FIRST_REGISTERS = "Специальные предложения для первых абонентов";
+
+//MARK: - Model calendar
+DESIGN_DAY = "День";
+DESIGN_WEEK = "Неделя";
+DESIGN_MONTH = "Месяц";
+DESIGN_LIST = "Список";
+
+//MARK: - others
+//days
+//SUNDAY = "Воскресенье";
+//MONDAY = "Понедельник";
+//TUESDAY = "Вторник";
+//WEDNSDAY = "Среда";
+//THIRTHDAY = "Четверг";
+//FRIDAY = "Пятница";
+//SHABAT = "Суббота";
+
+SUNDAY = "вс";
+MONDAY = "пн";
+TUESDAY = "вт";
+WEDNSDAY = "ср";
+THIRTHDAY = "чт";
+FRIDAY = "пт";
+SHABAT = "сб";
+
+S_DAY = "Воскресенье";
+M_DAY = "Понедельник";
+T_DAY = "Вторник";
+W_DAY = "Среда";
+THIR_DAY = "Четверг";
+F_DAY = "Пятница";
+SHT_DAY = "Суббота";
+
+SUNDAY_DAY = "Воскресенье";
+MONDAY_DAY = "Понедельник";
+TUESDAY_DAY = "Вторник";
+WEDNSDAY_DAY = "Среда";
+THIRTHDAY_DAY = "Четверг";
+FRIDAY_DAY = "Пятница";
+SHABAT_DAY = "Суббота";
+
+FIRST = "Воскресенье";
+SECOND = "Понедельник";
+THIRD = "Вторник";
+FOURTH = "Среда";
+FIFTH = "Четверг";
+SIX = "Пятница";
+SEVEN = "Суббота";
+
+TODAY = "Сегодня";
+//jmode plus
+//: - MyCostumersViewController
+ADD_CUSTOMER = "Добавить клиента";
+OCASIONAL_CUSTOMER = "Случайный клиент";
+ADD_NEW_CUSTOMER = "Добавить нового клиента";
+FULLNAME_STAR  = "*Полное имя";
+PHONE_STAR = "*Номер телефона";
+EMAIL_STAR = "*Электронная почта";
+MAKE_new_APPOINTMENT = "Записаться на прием";
+ADD_NEW_CUSTOMMER = "Добавить";
+ADDED_CUSTOMER = "Успешно добавленный клиент!";
+PRIVATE = "Личный";
+NEWCLIENT_STRING = "Клиент";
+NEWMYTURN = "Очередь";
+NEWDELETE ="Удалить";
+NEWCALL = "Позвонить";
+DELETE_CUSTOMER_MESSAGE = ":Вы решили удалить запись от своих клиентов";
+DELETE_CUSTOMER_TITLE = "Удалить клиент";
+BAD_NETWORK = "Проблема подключения / адреса не найдена";
+LBL_UPDATE = "Обновление";
+CUSTOMER_EXIST = "Этот клиент уже включен в список ваших клиентов. Вы можете установить очереди с предыдущей страницы";
+CUSTOMER_EXIST2 = "Клиент уже включен в ваш список";
+UPDATE_CUSTOMER_EXIST = "Обновить данные";
+SIMPLE_BUTTON_UPDATE = "Обновление";
+SUCCES_CUSTOMER_UPDATE = "Информация о клиенте успешно обновлена";
+THOSE_INFOS_ARE_OF_ANOTHER_CUSTOMER = "Эта информация принадлежит другому клиенту, и вы не можете ее редактировать.";
+CUSTOMER_APPOINMENTS_SUBTITLE = "Очереди ";
+NO_FEATURE = "Устройство не поддерживает эту функцию";
+NO_SIM_SIGNAL = "Проверьте подключение к интернету";
+CONFIRM_BTN_DEL = "Подтверждение";
+CANCELLATION_BTN = "Отмена";
+NO_APPOINMENTS_YET = "У этого клиента нет очередей";
+NO_APPOINMENTS_SET = "Нет очередей";
+TITLE_CANCEL_APPOINTMENT = "Отменить очередь";
+DESCRIPTION_CANCEL_APPOINTMENT = "Вы действительно хотите отменить эту очередь?";
+//SupplierSettings
+MYDETAILS = "Мои данные";
+MANAGE_CALENDAR = "Управление календарем";
+SYNC_CONTACTS_SETTING = "Синхронизировать контакты";
+EMPLOYES = "Права доступа сотрудников";
+PAYMENT_CREDENTIALS = "Детали оплаты";
+DELETE_AN_USER = "Удалить пользователя";
+MANAGER_ONLY = "Доступ только для администратора";
+PULL_TO_REFRESH = "Потяните, чтобы обновить";
+INFO_ORDER = "Информация";
+EMPLOYE_PERMISSIONS = "Права доступа сотрудников";
+EMPLOYE_MANAGER_CHANGED = "Права доступа были успешно сохранены для сотрудника";
+ERROR_CHANGE_MANAGER_STATUS = "Произошла ошибка при попытке установить права доступа";
+NO_PERMISSION_FOR_SERVICES_SET = "Права доступа пока не установлены";
+PERSONAL_INFORMATION = "Личная информация";
+EMPLOYE_EXIST = "Вы уже добавили этого сотрудника";
+EMPLOYE_EXIST_in_db = "This employee is already in the system";
+//SUNDAY2 = "Воскресенье";
+//MONDAY2 = "Понедельник";
+//TUESDAY2 = "Вторник";
+//WEDNSDAY2 = "Среда";
+//THIRTHDAY2 = "Четверг";
+//FRIDAY2 = "Пятница";
+//SHABAT2 = "Суббота";
+
+SUNDAY2 = "вс";
+MONDAY2 = "пн";
+TUESDAY2 = "вт";
+WEDNSDAY2 = "ср";
+THIRTHDAY2 = "чт";
+FRIDAY2 = "пт";
+SHABAT2 = "сб";
+//MAY
+POPUP_EMPLOYE = "Чтобы позволить сотрудникам принимать клиентов, необходимо определить услуги, которые они уполномочены оказывать. Примечание. Это необходимо для доступа к календарю одного и того же сотрудника.";
+NO_EMPLOYE_AVALAIBLEnow = "Нет свободных сотрудников";
+NO_LANGUAGE_SELECTED = "Перед сохранением вы должны выбрать язык";
+RELAUNCH_APP_TO_Change_language = "Язык сохранен. Изменения вступят в силу после перезапуска приложения.";
+NEW_APP_PLUSMENU = "Новая очередь";
+NEW_EVENT_PLUSMENU = "Личное мероприятие";
+CUSTOMERS_IN_A_HOUR_PLUSMENU = "Клиенты в течение часа";
+BLOCK_HOURS_PLUSMENU = "Блокировка часов";
+WAITING_LIST_PLUSMENU = "Подтверждение клиента";
+LAST_MINUTE_PLUSMENU = "В последнюю минуту";
+HELP_PLUSMENU = "Помощь";
+BLOCK_HOURS_PLUSMENU_caps  = "Блокировка часов";
+START_DATE = "Дата начала";
+END_DATE = "Дата окончания";
+HHOURS = "Часы";
+BTNBLOCK = "Заблокировать";
+BTNBLOCKsaved = "заблокированные часы сохранены успешно";
+ERROR_DATE_START_END = "Дата окончания не может быть меньше даты начала";
+ERROR_HOUR_START_END = "Время окончания не может быть меньше времени начала";
+ERROR_HOUR_ISEQUAL = "Время окончания не может быть таким же, как время начала";
+ERROR_date_Start = "Выберите дату начала";
+ERROR_date_End = "Выберите дату окончания";
+ERROR_hour_Start = "Выберите время начала";
+ERROR_hour_End = "Выберите время окончания";
+January ="Январь";
+February ="Февраль";
+March="Март";
+April="Апрель";
+May="Май";
+June= "Июнь";
+July ="Июль";
+August = "Август";
+September= "Сентябрь";
+October = "Октябрь";
+November = "Ноябрь";
+December = "Декабрь";
+Manager_permission = "Права администратора";
+Authorizations_by_service = "Разрешения на обслуживание";
+JOIN_US = "Присоединяйтесь к нам";
+SKIP = "Пропустить";
+SKIP_AFTER_VIDEO = "Continue as a customer";
+DAY_PASSED = "Вы не можете назначать встречи в прошлом";
+ERROR_UPDATE_BUSINESS_PROFILE = "Произошла ошибка в обновлении вашего бизнес-профиля";
+UPDATED_BUSINESS_PROFILE = "Ваш бизнес-профиль успешно обновлен";
+ERROR_ADD_CUSTOMER = "Произошла ошибка при добавлении клиента";
+MY_DETAILS = "Мои данные";
+BUSINESS_INFO = "Бизнес информация";
+SEARCH_CONTACT = "Поиск контакта";
+UPDATED_SYNC_CONTACTS = "Список контактов успешно обновлен";
+ERROR_UPDATE_CONTACTS = "Произошла ошибка при обновлении списка контактов";
+MANAGE_CUSTOMER_MESSAGE = "Управление клиентами можно выполнить на странице «Управление моим клиентом»";
+MANAGE_CALENDAR = "Управление календарем";
+SYNC_MY_CALENDAR = "Синхронизировать с моим календарем";
+CUSTOMER_RANGE = "Диапазон просмотра клиента календаря (недели)";
+CALENDAR_VIEW = "Просмотр календаря";
+
+WELCOME_PROVIDER = "Добро пожаловать, ";
+NO_THANKS = "Не сейчас";
+
+// Delete user pop out
+DELETE_USER_TITLE = "Удалить пользователя";
+DELETE_USER_TEXT = "Вы хотите удалить своего пользователя и номер телефона из Bethere?";
+
+
+// Supplier new event
+EVENT_TITLE_LABEL = "Новое событие";
+EVENT_NAME_PLACEHOLDER = "Название события";
+EVENT_DATE_PLACEHOLDER = "Дата";
+EVENT_TIME_PLACEHOLDER = "Время";
+EVENT_NOTES_LABEL = "Комментарии";
+EVENT_NOTES_PLACEHOLDER = "Введите текст";
+EVENT_CHECK_LABEL = "Заблокировать часы в моем календаре";
+EVENT_MAKE_BUTTON = "Сохранить";
+EVENT_ERROR_NAME_LABEL = "Введите название события";
+EVENT_ERROR_DATE_LABEL = "Выберите дату";
+EVENT_ERROR_TIME_LABEL = "Выберите время начала и окончания";
+EVENT_ERROR_NOTES_LABEL = "Введите несколько заметок";
+ERROR_DELETE_USER = "Ошибка удаления бизнес-пользователя";
+SUCCES_DELETE_USER = "Бизнес-пользователь был успешно удален";
+
+
+// Regiser as business
+REGISTER_TITLE = " Владелец бизнеса? \n Зарегистрируйтесь в нашем бизнес-сообществе";
+NO_FREE_HOURS_TO_BLOCK = "В выбранном интервале нет свободных часов для блокировки";
+
+// Customer Approvel
+CUSTOMER_APPROVAL = "Подтверждение клиента";
+CUSTOMER_APPROVAL_TEXT = "Добавить новых клиентов автоматически";
+CUSTOMER_APPROVAL_CONFIRM = "Запрос принят";
+CUSTOMER_APPROVAL_NO_REQUESTS = "Нет ожидающих запросов на утверждение";
+CUSTOMER_APPROVAL_DELETE = "Запрос удален";
+ERROR_APPROVAL = "Произошла ошибка. Пожалуйста, попробуйте позже";
+WAZE_ADDRESS_CANT_GO = "Местоположение оператора еще не находится в системе";
+
+// Print Calendar
+CALENDAR_SEND_PDF = "Отправить PDF на электронную почту";
+CALENDAR_VIEW = "Показ";
+CALENDAR_FROM = "С";
+CALENDAR_TO = "До";
+DAY_PASSED_BLOCK ="Вы не можете заблокировать часы в прошлом";
+DID_NOT_SELECT_DAY = "Вы должны выбрать одну из кнопок: день или список";
+
+// Supplier Notifications
+SUPPLIER_NOTIFICATIONS_INCOMING = "Новая очередь";
+SUPPLIER_NOTIFICATIONS_BIRTHDAY = "День рождения";
+SUPPLIER_NOTIFICATIONS_ANIVERSARY = "Юбилей";
+SUPPLIER_NOTIFICATIONS_DEALS = "Акции и новости ... Акции и новости ... Акции и новости ...";
+NO_ALERTS_SUPPLIER ="Для этого провайдера пока нет уведомлений";
+UPDATE_ALERTS_SUPPLIER ="Настройки успешно сохранены";
+CANNOT_UPDATE_SUPPLIER_ALERTS = "Произошла ошибка. Пожалуйста, попробуйте позже";
+ERR_FREE_H_SUPPLIER = "У этого поставщика услуг нет места для вашей встречи в нужное время";
+
+
+OCCASIONAL_CUSTOMER = "Случайный клиент";
+PHONE_ERROR3 = "Не полностью зарегистрирован в системе";
+// Business profile page
+BUSINESS_PROFILE_ALERT_NO_WEBISTE = "Этот бизнес не имеет веб-сайта.";
+BUSINESS_PROFILE_ALERT_CRASH_WEBISTE = "Не удалось открыть сайт, попробуйте еще раз.";
+BUSINESS_PROFILE_ALERT_CRASH_CALL = "Не получается дозвониться  до это бизнеса, попробуйте еще раз.";
+BUSINESS_PROFILE_ALERT_NO_LOCATION = "Этот бизнес еще не добавил свое месторасположение";
+
+// Terms of use
+TERMS_OF_USE = "Условия использования";
+ENTER_PASSWORD = "Код доступа";
+WRONG_PASSWORD_BUSINESS = "Неверный пароль";
+PASSWORD_NOT_ENTERED = "Вы не ввели пароль";
+SETTINGS = "Настройки";
+TO_PERSONAL_INFO_SET = "Для личной информации";
+EXPLAIN_PASSWORD = "Для регистрации в качестве бизнеса необходимо ввести код доступа";
+EXPLAIN_PASSWORD_LINETWO = "Если у вас нет кода, вы можете позвонить на номер \n 079-5740780";
+EXPLAIN_BEFORE_REGISTER = "Мы являемся приложением для организации очередей для вашего любимого бизнеса. Чтобы вы могли пользоваться приложением, мы рекомендуем вам одобрить доступ к местоположению, календарю и службам обновления.";
+WELCOME_PROVIDER_noComma = " Добро пожаловать";
+VIEW_TERMS_OF_USE = "Показать Условия использования";
+NEW_EVENT_NOT_SYNC = "Синхронизируйте свой календарь в настройках, чтобы сохранить новое событие.";
+
+
+// Help
+HELP = "Помощь";
+HELP_GUIDANCE_VIDEO = "Чат с представителем";
+HELP_QA = "Вопрос-Ответ";
+HELP_MESSAGE = "Сотрудники Bthere будут рады помочь вам с любыми вопросами";
+
+HELP_Q1 = "1. Какие виды бизнеса есть в приложении Bthere??";
+HELP_Q2 = "2. Как бизнес может присоединиться к Bthere";
+HELP_Q3 = "3. Как бизнес добавляет нового клиента?";
+HELP_Q4 = "4. Нужно ли вводить полное название предприятия, чтобы найти его в результатах поиска?";
+HELP_Q5 = "5. Каждый ли может назначить встречу в любом  бизнес учреждении?";
+HELP_Q6 = "6. Как заказываются очереди?";
+HELP_Q7 = "7. Где я могу редактировать бизнес-информацию?";
+HELP_Q8 = "8.Подходит ли приложение для работы с сотрудниками?";
+HELP_Q9 = "9. Синхронизирован ли календарь приложения с остальными календарями?";
+HELP_Q10 = "10. Может ли приложение заменить ручной календарь?";
+
+
+HELP_A1 = "Ответ: Любой бизнес, который ежедневно использует календарь для создание очередей, а так же перерывов и времени оказания услуг - может использовать приложение";
+HELP_A2 = "Ответ: Очень легко и главное - самостоятельно. Любой владелец бизнеса может зарегистрироваться через сайт, нажав «Зарегистрироваться» или через приложение, и начать пользоваться системой. Ссылка на регистрационную ссылку.";
+HELP_A3 = "Ответ: Нажав кнопку «Новый клиент» в моем списке клиентов В этом случае данные будут автоматически заполняться и добавляться в базу данных клиентов компании.";
+HELP_A4 = "Ответ. Нет, любой поисковый запрос, связанный с конкретной компанией, будет отображаться в результатах поиска. Вы можете искать тип услуги, которую вы хотите, имя владельца бизнеса, и даже искать город, в котором находится бизнес.";
+HELP_A5 = "Ответ: Да, и процесс прост. Когда клиент впервые хочет запланировать очередь, и он не является частью клиентской базы бизнеса, владелец бизнеса должен подтвердить его как клиента, прежде чем назначить встречу. Одобрение является однократным, и как только клиент будет добавлен в базу данных клиентов, он сможет заказывать очередь  непосредственно в деловом журнале.";
+HELP_A6 = "Ответ. Нажав на название компании в результатах поиска, клиент переходит к выбору услуги, на которую он хочет назначить встречу. Затем он откроет журнал, в котором будут отображаться все доступные очереди для запрашиваемой им службы в зависимости от времени службы. Если вы нажмете на одну из доступных очередей, появится экран со всеми деталями нужной встречи и нажатием кнопки Подтверждение, встреча будет помещена в бизнес-журнал и журнал клиента.";
+HELP_A7 = "Ответ: Нажав «Настройки», владелец бизнеса может изменить все данные, введенные в подписке. Вы можете добавлять и редактировать Услуги, предоставляемые бизнесом, добавление и редактирование сотрудников, изменение рабочего времени и обновление бизнес-профиля бизнеса.";
+HELP_A8 = "Ответ: Да, владелец бизнеса может добавлять сотрудников в любой момент времени, и каждый сотрудник имеет свой собственный календарь Из сотрудников находится под именем бизнеса и управляется с помощью прав доступа, контролируемых менеджером.";
+HELP_A9 = "Ответ: Конечно, журнал приложения также можно использовать как центральный дневник владельца бизнеса или клиента. Может быть синхронизирован с любым цифровым журналом, найденным на устройстве, где находится приложение Информация из цифрового календаря в календаре приложения и наоборот.";
+HELP_A10 = "Ответ: Да, приложение может заменить любой другой календарь, особенно ручной календарь.";
+
+LIVE_CHAT = "Чат с представителем";
+HELP_COULD_NOT_CALL = "Что-то пошло не так во время вызова, повторите попытку.";
+SHORT_DELAY_MESSAGE = "Сообщение отправлено в компанию";
+BUSINES_NO_REVIEWS = "Нет отзывов";
+
+
+SHORT_DELAY_ERROR = "Мы не смогли уведомить вашего оператора о вашей короткой задержке, пожалуйста, попробуйте еще раз.";
+/*
+ HELP_PLUSMENU
+ HELP_GUIDANCE_VIDEO
+ LIVE_CHATF
+ */
+
+
+PLUS_MENU_CANCELLATON = "Отменить очередь";
+REVIEWS_LABEL = "Отзывы";
+REVIEW_LABEL = "обзор";
+
+
+
+
+SIX_MONTHS_REPORT = "Отчет за последние шесть месяцев";
+
+// SHORT_DELAY_MESSAGE
+END_MEETING_BUTTON = "Понятно, спасибо";
+END_MEETING_TEXT1 = "Новая очередь назначена!";
+END_MEETING_TEXT2 = "Мы рады, что вы присоединились к нам.";
+END_MEETING_TEXT3 = "Мы находимся в начале пути, и мы";
+END_MEETING_TEXT4 = "Инвестируйте время в тесты и улучшения.";
+END_MEETING_TEXT5 = "Поэтому в ближайшем будущем необходимо убедиться в этом бизнесе";
+END_MEETING_TEXT6 = "В сообщении / вызове эта очередь действительно установлена.";
+END_MEETING_TEXT7 = "Спасибо за ваше понимание, и мы делаем все, чтобы предоставить лучший сервис к вашим услугам.";
+NOTIFICATIONs_LIST = "Список сообщений";
+RECEIVED_ON = "Получено";
+
+
+// Last minute
+LAST_MINUTE_TITLE = "В последнюю минуту";
+NEW_OFFER_BUTTON = "Новое предложение +";
+
+
+// New Offer
+NEW_OFFER_TITLE = "Новое предложение";
+NEW_OFFER_TYPE_OF = "Вид услуги/продукта";
+NEW_OFFER_OFFER_TYPE = "Тип предложения";
+NEW_OFFER_GIFT_PRODUCT = "Подарочный товар";
+NEW_OFFER_OFFER_TEXT = "Текст предложения";
+NEW_OFFER_ADD = "Добавить";
+NEW_OFFER_DISCOUNT = "Скидка";
+NEW_OFFER_ALERT_TYPE_NOT_SELECTED = "Сначала выберите продукт или услугу.";
+NEW_OFFER_DISCOUNT_PERCENT = "Процент скидки";
+NEW_OFFER_ALERT_disc_NOT_SELECTED = "Выберите тип предложения";
+NEW_OFFER_OFFER_TEXT_MISSING = "Заполните текст предложения";
+WAS_CANCELLED = "Отменен";
+
+ORDER_APPOINTMENT = "Заказать очередь";
+RATE_OUR_BUSINESS =  "Оцените компанию";
+SEND_BT = "Отправить";
+COMPLETE_NUMBER_OF_WEEKS = "Пожалуйста, укажите количество недель";
+WEEKS_SAVED = "Настройки календаря успешно сохранены";
+SELECT_HOURS_FOR_DAY = "Пожалуйста, укажите часы работы";
+SELECT_MULTIPLE_SERVICES_IN_APPOINTMENT = "Выберите несколько услун для встречи";
+JUST_ONE_APPOINTMENT = "К сожалению, вы подтверждены этим поставщиком, вы можете записаться на прием и подождать его подтверждения";
+SECOND_ONE_APPOINTMENT = "К сожалению, вы, кажется, не подтверждены этим поставщиком. Ждите его подтверждения.";
+APPOINTMENT_LBL_SHORTNUM = "Назначить встречу ";
+FINISH_BUTTON = "Завершение";
+BTN_NEXT_APPOINTMENT = "Следующая встреча";
+FULL_APPOINTMENT = " Теперь вы можете увидеть встречу в своем календаре";
+NO_DAY_SELECTED = "День не выбран";
+INCORRECT_BREAKS = "Время начала и окончания перерывов должно быть в интервале рабочих часов";
+SUPPLIER_NOT_ALLOW_MULTIPLE_APPOINTMENTS = "Выбранный поставщик не позволяет проводить несколько встреч";
+NUMBER_OF_MAXIMUM_APPOINTMENTS_EQUAL = "Вы достигли максимального количества, разрешенного перевозчиком";
+COMPLETE_REQUIRED_FIELDS = "Вы должны заполнить обязательные поля";
+NO_TIME_FREE_ERROR = "Выбранное время не было заблокировано, в это время могут быть встречи";
+FULL_APPOINTMENT_FAILED = "Некоторые встречи не были назначены";
+WE_ARE_AN_APP = "Мы приложение для планирования вашего любимого бизнеса. \n Чтобы использовать приложение, мы рекомендуем вам утвердить доступ к службам местоположения, календаря и обновления.";
+ZERO_MINUTES_BLOCKED = "Что-то пошло не так, выбранные часы не были заблокированы, пожалуйста, попробуйте еще раз ";
+SOME_MINUTES_BLOCKED = " Часы успешно заблокированы. Обратите внимание, что в диапазоне блокировки есть встречи и что эти часы не были заблокированы ";
+FULL_MINUTES_BLOCKED = " Часы успешно заблокированы ";
+OR = "или";
+CANCEL_APPOINTMENT_TITLE = "Список очередей";
+SEARCHLESS3LETTERS = "Complete at least 2 characters";
+CANCEL_BLOCK_HOURES = "Отключить блокировку часов";
+YOU_CHOOSE_TO_CANCEL_TEXT = "Вы выбрали отмену заблокированных часов";
+AT = "at";
+SUCCES_CANCEL_BLOCK_HOURS = "Заблокированные часы были успешно отменены";
+FAIL_CANCEL_BLOCK_HOURS = "Заблокированные часы не были успешно отменены";
+SEL_DAYS_TO_BLOCK = "Выберите дни, чтобы заблокировать";
+ALL_HOURS_OF_DAY = "Все рабочие часы дня";
+OPEN_SETTINGS = "Open Settings";
+REQUEST_CONTACTS_PERMISION = "This app requires access to Contacts to proceed. Would you like to open settings and grant permission to contacts?";
+REQUEST_CALENDAR_PERMISION = "This app requires access to Calendar to proceed. Would you like to open settings and grant permission to calendar?";
+REQUEST_LOCATION_PERMISION = "This app requires access to device location to proceed. By accessing your location, this app can find you nearby businesses. Location is saved only once, on every app startup. Would you like to open settings and grant permission to use location?";
+REQUEST_PHOTOS_PERMISION = "This app requires access to Photos to proceed. Would you like to open settings and grant permission to photos?";
+THOSE_INFOS_ARE_OF_ANOTHER_CUSTOMER = "This information belongs to another customer and you can not edit it";
+ADDPROVIDERSUCCESMESSAGE = "The business has successfully registered on the system. Please continue and complete the missing details to complete the installation.";
+POP_ALLERT_IN_START_BLOCK_HOURS = "We have received your request, a final confirmation will be sent as soon as possible";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS = "Сообщение о распространении";
+SEND_NOTIFICATION_TO_ALL_CUSTOMERS_TITLE = "Сообщение о распространении";
+EVENT_ERROR_NO_TEXT = "Please type some text";
+INSERT_LESS_TEXT = "Достигнуто максимальное количество символов.";
+MESSAGE_SCHEDULED_FOR_SEND = "Сообщение успешно отправлено в базу данных клиентов";
+FAIL_SEND_MASS_MEESSAGE = "Извините, сообщение не было доставлено. Повторите попытку.";
+ONE_TIME_PROMPT_FOR_MASS_MESSAGE = "Коллективное  сообщение  позволяет отправлять одно сообщение на всю клиентскую базу. Предупреждение будет приниматься только клиентами, использующими приложение BTHERE , с входящим оповещением.";
+CANNOT_USE_OWN_NUMBER = "You can't use your phone number";
+ERROR_PAYMENT = "Please complete your credit card details";
+MESSAGE_NO_PHONE_FOR_USER_FOUND = "It seems an error occurred while reading current user profile; please restart application and retry later.";
+TITLE_TRIAL = "Платёж";
+LINE_ONE_TRIAL = "Добро пожаловать!";
+LINE30DAYS_TRIAL = "We give you 30 day free system experience";
+BTNTRIALYES = "מסכים";
+BTNTRIALNO = "לא מסכים";
+RELOAD = "Try again";
+RETRY = "Retry";
+
+//PROMPT_USER_BUSINESS_STATUS0 = "0795740780 אנא צור עימנו קשר להמשך השתמשות";
+RETRY_BTN = "Try again";
+CONTINUE_BUTTON = "Продолжить";
+MASS_NOTIFICATION_PLACEHOLDER = "Введите текст";
+AT_LEAST_ONE_MANAGER_NEEDED = "You cannot remove manager permission from this user";
+ERROR_SUPPLIER_NOT_PAYED_ONE = "Sorry, temporarily";
+ERROR_SUPPLIER_NOT_PAYED_TWO = "״ is not open for meetings scheduling";
+//new add
+PLEASE_SELECT_THREE_CONTACTS = "You must sync at least three contacts";
+EXPLAIN_SYNC_CONTACTS = "Для использования системы необходимо пригласить не менее 3 клиентов";
+NO_FREE_HOURS_FOUND = "No queues available this month";
+TRIAL_PERIOD_ENDS_TITLE = "Окончание пробного периода";
+TRIAL_PERIOD_ENDS = "Ваш пробный месяц закончился, обслуживание продолжается за дополнительную плату. Вы перейдете на экран «Оплаты»";
+TRIAL_BTN = "Спасибо, понятно";
+TITLE_CUSTOMER_RECOMANDATION = "Не позволяйте предприятиям, которых вы любите, оставаться позади";
+LABEL_CUSTOMER_RECOMANDATION = "Для того, чтобы легко организовать встречи, они также оставили детали бизнеса, а мы сделаем все остальное";
+BTN_CUSTOMER_RECOMANDATION = "Отправить детали";
+
+
+//ViewBusinessProfileVC
+NOT_A_VALID_SUPPLIER = "Please select a valid business";
+REVIEW_YOURSELF_ALERT = "You can't review your own business!";
+ALREADY_ADDED_REVIEW_ALERT = "You have already added a review to this business!";
+ADD_REVIEW_PLEASE = "Please write a review";
+
+//bigCollectionViewCell
+VOTES_LABEL_SINGULAR = "vote";
+VOTES_LABEL_PLURAL = "votes";
+
+REVIEWS_LABEL_SINGULAR = "обзор";
+REVIEWS_LABEL_PLURAL = "Отзывы";
+
+//popUpPaymentVC
+POP_UP_PAYMENT_TITLE = "Error";
+
+//personalDetailsVC
+EXISTING_NUMBER_PERSONAL_DETAILS = "This phone number is already used!";
+REMOVE_PICTURE_PERSONAL_INFO = "remove current picture";
+
+//SupplierSettings
+NUMBER_CHR_RANGE = "The maximum amount of weeks is 104!";
+
+//BussinesServicesTableViewCell
+ALREADY_USED_SERVICE_NAME = "Already used";
+
+//MyCustomers
+INVALID_OCASIONAL_NUMBER = "Invalid phone number";
+
+//FacebookLogin
+LOGIN_WITH_FACEBOOK = "Вход в систему через Facebook";
+
+//RegisterBuisnessProphielVC
+REMOVE_LOGO_BUSINESS_PROFILE = "Remove current logo image";
+REMOVE_COMPANY_PIC = "Remove current picture";
+PROMPT_USER_BUSINESS_STATUS0 = "Dear Business Owner. Time flies when you're having fun and 30 days have already passed . To keep on using the app please contact us at www.bthere-tech.com or by phone 079-5740780";
+TEN_DAYS_LEFT_BEFORE_TRIAL_ENDS = "Please notice that there are 10 days before the app will become disabled. If you wish to continure please contact us at www.bthere-tech.com or by phone 079-5740780";
+No_Rating = "No Rating";
+Please_rate_the_business = "Please rate the business";
+//popUpBusinessProfile
+POP_UP_BUSINESS_TITLE = "Страница профиля бизнеса"; // "Business profile page";
+POP_UP_BODY_TEXT = "Теперь вы можете создать собственное свойство в приложении. \n Вы можете пропустить этот шаг и вернуться к нему \ n \ в любое время из бокового меню приложения."; // "The business profile page gives your customers all the information about your business. On this page you can add your logo images, the business cover photo and your business.information. You can skip filling out the page now and add or edit it at any time through the menu when you are finished signing up";
+INVITE_CUSTOMERS_TITLE = "Пригласите своих клиентов";
+INVITE_CUSTOMERS_BODY_TEXT = "Чтобы начать, пригласите своих клиентов назначить встречу прямо в вашем календаре. Отметьте V в ваших клиентах, и мы позаботимся обо всем остальном - мы отправим каждому клиенту SMS-сообщение с личным приглашением. В конце процесса вы можете найти их в базе данных клиентов.";
+INVITE_CUSTOMERS_BODY_TEXT2 = "Чтобы начать, пригласите своих клиентов назначить встречу прямо в вашем календаре. Отметьте V в ваших клиентах, и мы позаботимся обо всем остальном - мы отправим каждому клиенту SMS-сообщение с личным приглашением. В конце процесса вы можете найти их в базе данных клиентов.";
+
+EXPLAINWORKINGHOURSTITLESCREEN = "Working hours";
+EXPLAINWORKINGHOURSFIRSTLINETEXTBOLD = "How to set the working hours of the business";
+EXPLAINWORKINGHOURSSECONDLINETEXTEXPLAIN = "The business hours that will be set are your business calendar range";
+EXPLAINWORKINGHOURSLINETEXT1 = "1. Нажмите на первый день работы вашего бизнеса";
+EXPLAINWORKINGHOURSLINETEXT2 = "2. Выберите Время начала и Время окончания";
+EXPLAINWORKINGHOURSLINETEXT3 = "3. Отметьте все дни, у которых есть выбранные часы начала и окончания";
+EXPLAINWORKINGHOURSLINETEXT4 = "4. Дни с разными часами - отметьте один из разных дней и измените время в соответствии с временем начала и окончания дня.";
+WELCOMEPOPUPTITLESSCREEN = "Добро пожаловать в Bthere";
+WELCOMEPOPUPLINE1TEXT = "Пришло время настроить текущий календарь и заполнить существующие встречи, определив очередь для клиентов в приложении. \n Нажмите: икноку \"Плюс\" \n на правой стороне экрана -> Новая очередь -> Мои клиенты";
+WELCOMEPOPUPLINE4TEXTBOLD = "Удачи!";
+GETTOKNOWTHESYSTEMSCREENTITLESCREEN = "Познакомиться с Системой";
+GETTOKNOWTHESYSTEMSCREENLINE1TEXT = "Непосредственно перед тем, как вы начнете использовать систему \n \n \n \n, мы рекомендуем вам посмотреть видеоролик с разъяснениями \n \, который даст вам инструменты для разумного и продуктивного использования системы. ";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONPROVIDER = "Я - владелец бизнеса";
+GETTOKNOWTHESYSTEMSCREENTEXTBUTTONCUSTOMER = "Я - клиент";
+AFTERVIDEOPLAYERSCREENTITLE = "Мы были рады узнать!";
+AFTERVIDEOPLAYERSCREENLINELINETEXT1 = "Мы даем вам 30-дневный ознакомительный доступ к системе в подарок \n  Без обязательств";
+AFTERVIDEOPLAYERSCREENLINELINETEXT2 = "В конце пробного периода система стоит 100 шекелей без НДС в месяц.";
+AFTERVIDEOPLAYERSCREENLINELINETEXT3 = "Присоединяйтесь бесплатно к нашему бизнес-сообществу";
+AFTERVIDEOPLAYERSCREENLINELINETEXT4 = "* Вернуться к просмотру видео через меню «Плюс» на экране «Помощь»";
+//BlockingHoursTableViewController
+CONFIRM_SELECTED_ROWS = "подтвердить";
+REMIND_LATER_BTN = "Напомнить позже";
+BTN_CONTINUE_LIST_SERVICES = "Продолжить";
+SELECT_SERVICE_MESSAGE = "No service selected yet";
+//NEW TEXTS  IN CUSTOMER PLUS MENU
+NEW_Short_delay = "задержка";
+NEW_Cancellation = "Отмененный";
+CUSTOMER_New_event = "Событие";
+NEW_My_appointments = "Список моих встреч";
+NEW_S_MESSAGE_TO_CUSTOMERS = "Сообщение о распространении";
+NEW_S_CUSTOMERS_APPROVAL = "Утверждение клиентов";
+NEW_S_EVENT = "Событие";
+NEW_S_CANCEL_BLOCK_HOURS = "Отключить блокировку часов";
+NEW_S_BLOCK_HOURS = "Блокировка часов";
+NEW_S_APPOINTMENT = "Очередь";
+FROM_LABEL = "От";
+UNTIL_LABEL = "до";
+SET_WORKING_HOURS_TITLE = "Рабочее время";
+BTN_SWITCH_OPEN = "open";
+BTN_SWITCH_CLOSE = "close";
+AddHoursButton_TEXT = "Добавить часы";
+SAVEAddHoursButton = "Сохранить";
+EditHoursButton_TEXT = "Edit hours";
+
+//AdjustCalendarAlert
+ADJUST_CALENDAR_MAIN_TITLE = "Настроить ваш календарь";
+ADJUST_CALENDAR_ALERT_TITLE_GOOD = "Обратите внимание, что вы всегда можете вернуться к настройке своего календаря, используя Исключительные встречи";
+ADJUST_CALENDAR_ALERT_TITLE_BAD = "This appointment can not be scheduled because there is an overlapping listing in your calendar";
+DATE_ADJUST = "Дата";
+APPOINTMENT_TIME_ADJUST = "Время встречи";
+SERVICE_ADJUST = "сервиз";
+CUSTOMER_ADJUST = "клиент";
+SAVE_AND_FINISH_ADJUST = "Сохранить и закончить";
+SAVE_AND_ADD_ANOTHER = "Сохранить и добавить еще";
+CONFIRM_ADJUST = "подтвердить";
+SUCCESS_ADJUST = "Success!";
+SELECT_CONTACT = "выберите контакт";
+SELECT_SERVICE_ALERT = "Please select at least one service";
+SELECT_DATE_ALERT = "Please select a date first";
+SELECT_APPOINTMENT_TIME_ALERT = "Please select the appointment time first";
+SELECT_A_CUSTOMER_ALERT = "Please select a customer";
+ADJUST_CALENDAR_BUTTON_TITLE = "Настроить ваш календарь";
+COSTUMERS_TEXT = "Customers";
+ADDING_NEW_CUSTOMERS = " Добавление новых клиентов";
+APPOINTMENT_CANCEL_IMPOSSIBLE = "Нет возможности отменить очередь за 24 часа до встречи";
+DIAL_BUTTON = "Dial";
+EXPLAIN_NO_CANCEL_SETTINGS = "При нажатии,      приложение не позволит отменить встречу в течение 24 часов до назначенного времени. В этом случае клиенты смогут звонить непосредственно в ваш бизнес.";
+OK_GOTIT = "Хорошо, понятно.";
+EXPLAIN_NO_APROVAL_SETTINGS = "При нажатии, новые клиенты не смогут назначить встречу для вашего бизнеса из приложения, пока вы не добавите их в качестве клиентов вашего бизнеса.";
+
+
+OPEN_TODAY = "открыто сегодня";
+CLOSED_TODAY = "закрыто сегодня";
+CLOSED_LABEL = "закрыто";
+LINK_TO_INSTAGRAM = "Ссылка на страницу Инстаграм:";
+LINK_TO_FACEBOOK = "ссылка на страницу Фэйсбук:";
+
+THIS_BUSSINESS_NO_INSTAGRAM = "The business has no Instagram page";
+THIS_BUSINESS_NO_FACEBOOK = "The business has no Facebook page";
+SETUP_SERVICES = "Сервисы";
+ADD_CALENDAR = "Добавить календарь";
+SUCCESS_SETUP_WORKING_HOURS = "Рабочие часы были успешно сохранены";
+SUCCESS_SETUP_SERVICES = "Службы были успешно сохранены";
+
+
+REPORT_LABEL_TEXT = "Сообщить об этом обзоре как обидном и неуместном";
+
+COMPANY_DESCRIPTION_LABEL = "Описание Компании…";
+
+BTN_AVAILABILITY_SEARCH = "Availability";
+
+NO_PICTURE_REGISTRATION_TITLE = "You continued without a picture?";
+
+NO_PICTURE_REGISTRATION_BODY = "The business will be happy to identify you once you have an appointment. We recommend that you add your profile picture in the registration";
+
+OK_THX_BTN = "Ok, Thank you";
+
+//SPRINT 11 BELOW
+ADD_YOUR_EMPLOYEES = "Добавить своих работников";
+IF_YOU_HAVE_EMPLOYEES = "Если у вас есть сотрудники в вашем бизнесе которые предоставляют услуги вашим клиентам, Вы можете добавить их сейчас";
+GO_TO_ADD_EMPLOYEE = "Перейти к добавлению сотрудника";
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_AN_EMPLOYEE_SCREEN = "Вы уверены, что хотите выйти из редактирования работника?";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE = "Один по три календаря сотрудников - 79 шекелей в месяц без НДС за каждый календарь.\nКаждый дополнительный сотрудник - 59 шекелей в месяц без учета НДС за каждый календарь.";
+PAYMENT_EXPLAIN_FOR_EMPLOYEE_AGREE = "Нажав кнопку ОК, вы соглашаетесь с тем, что ознакомились с условиями оплаты после пробного периода.";
+ADD_EMPLOYEE = "Добавить работника";
+FULL_NAME = "Полное имя";
+PHONE_NUMBER = "Номер телефона";
+MANAGER_PERMISSION = "Разрешение менеджера";
+ACCESS_PERMISSIONS = "Разрешение доступа";
+SERVICE_PERMISSIONS = "Разрешения обслуживания";
+CHOOSE_PERMISSION = "Выберите разрешение";
+NEXT_BUTTON = "Дальше ";
+ADD_EMPLOYEE_HOURS = "Добавить рабочие часы работника";
+ARE_HIS_WORKING_HOURS_IDENTICAL_TO_THE_BUSINESS_WORKING_HOURS = "Совпадают ли рабочие часы работника с часами работы бизнеса?";
+CONFIRM_EMPLOYEE_DETAILS = "Подтвердить данные работника";
+YOU_HAVE_EMPLOYEES_IN_YOUR_BUSINESS = "У вас есть работники в вашем бизнесе?";
+WHAT_DO_YOU_GET_WHEN_ADDING_AN_EMPLOYEE = "Что вы получаете при добавлении работника:";
+EXPLAIN_ADD_EPMPLOYE_PRICE = "Менеджер-\n  √  Быстрый доступ ко всем его дневникам и дневникам его сотрудников\n  √  Управление правами сотрудников службы\n  √  Управление разрешениями доступа к бизнес-информации\n  √  Безопасный календарь с кодом для каждого сотрудника\n\nСотрудник-\n  √  Планирование встреч клиентов непосредственно в рабочий календарь сотрудника.\n  √  Персональный цифровой календарь работы на мобильном телефоне.\n  √  Зеркальное отображение с журналом устройства.\n  √  Конфиденциальность бизнеса - у сотрудника нет доступа к настройкам, бизнес-профилю и отчетам.\n\nПлатеж:\nПосле окончания пробного периода в дополнение к каждому календарю будет применяться платеж - без обязательств.\nОдин календарь до трех дополнительных календарей - 79 шекелей в месяц без учета НДС дза каждый календарь.\nЗа каждый дополнительный календарь - 59 шекелей в месяц без НДС.";
+AGREE_THAT_YOU_HAVE_READ_THE_PAYMENT_TERMS_AFTER_THE_TRIAL_PERIOD = "Нажав кнопку ОК, вы соглашаетесь с тем, что ознакомились с условиями оплаты после пробного периода.";
+CONTINUE_TO_ADDING_EMPLOYEES = "Продолжить добавление работников";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_EMPLOYEE = "Вы уверены, что хотите удалить работника?";
+EDIT_EMPLOYEE = "Редактировать работника";
+EDIT_EMPLOYEE_HOURS = "Редактировать рабочие часы работника";
+PHONE_DOES_NOT_EXISTS_IN_DB = "Телефон не существует в базе данных";
+NOT_ELIGIBLE_AS_EMPLOYEE = "Не подходит в качестве сотрудника";
+SUCCESS_UPDATE_EMPLOYES = "Сотрудники были успешно спасены";
+SUCCESS_DELETE_EMPLOYE = "Успешно удален";
+WELCOME_TO_BTHERE_REGISTER = "Добро пожаловать в Bthere";
+TERMS_OF_USE_NEW_TEXT1 = "By clicking the Continue button you agree to receive promotional information and the ";
+TERMS_OF_USE_NEW_TEXT2 = "Условия использования";
+ALREADY_REGISTERED_BTN_TITLE = "Already registered? Click here";
+CHANGE_LOCATION = "Изменить геолокацию";
+ADD_CALENDARS = "Добавить календари";
+ADD_CALENDARS_HOURS = "Добавить рабочие часы в календарь";
+CONFIRM_CALENDARS_DETAILS = "Подтвердите детали календаря";
+EDIT_CALENDARS = "Редактировать календарь";
+EDIT_CALENDARS_HOURS = "Редактировать рабочие часы в календаря";
+ARE_YOU_SURE_YOU_WANT_TO_EXIT_THE_ADDING_A_CALENDAR_SCREEN = "Вы уверены, что хотите выйти из редактирования календаря?";
+ARE_YOU_SURE_YOU_WANT_TO_DELETE_THE_CALENDAR = "Вы уверены, что хотите удалить календарь?";
+ANOTHER_CALENDAR_FOR_YOUR_BUSINESS = "Дополнительный календарь для вашего бизнеса";
+WHAT_IT_MEANS_TO_ADD_A_CALENDAR = "Что значит добавить календарь:";
+EXPLAIN_ADD_CALENDAR_PRICE = "Вы, как владелец бизнеса, предоставляете клиентам услугу планирования встреч для всех услуг, которые предлагает ваш бизнес.\nДобавление дополнительного календаря в бизнес подходит для тех, кто предоставляет в бизнесе дополнительную услугу с фиксированным временем, и услуга должна быть отделена от бизнес-графика, например, владелец бизнеса, у которого также есть солярий.\nКлиенты назначают встречу по имени календаря и выбирают соответствующую услугу при планировании встречи.\n\nПлатеж:\nПосле окончания пробного периода в дополнение к каждому календарю будет применяться платеж - без обязательств.\nОдин календарь до трех дополнительных календарей - 79 шекелей в месяц без учета НДС дза каждый календарь.\nЗа каждый дополнительный календарь - 59 шекелей в месяц без НДС.";
+CONTINUE_TO_ADDING_CALENDAR = "Продолжить добавление календаря";
+CALENDARS_WERE_SAVED_SUCCESSFULLY = "Календари были успешно сохранены";
+ALREADY_REGISTERED_AGAIN = "Already registered to Bthere? Click here";
+NAVIGATION_BUSINESS_TITLE = "Бизнес";
+REGISTER_TITLE_FIRST_SCREEN = "постановка на учет";
+DID_NOT_AGREE_WITH_TERMS_POPUP_EMPLOYEES = "Please accept payment terms";
+PHONE_NOT_EXIST_EMPLOYEE = "This number does not belong to a customer";
+ALREADY_TAKEN_EMPLOYEE = "This employee is hired by another business";
+ACCESS_CODE_TITLE = "Код доступа";
+EXCEPTIONAL_APPOINTMENT = "Исключительное Назначение";
+ENTER_ONLY20_CHARACTERS = "Вы можете ввести до 20 символов";
+COMPLETE_CITY = "Для редактирования адреса заполните поле города";
+NO_REVIEW_INACTIVE_BUSINESS1 = "You can't review ";
+NO_REVIEW_INACTIVE_BUSINESS2 = " because it's inactive";
+NO_EVENT_IN_THE_PAST = "Вы не можете делать события в прошлом!";
+NO_HOURS_IN_THE_PAST = "Проверьте выбранные часы: некоторые из них в прошлом!";

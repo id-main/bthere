@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="AdjustCalendarCell" id="KGk-i7-Jjw" customClass="AdjustCalendarServicesCustomCell" customModule="Bthere" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6A4-BO-hpa">
+                        <rect key="frame" x="16" y="14" width="255" height="16"/>
+                        <fontDescription key="fontDescription" type="system" weight="light" pointSize="13"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="v1.png" translatesAutoresizingMaskIntoConstraints="NO" id="774-50-p5x">
+                        <rect key="frame" x="278" y="4.5" width="35" height="34.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="774-50-p5x" secondAttribute="height" multiplier="1:1" id="b7m-Ym-uwC"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                <constraints>
+                    <constraint firstItem="6A4-BO-hpa" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="J51-AF-2Rs"/>
+                    <constraint firstItem="774-50-p5x" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="KZY-7p-uLA"/>
+                    <constraint firstItem="774-50-p5x" firstAttribute="leading" secondItem="6A4-BO-hpa" secondAttribute="trailing" constant="7" id="WKV-tA-xJa"/>
+                    <constraint firstItem="6A4-BO-hpa" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="maj-G5-SJg"/>
+                    <constraint firstItem="774-50-p5x" firstAttribute="height" secondItem="H2p-sc-9uM" secondAttribute="height" multiplier="0.8" id="nyh-mq-WaH"/>
+                    <constraint firstAttribute="trailing" secondItem="774-50-p5x" secondAttribute="trailing" constant="7" id="tnA-E7-1FR"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="serviceImg" destination="774-50-p5x" id="lRf-ct-kUl"/>
+                <outlet property="serviceName" destination="6A4-BO-hpa" id="QbK-1S-Ign"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="v1.png" width="99" height="100"/>
+    </resources>
+</document>
